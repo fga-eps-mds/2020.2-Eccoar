@@ -18,6 +18,11 @@ assignees: ''
 - [ ] Task 2
 - [ ] Task 3
 
+### Critérios de aceitação
+- [ ] 1
+- [ ] 2
+- [ ] 3
+
 ## Assignees
 A issue deve ser atribuída a pelo menos um colaborador do projeto.
 
