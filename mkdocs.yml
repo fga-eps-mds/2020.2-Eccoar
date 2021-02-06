@@ -3,18 +3,13 @@ site_description: Repositório da disciplina de EPS e MDS
 repo_url: https://github.com/fga-eps-mds/MDS-2020-2-G2
 site_dir: site
 copyright: Copyright &copy; 2019, <a href="https://github.com/fga-eps-mds/MDS-2020-2-G2">EPS-MDS-2020-G2</a>.
-dev_addr: ‘0.0.0.0:8000
+
 theme:
   name: "material"
   logo: assets/img/logo.png
   favicon: favicon.ico
   palette:
     primary: "white"
-
-extra:
-  social:
-    - type: "github"
-      link: "https://github.com/fga-eps-mds/MDS-2020-2-G2"
 
 plugins:
   - search
