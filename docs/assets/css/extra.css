@@ -9,7 +9,7 @@ h1,h2,h3,h4,h5,h6 {
     width: 100%;
 }
 .md-typeset__table table {
-    border-radius: 0 20px !important;
+    border-radius: 20px !important;
 }
 td, th {
     background: white;
