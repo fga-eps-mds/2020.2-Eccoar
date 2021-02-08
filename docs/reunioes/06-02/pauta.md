@@ -1,10 +1,11 @@
-# Reunião do dia 06/02/2020 
+# Reunião do dia 06/02/2021
 
-## Pauta da reunião
+## Histórico de revisão
+|Autor|Mudanças|Data|Versão|
+|--|--|--|--|
+|[Pedro Rodrigues](https://github.com/pedro-prp)|Criação da pauta do dia|05/02/2021|1.0|
 
-|Autor|Data|
-|--|--|
-|[Pedro Rodrigues](https://github.com/pedro-prp)|05/02/2020|
+## Pautas da reunião
 
 1. **Apresentação dos membros**
     - Um momento para os membros de EPS e MDS se conhecerem melhor.

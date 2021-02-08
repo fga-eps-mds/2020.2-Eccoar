@@ -1,4 +1,9 @@
-# Reunião do dia 06/02/2020 
+# Reunião do dia 06/02/2021
+
+## Histórico de revisão
+|Autor|Mudanças|Data|Versão|
+|--|--|--|--|
+|[Pedro Féo](https://github.com/Phe0) && [Saleh Kader](https://github.com/devsalula)|Criação da ata do dia 06|07/02/2021|1.0|
 
 ## Presença na reunião
 
