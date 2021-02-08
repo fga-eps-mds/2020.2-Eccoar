@@ -37,3 +37,5 @@ pages:
       - 07/02:
           - Pauta: "reunioes/07-02/pauta.md"
           - Ata: "reunioes/07-02/ata.md"
+  - Gerência:
+      - Desenvolvimento de temas prévios: "gerencia/desenvolvimento-temas.md"
