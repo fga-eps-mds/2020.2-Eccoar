@@ -90,6 +90,14 @@ h1 {
     color: #636363;
 }
 
+#peddin {
+    opacity: 0;
+}
+
+#peddin:hover {
+    opacity: 1;
+}
+
 .member-photo {
     height: 100%;
     display: block;
