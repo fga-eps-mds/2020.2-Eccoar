@@ -3,7 +3,7 @@
 ## Histórico de revisão
 |Autor|Mudanças|Data|Versão|
 |--|--|--|--|
-|[Pedro Henrique Andrade Féo](https://github.com/Phe0)|08/02/2021|1.0|
+|[Pedro Henrique Andrade Féo](https://github.com/Phe0)|Criação do arquivo|08/02/2021|1.0|
 
 Wiki destinada para o trabalho realizado nas disciplinas de MDS e EPS da Universidade de Brasília no semestre 2020.2.
 
