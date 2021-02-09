@@ -22,3 +22,8 @@ Wiki destinada para o trabalho realizado nas disciplinas de MDS e EPS da Univers
 |190033681|[Luiz Henrique](https://github.com/luiz-herique)|Desenvolvedor|
 |200042327|[Nicolas Chagas](https://github.com/nszchagas)|Desenvolvedor|
 |190020601|[Victor Buendia](https://github.com/Victor-Buendia)|Desenvolvedor|
+
+<p align="center"><b>Grupo 2</b></p>
+<p align="center">Engenharia de Produto de <i>Software</i> (EPS) / Métodos de Desenvolvimento de <i>Software</i> (MDS)<br /><br />
+<a href="https://fga.unb.br" target="_blank"><img width="230"src="https://4.bp.blogspot.com/-0aa6fAFnSnA/VzICtBQgciI/AAAAAAAARn4/SxVsQPFNeE0fxkCPVgMWbhd5qIEAYCMbwCLcB/s1600/unb-gama.png"></a>
+</p>
