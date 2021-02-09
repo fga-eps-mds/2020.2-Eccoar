@@ -29,22 +29,17 @@
 
 1. **Nível de Conhecimento dos MDS em GIT**
     - As ações que a pool do telegram abrangem são:
-        - Sei dar commit
-            - 5 de 6 membros
-        - Sei criar uma branch
-            - 3 de 6 membros
-        - Sei trocar de branch
-            - 4 de 6 membros
-        - Sei fazer rebase
-            - 0 membros
-        - Sei abrir Pull Requests
-            - 3 de 6 membros
-        - Sei atualizar a minha branch(Dar Pull)
-            - 4 de 6 membros
-        - Sei atualizar a branch remota(Dar Push)
-            - 4 de 6 membros
-        - Sei deletar commit
-            - 0 membros
-        - Sei fazer Cherry-Pick
-            - 0 membros
+
+    |Ação|Membros que sabem|
+    |--|--|
+    |Sei dar commit|<progress id="file" value="5" max="6"> 5/6 </progress> 5/6|
+    |Sei criar uma branch|<progress id="file" value="3" max="6"> 3/6 </progress> 3/6|
+    |Sei trocar de branch|<progress id="file" value="4" max="6"> 4/6 </progress> 4/6|
+    |Sei fazer rebase|<progress id="file" value="0" max="6"> 0/6 </progress> 0/6|
+    |Sei abri Pull Requests|<progress id="file" value="3" max="6"> 3/6 </progress> 3/6|
+    |Sei atualizar a minha branch(Dar Pull)|<progress id="file" value="4" max="6"> 4/6 </progress> 4/6|
+    |Sei atualizar a branch remota(Dar Push)|<progress id="file" value="4" max="6"> 4/6 </progress> 4/6|
+    |Sei deletar commit|<progress id="file" value="0" max="6"> 0/6 </progress> 0/6|
+    |Sei fazer Cherry-Pick|<progress id="file" value="0" max="6"> 0/6 </progress> 0/6|
+
     - Levando em consideração o resultado da pool, os EPS decidiram ministrar um dojo de GIT para o grupo de MDS.
