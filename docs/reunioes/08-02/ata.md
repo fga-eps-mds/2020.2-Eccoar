@@ -27,7 +27,7 @@
 
 ## Resultados da reunião
 
-1. **Nível de Conhcimento dos MDS em GIT**
+1. **Nível de Conhecimento dos MDS em GIT**
     - As ações que a pool do telegram abrangem são:
         - Sei dar commit
             - 5 de 6 membros
