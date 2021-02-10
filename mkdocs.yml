@@ -29,6 +29,9 @@ lang:
 pages:
   - Home: "index.html"
   - Introdução: "intro.md"
+  - Metodologia:
+      - Templates:
+          - Sprint Review: "metodologia/templates/review.md"
   - Reuniões:
       - 06/02:
           - Pauta: "reunioes/06-02/pauta.md"
