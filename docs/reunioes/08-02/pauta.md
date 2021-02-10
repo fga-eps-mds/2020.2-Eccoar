@@ -8,4 +8,4 @@
 ## Pautas da reunião
 
 1. **Nível de Conhecimento dos MDS em GIT**
-    - Será feita a coleta por meio de uma pool no telegram de que ações os membros do grupo de MDS sabem realizar no GIT.
+    - Será feita a coleta por meio de uma poll no Telegram de que ações os membros do grupo de MDS sabem realizar no GIT.
