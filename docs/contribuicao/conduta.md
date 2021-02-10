@@ -49,4 +49,5 @@ Comportamento abusivo, de assédio ou de outros tipos pode ser comunicado contat
 Administradores do projeto que não sigam ou não mantenham o Código de Conduta em boa fé podem enfrentar repercussões temporárias ou permanentes determinadas por outros membros da liderança do projeto.
 
 ## Atribuição
+
 Este Código de Conduta é adaptado do **Contributor Covenant**, versão 1.4, disponível em [https://www.contributor-covenant.org/pt-br/version/1/4/code-of-conduct.html](https://www.contributor-covenant.org/pt-br/version/1/4/code-of-conduct.html)
