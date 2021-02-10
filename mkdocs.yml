@@ -29,6 +29,8 @@ lang:
 pages:
   - Home: "index.html"
   - Introdução: "intro.md"
+  - Como contribuir:
+      - Código de Conduta: "contribuicao/conduta.md"
   - Reuniões:
       - 06/02:
           - Pauta: "reunioes/06-02/pauta.md"
