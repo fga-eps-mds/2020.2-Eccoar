@@ -42,4 +42,4 @@
     |Sei deletar commit|<progress id="file" value="0" max="6"> 0/6 </progress> 0/6|
     |Sei fazer Cherry-Pick|<progress id="file" value="0" max="6"> 0/6 </progress> 0/6|
 
-    - Levando em consideração o resultado da pool, os EPS decidiram ministrar um dojo de GIT para o grupo de MDS.
+    - Levando em consideração o resultado da poll, os EPS decidiram ministrar um dojo de GIT para o grupo de MDS.
