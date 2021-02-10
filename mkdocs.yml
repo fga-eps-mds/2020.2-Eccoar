@@ -31,6 +31,7 @@ pages:
   - Introdução: "intro.md"
   - Metodologia:
       - Templates:
+          - Sprint Planning: "metodologia/templates/planning.md"
           - Sprint Review: "metodologia/templates/review.md"
           - Retrospectiva: "metodologia/templates/retrospective.md"
   - Reuniões:

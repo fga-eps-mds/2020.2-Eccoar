@@ -19,13 +19,13 @@ Quadro que mostra quais tarefas planejadas foram concluídas.
 |Tarefa não concluída|--|✘|
 
 ### Burndown
- - Gráfico de Burndown deve ser disponibilizado em formato de imagem. 
+ - Gráfico de Burndown deve ser disponibilizado em formato de imagem.
  - O gráfico será disponibilizado por meio do zenhub.
  - O burndown mostra a quantidade de pontos realizados por tempo durante a sprint.
  - O burndown auxilia o time a cumprir deadlines de forma mais previsível.
 
 ### Velocity
- - Gráfico de Velocity deve ser disponibilizado em formato de imagem. 
+ - Gráfico de Velocity deve ser disponibilizado em formato de imagem.
  - O gráfico será disponibilizado por meio do zenhub.
  - O velocity mostra a média de pontos que a equipe consegue fazer no decorrer de uma sprint.
  - O velocity ajuda o time a visualizar quanto trabalho são capazes de realizar no decorrer de uma sprint através de uma análise histórica, auxiliando o planejamento de sprints futuras.
@@ -42,13 +42,13 @@ Quadro que mostra quais tarefas planejadas foram concluídas.
  - O gráfico de riscos ajuda o time a destacar quais os principais riscos do time, ajudando a tomar decisões para se previnir dos riscos antes que eles ocorram.
 
 ### Cumulative flow
- - Gráfico de Cumulative Flow deve ser disponibilizado em formato de imagem. 
+ - Gráfico de Cumulative Flow deve ser disponibilizado em formato de imagem.
  - O gráfico será disponibilizado por meio do zenhub.
  - O cumulative flow mostra como as tarefas estão se movimentando na pipeline de tarefas ao decorrer do tempo.
  - O cumulative flow ajuda o time a ver quanto trabalho está se acumulando em um determinado período de tempo além de ajudar a destacar etapas no processo que podem ser melhoradas.
 
 ### Cycle time
- - Gráfico de Cycle Time deve ser disponibilizado em formato de imagem. 
+ - Gráfico de Cycle Time deve ser disponibilizado em formato de imagem.
  - O gráfico será disponibilizado por meio do zenhub.
  - O Cycle Time mostra quanto tempo cada tarefa leva do começo ao fim.
  - O gráfico ajuda o time a prever em quanto tempo tarefas futuras serão concluídas.
