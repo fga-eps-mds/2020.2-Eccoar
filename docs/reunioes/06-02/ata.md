@@ -40,7 +40,7 @@
         - Telegram: o telegram possuíra multiplas funções, haverá um canal de avisos, onde informações importantes serão centralizadas, um grupo destinado apenas para as dailies e grupos de interação para fácil acesso aos membros do grupo.
         - GitHub: serão utilizados comentários via Issues e PRs no github para comunicações a respeito de Issues ou implementaćoes de código.
 4. **Data e Horário das Reuniões**
-    - Foi decidido que as reuniões de sprint planning e review serao realizadas aos Sáabados às 9 da manhã.
+    - Foi decidido que as reuniões de sprint planning e review serao realizadas aos Sábados às 9 da manhã.
 5. **Treinamentos e Qualificações**
     - Foi criada uma planilha para rastrear o nível de conhecimento dos membros do grupo.
     - A escala utiliza uma escala de 1 a 5.
