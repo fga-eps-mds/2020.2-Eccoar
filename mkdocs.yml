@@ -34,6 +34,8 @@ pages:
           - Sprint Planning: "metodologia/templates/planning.md"
           - Sprint Review: "metodologia/templates/review.md"
           - Retrospectiva: "metodologia/templates/retrospective.md"
+  - Como contribuir:
+      - Código de Conduta: "contribuicao/conduta.md"
   - Reuniões:
       - 06/02:
           - Pauta: "reunioes/06-02/pauta.md"

@@ -33,29 +33,29 @@
 2. **Dailies**
     - Foi decidio que em primeiro momento as dailies ocorrerão via texto por meio de um grupo no Telegram.
     - Caso seja notado que os membros não estejam lendo ou interragindo a partir das dailies, providências serão tomadas.
-    - As dailies ocorrerão de segunda a sexta as 18:30.
+    - As dailies ocorrerão de segunda à sexta às 18:30.
 3. **Canais de comunicação**
     - Até o momento os canais de comunicação escolhidos são:
         - Discord: será utilizado para realizar reuniões e pareamentos.
-        - Telegram: o telegram possuíra multiplas funções, haverá um canal de avisos, onde informações importantes serão centralizadas, um grupo destinado apenas para as dailies e grupos de interação para fácil acesso aos membros do grupo.
-        - GitHub: serão utilizados comentários via Issues e PRs no github para comunicações a respeito de Issues ou implementaćoes de código.
+        - Telegram: o Telegram possuíra multiplas funções, haverá um canal de avisos, onde informações importantes serão centralizadas, um grupo destinado apenas para as dailies e grupos de interação para fácil acesso aos membros do grupo.
+        - GitHub: serão utilizados comentários via Issues e PRs no github para comunicações a respeito de Issues ou implementações de código.
 4. **Data e Horário das Reuniões**
-    - Foi decidido que as reuniões de sprint planning e review serao realizadas aos Sáabados às 9 da manhã.
+    - Foi decidido que as reuniões de sprint planning e review serao realizadas aos Sábados às 9 da manhã.
 5. **Treinamentos e Qualificações**
     - Foi criada uma planilha para rastrear o nível de conhecimento dos membros do grupo.
-    - A escala utiliza uma escala de 1 a 5.
+    - A escala utilizada varia de 1 a 5.
     - Está disponível [aqui](https://docs.google.com/spreadsheets/d/1Fy8Jx7c16pxeeZH9AWMGx-RSY9LvQYLu_ByCjqJmn-Q/edit?usp=sharing).
 6. **Escolha do tema para o projeto**
-    - Os membros no geral decidiram que gostariam de trabalhar em cima das ODS e não dos dados abertos do governo.
-    - Houve uma votação para decidir quais ODS os membros gostariam de trabalhar. Foi realizada uma votação, em que cada membro tinha o direito de votar até cinco vezes. O resultado foi o seguinte:
+    - Os membros no geral decidiram que gostariam de trabalhar com as ODSs e não os dados abertos do governo.
+    - Houve uma votação para decidir quais ODSs os membros gostariam de trabalhar. Foi realizada uma votação, em que cada membro tinha o direito de votar até cinco vezes. O resultado foi o seguinte:
     ![Votação ODS](../../assets/img/reunioes/06-02/votacaoODS.png)
     - As ODS escolhidas foram:
         - Vida sobre a terra;
         - Consumo e produções responsáveis;
         - Educação de qualidade;
-    - Em seguida cada um dos membros ficou responsável em dar pelo menos uma ideia de projeto para cada uma das ODS escolhidas. Os resultados foram os seguintes:
+    - Em seguida cada um dos membros ficou responsável em dar pelo menos uma ideia de projeto para cada uma das ODSs escolhidas. Os resultados foram os seguintes:
     ![Ideação ODS](../../assets/img/reunioes/06-02/ideacaoODS.png)
-    - Logo em seguida, cada um dos membros receubeu três votos para votas nas ideias de cada uma das ODS. Os resultados foram:
+    - Logo em seguida, cada um dos membros receubeu três votos para votar nas ideias de cada uma das ODS. Os resultados foram:
     ![Votação Ideias](../../assets/img/reunioes/06-02/votacaoIdeias.png)
     - Foram escolhidas três ideias de cada uma das ODS. Foram elas:
         - Vida sobre a terra:
@@ -64,16 +64,16 @@
             - App para adoção de animais perdidos;
         - Consumo e produção responsáveis:
             - App de venda de produtos ou serviços na propria comunidade;
-            - App de metas de consumo, organização de lixo, doações para predios e condominios;
+            - App de metas de consumo, organização de lixo, doações para predios e condomínios;
             - App para monitoramento de consumo pessoal;
         - Educação de qualidade:
             - Aproximar contato entre estudantes de nivel médio e fundamental com pessoas empregadas ou em formação pra incentivar o ensino mais qualificado em escala nacional;
             - App para ajudar na rotina de estudo motivação;
-            - App que ensina a conciliar os estudos c a vida mantendo uma boa saude mental;
-    - Duas ideias da ODS "Educação de Qualidade" se uniram para formar a ideia "App que ensina a conciliar os estudos com a vida mantendo uma boa saúde mental e ajuda na rotina de estudo".
-    - Em seguida, utilizamos uma matriz de Dificuldade de Execução por Impacto Social para nos ajudar a priorizar as ideias. Os resultados forma:
+            - App que ensina a conciliar os estudos com a vida pessoal mantendo uma boa saude mental;
+    - Duas ideias da ODS "Educação de Qualidade" se uniram para formar a ideia "App que ensina a conciliar os estudos com a vida mantendo uma boa saúde mental e ajuda na rotina de estudos".
+    - Em seguida, utilizamos uma matriz de Dificuldade de Execução por Impacto Social para nos ajudar a priorizar as ideias. Os resultados foram:
     ![Matriz de Priorização](../../assets/img/reunioes/06-02/matrizPriorizacao.png)
     - A partir da matriz de priorização foram escolhidas as seguintes ideias:
         1. App para adoção de animais perdidos;
         2. App que troque ações sociais por pontos;
-        3. App que ensina a conciliar os estudos com a vida mantendo uma boa saúde mental e ajuda na rotina de estudo;
+        3. App que ensina a conciliar os estudos com a vida pessoal mantendo uma boa saúde mental e ajuda na rotina de estudo;
