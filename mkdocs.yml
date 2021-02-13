@@ -48,3 +48,9 @@ pages:
       - 08/02:
           - Pauta: "reunioes/08-02/pauta.md"
           - Ata: "reunioes/08-02/ata.md"
+  - Sprints:
+      - Sprint 0:
+          - Review: "sprints/0/review.md"
+          - Retrospectiva: "sprints/0/retrospectiva.md"
+      - Sprint 1:
+          - Planning: "sprints/1/planning.md"
