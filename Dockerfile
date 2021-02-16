@@ -1,5 +1,5 @@
 
-ARG BASE_IMAGE=alpine
+ARG BASE_IMAGE=buster
 FROM python:$BASE_IMAGE
 
 # Set up workspace and install mkdocs and dependencies.
