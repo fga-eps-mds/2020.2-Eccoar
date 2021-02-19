@@ -5,12 +5,15 @@ h1,h2,h3,h4,h5,h6 {
     font-family: 'Palanquin Dark', Roboto;
 }
 
-/* .md-typeset__table {    <- Largura da tabela
-    min-width: 100%;
-} */
+.md-typeset__scrollwrap{
+    display: flex;
+    justify-content: center;
+}
+
 .md-typeset__table table {
     border-radius: 20px !important;
 }
+
 td, th {
     background: white;
 }
@@ -64,7 +67,6 @@ body {
     background: linear-gradient(90deg, #636363, #9c9c9c);
     color: white;
 }
-
 
 .md-typeset table thead th {
     background-color: transparent !important;
