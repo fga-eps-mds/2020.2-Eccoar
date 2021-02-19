@@ -4,6 +4,7 @@
 |Autor|Mudanças|Data|Versão|
 |--|--|--|--|
 |[Pedro Féo](https://github.com/phe0)|Criação do template|10/02/2021|1.0|
+|[Pedro Féo](https://github.com/phe0)|Adicionado Gráfico de Humor|18/02/2021|1.0|
 
 ## Avaliação do Scrum Master
 A avaliação do scrum master é um espaço para que o scrum master possa dissertar sobre os resultados obtidos no decorrer da sprint.
@@ -52,6 +53,13 @@ Quadro que mostra quais tarefas planejadas foram concluídas.
  - O gráfico será disponibilizado por meio do zenhub.
  - O Cycle Time mostra quanto tempo cada tarefa leva do começo ao fim.
  - O gráfico ajuda o time a prever em quanto tempo tarefas futuras serão concluídas.
+
+### Gráfico de Humor
+ - Gráfico de humor será disponibilizado em formato de imagem.
+ - O gráfico será construido no Google Sheets.
+ - O gráfico mostra o humor da equipe com o passar das sprints.
+ - O humor dos membros será coletada por meio de um formulário.
+ - O gráfico ajuda a acompanhar a moral da equipe com o passar do projeto, além de ajudar na identificação de possíveis riscos.
 
 ## Referências
  - HAVENS, Dalia. Metrics-driven engineering leadership: How to elevate the visibility of your distributed team. Netlify, 2020. Disponível em: <https://www.netlify.com/blog/2020/09/22/metrics-driven-engineering-leadership-how-to-elevate-the-visibility-of-your-distributed-team/>. Acesso em 10 de fev. de 2021.
