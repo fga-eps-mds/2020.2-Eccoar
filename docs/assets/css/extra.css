@@ -3,6 +3,7 @@
 
 h1,h2,h3,h4,h5,h6 {
     font-family: 'Palanquin Dark', Roboto;
+    text-align: center;
 }
 
 .md-typeset__scrollwrap{
@@ -14,11 +15,11 @@ h1,h2,h3,h4,h5,h6 {
     border-radius: 20px !important;
 }
 
-td, th {
+th, td {
     background: white;
 }
 
-p, h2 {
+p {
     text-align: justify
 }
 p {
@@ -42,6 +43,10 @@ body {
 .md-header {
     background: linear-gradient(90deg, #636363, #9c9c9c);
     color: white !important;
+}
+
+.md-typeset thead{
+    width: 100%;
 }
 
 .hoverable {
