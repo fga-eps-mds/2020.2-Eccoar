@@ -9,7 +9,7 @@
 
 Durante a elaboração e desenvolvimento de um produto de software, muitos problemas podem ocorrer. Esses problemas abrangem diversos aspectos do produto e do projeto, como a organização da equipe, tecnologias usadas, problemas pessoais, etc.
 
-Tais problemas podem vir a impactar o o resultado final do produto, além de aspectos do projeto como as datas de entrega.
+Tais problemas podem vir a impactar o resultado final do produto, além de aspectos do projeto como as datas de entrega.
 
 Levando em consideração a existência de diversos tipos diferentes de riscos que podem ocorrer, se mostra necessário um método para a identificação e solução dos mesmos.
 
@@ -22,7 +22,7 @@ Para se identificar possíveis riscos, serão usados dois métodos diferentes
  - Pauta de reunião entre a [Retrospectiva da sprint](/metodologia/templates/retrospective/) e o [Planejamento da sprint](/metodologia/templates/planning/) com o intuíto de que todos na equipe, MDS e EPS, possam vir a opinar sobre os possíveis riscos detectados.
  - Utilização de um formulário que será individualmente respondido pelos membros do grupo, MDS e EPS, com o intuíto de captar possíveis problemas e observações que um membro possa não se sentir a vontade para compartilhar com todo o grupo. Tal formulário será utilizado também para captar o [humor do grupo](/metodologia/templates/review/#grafico-de-humor) e suas respostas só serão acessíveis para o grupo de EPS.
 
-### Metricas
+### Métricas
 
 Para se metrificar os riscos do projeto, será utilizado um burndown de riscos, o burndown é responsável por mostrar o quão relevante um risco é ao decorrer das sprints.
 
