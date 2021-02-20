@@ -28,18 +28,7 @@
 
 Ex:
 
-|-|Guilherme Marques|Matheus Blanco| Pedro Féo | Saleh Kader | Arthur Matos|Brian Pina|Gabriel Sabanai| Luiz Henrique|Nicolas Chagas|Victor Buendia|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|**Guilherme Marques**        |-||||||||||
-|**Matheus Blanco**           ||-|||||||||
-|**Pedro Féo**                |||-||||||||
-|**Saleh Kader**              ||||-|||||||
-|**Arthur Matos**             |||||-||||||
-|**Brian Pina**               ||||||-|||||
-|**Gabriel Sabanai**          |||||||-||||
-|**Luiz Henrique**            ||||||||-|||
-|**Nicolas Chagas**           |||||||||-||
-|**Victor Buendia**           ||||||||||-|
+(Inserir tabela modelo)
 
 ## Sprint Backlog
 
