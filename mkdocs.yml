@@ -55,3 +55,5 @@ pages:
           - Retrospectiva: "sprints/0/retrospectiva.md"
       - Sprint 1:
           - Planning: "sprints/1/planning.md"
+          - Review: "sprints/1/review.md"
+          - Retrospectiva: "sprints/1/retrospectiva.md"
