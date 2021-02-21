@@ -3,7 +3,7 @@
 ## Histórico de revisão
 |Autor|Mudanças|Data|Versão|
 |--|--|--|--|
-|[Pedro Féo](https://github.com/phe0)|Craição do documento|13/02/2021|1.0|
+|[Pedro Féo](https://github.com/phe0)|Criação do documento|13/02/2021|1.0|
 
 ## Avaliação do Scrum Master
 Durante a retrospectiva foi destacado que que os membros no geral gostaram de ver que o grupo teve uma boa interação entre si.
