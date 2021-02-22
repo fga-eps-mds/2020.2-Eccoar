@@ -59,5 +59,10 @@ pages:
           - Planning: "sprints/1/planning.md"
           - Review: "sprints/1/review.md"
           - Retrospectiva: "sprints/1/retrospectiva.md"
+<<<<<<< HEAD
       - Sprint 2:
           - Planning: "sprints/2/planning.md"
+=======
+  - Produto:
+      - Documento de Visão: "produto/documento-visao.md"
+>>>>>>> ccfc0d1 (Add first vision document topics)
