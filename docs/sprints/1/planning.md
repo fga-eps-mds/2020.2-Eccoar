@@ -17,21 +17,16 @@ As duplas para essa sprint foram escolhidas com base em alguns pontos de atenç�
 - Duas duplas, uma de MDS e uma de EPS formarão um quarteto para poderem trabalhar mais na parte da problemática do tema;
 - Todos os membros irão trabalhar em uma issue específica de ideação do produto;
 
-Ex:
+|Pareamento|Membros|
+|-|-|
+|1|Matheus Blanco, Saleh Kader, Gabriel Sabanai e Luiz Henrique|
+|2|Nicolas Chagas e Arthur Matos|
+|3|Victor Buendia e Brian Pina|
 
-|-|Guilherme Marques|Matheus Blanco| Pedro Féo | Saleh Kader | Arthur Matos|Brian Pina|Gabriel Sabanai| Luiz Henrique|Nicolas Chagas|Victor Buendia|
-|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
-|**Guilherme Marques**        |-||||||||||
-|**Matheus Blanco**           ||-||X|||X|X|||
-|**Pedro Féo**                |||-||||||||
-|**Saleh Kader**              ||X||-|||X|X|||
-|**Arthur Matos**             |||||-||||||
-|**Brian Pina**               ||||||-|||||
-|**Gabriel Sabanai**          ||X||X|||-|X|||
-|**Luiz Henrique**            ||X||X|||X|-|||
-|**Nicolas Chagas**           |||||X||||-||
-|**Victor Buendia**           ||||||X||||-|
-
+|Individuais|
+|-|
+|Pedro Féo|
+|Guilherme Marques|
 ## Sprint Backlog
 
 |Issue|Pontos|Responsáveis|

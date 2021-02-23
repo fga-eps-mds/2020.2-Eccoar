@@ -28,7 +28,15 @@
 
 Ex:
 
-(Inserir tabela modelo)
+|Pareamento|Membros|
+|-|-|
+|1|Luiz Henrique e Guilherme|
+|2|Arthur Matos, Gabriel Sabanai e Saleh Kader|
+|3|Brian Pina e Matheus Blanco|
+
+|Individuais|
+|-|
+|Nicolas Chagas|
 
 ## Sprint Backlog
 
