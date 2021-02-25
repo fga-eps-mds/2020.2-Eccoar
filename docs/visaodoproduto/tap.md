@@ -25,7 +25,7 @@ Dessa maneira, o nosso sistema, chamado **ComUnidas** busca estabelecer uma form
 O objetivo do aplicativo **ComUnidas** é oferecer um sistema para regiões comunitárias a fim de engajá-la e facilitar na denúncia de problemas públicos com agente responsável sendo o governo. Assim, objetiva-se por *aumentar a visibilidade de problemáticas governamentais que afligem uma população local* com o intuito de catalisar a resolução destas, alertando o Estado diretamente, para melhorar a qualidade de vida dos cidadãos.
 
 ## Produto do Projeto
-A proposta do projeto é de criar uma ferramenta na qual o usuário precise apenas fazer uma denúncia ou votar em denúncias já realizadas para que o sistema se encarregue de extrair as informações automaticamente e de gerar um relatório que é enviado para o Ministério Público do Distrito Federal e Territórios (MPDFT). 
+A proposta do projeto é de criar uma ferramenta na qual o usuário precise apenas fazer uma denúncia ou votar em denúncias já realizadas para que o sistema se encarregue de extrair as informações automaticamente e de gerar um relatório que é enviado para o órgão responsável.
 
 O sistema também deverá armazenar essas denúncias para que o usuário possa realizar consultas nas denúncias comunitárias, votar em denúncias existentes, ver o andamento de resolução delas a fim de melhorar a qualidade de vida da comunidade.
 
