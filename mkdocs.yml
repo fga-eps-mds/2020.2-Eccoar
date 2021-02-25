@@ -35,6 +35,8 @@ pages:
           - Sprint Review: "metodologia/templates/review.md"
           - Retrospectiva: "metodologia/templates/retrospective.md"
       - Gerenciamento de Riscos: "metodologia/gerenciaRisco.md"
+      - Requisitos:
+          - Requisitos do questionário: "requisitos/requisitosQuestionario.md"
   - Como contribuir:
       - Como Contribuir?: "contribuicao/contribuicao.md"
       - Código de Conduta: "contribuicao/conduta.md"
