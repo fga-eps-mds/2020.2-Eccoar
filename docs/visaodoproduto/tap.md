@@ -1,10 +1,11 @@
 # Termo de Abertura do Projeto
 ## Histórico de Revisão
-|Data|Versão|Descrição|Autor|
+|Autor|Mudanças|Data|Versão|
 |--|--|--|--|
-|23/02/21|0.1|Criação do documento; Adição de introdução, descrição do produto, objetivo do produto, e stakeholders.|Victor Buendia|
-|24/02/21|0.2|Criação da justificativa, produto do projeto, requisitos de alto nível, restrições do projeto, cronograma e marcos, e público alvo.|Victor Buendia|
-|25/02/21|0.3|Criação dos riscos iniciais, custos estimados e referências|Victor Buendia|
+|[Victor Buendia](https://github.com/Victor-Buendia)|Criação do documento; Adição de introdução, descrição do produto, objetivo do produto, e stakeholders.|23/02/21|0.1|
+|[Victor Buendia](https://github.com/Victor-Buendia)|Criação da justificativa, produto do projeto, requisitos de alto nível, restrições do projeto, cronograma e marcos, e público alvo.|24/02/21|0.2|
+|[Victor Buendia](https://github.com/Victor-Buendia)|Criação dos riscos iniciais, custos estimados e referências|25/02/21|0.3|
+|[Victor Buendia](https://github.com/Victor-Buendia)|Implementação de requisitos de alto nível, detalhamento dos riscos e ajustes gramaticais ao longo do texto|26/02/2021|0.4|
 
 ## Introdução
 Este documento visa formalizar o início do projeto, agrupando todas as informações necessárias para a execução das atividades envolvidas.
@@ -19,10 +20,10 @@ Com isso em mente, a articulação dos cidadãos torna-se fundamental para repor
 
 Assim, por conta desse desafio, hoje tem-se visto um descaso e negligência por parte do poder público em resolver problemáticas das comunidades urbanas e rurais. Isso deve-se, em parte, pela falta de denúncia da população e, também, pela demora do governo em atuar nesses problemas.
 
-Dessa maneira, o nosso sistema, chamado **ComUnidas** busca estabelecer uma forma de facilitar a reportagem de problemas da comunidade do usuário por meio de uma ponte automatizada entre o governo público. Além disso, o sistema tem por finalidade agrupar as denúncias da comunidade dentro do aplicativo e o seu respectivo andamento de solução. 
+Dessa maneira, o nosso sistema, chamado **ComUnidas** busca estabelecer uma forma de facilitar a reporte de problemas da comunidade do usuário por meio de uma ponte automatizada entre o governo público. Além disso, o sistema tem por finalidade agrupar as denúncias da comunidade dentro do aplicativo e o seu respectivo andamento de solução. 
 
 ## Objetivo do Projeto
-O objetivo do aplicativo **ComUnidas** é oferecer um sistema para regiões comunitárias a fim de engajá-la e facilitar na denúncia de problemas públicos com agente responsável sendo o governo. Assim, objetiva-se por *aumentar a visibilidade de problemáticas governamentais que afligem uma população local* com o intuito de catalisar a resolução destas, alertando o Estado diretamente, para melhorar a qualidade de vida dos cidadãos.
+O objetivo do aplicativo **ComUnidas** é oferecer um sistema para regiões comunitárias a fim de engajá-la e facilitar na denúncia de problemas públicos com agente responsável sendo o governo. Assim, objetiva-se por *aumentar a visibilidade de problemáticas governamentais que afligem uma população local* com o intuito de catalisar a resolução destas, alertando as instituições responsáveis, para melhorar a qualidade de vida dos cidadãos.
 
 ## Produto do Projeto
 A proposta do projeto é de criar uma ferramenta na qual o usuário precise apenas fazer uma denúncia ou votar em denúncias já realizadas para que o sistema se encarregue de extrair as informações automaticamente e de gerar um relatório que é enviado para o órgão responsável.
@@ -30,7 +31,14 @@ A proposta do projeto é de criar uma ferramenta na qual o usuário precise apen
 O sistema também deverá armazenar essas denúncias para que o usuário possa realizar consultas nas denúncias comunitárias, votar em denúncias existentes, ver o andamento de resolução delas a fim de melhorar a qualidade de vida da comunidade.
 
 ## Requisitos de alto nível
-Ainda não há dados a respeito.
+Os requisitos de alto nível são funcionalidades escritas em linguagem natural ou ainda em forma de desenhos ou casos de uso, qualquer técnica que facilite o entendimento. Para o projeto em questão, tem-se os principais requisitos de alto nível:
+- O usuário será capaz de criar uma conta, atualizá-la e deletá-la
+- O usuário será capaz de criar, ler, atualizar e deletar denúncias
+- O sistema permitirá votos em denúncias já existentes para aumentar sua relevância
+- A aplicação enviará para o órgão responável um relatório das denúncias mais relevantes (com mais votos)
+- O usuário poderá ver um mapa com as denúncias
+- O sistema permitirá o comentário dos usuários em denúncias criadas por eles e outros
+- A aplicação fechará as denúncias quando resolvidas pelo Estado
 
 ## Restrições do projeto
 As restrições do presente projeto são:
@@ -44,23 +52,69 @@ Durante a fase de iniciação do projeto, riscos foram levantados e serão rastr
 
 ### Riscos internos
 - Indefinição de escopo
+
+A indefinição de escopo é um risco que pode afligir a equipe na hora da execução, por causar ambiguidade naquilo que deve ser construído no que tangue à aplicação proposta.
+
 - Incertezas com relação ao tema do projeto
+
+Há algumas indeterminações no projeto que podem assolar o desenvolvimento dele, como qual instituição pública de cada região é a real responsável por determinado tipo de problema para ser contactada, como iremos contactá-la, dentre outros aspectos da proposta do produto.
+
 - Membro faltante nas reuniões semanais
+
+Um risco inerente à equipe diz respeito à ausência de integrantes do time em momentos síncronos de encontro virtual, uma vez que isso pode prejudicar o alinhamento pleno entre todos, dificultando o andamento fluido da execução das sprints.
+
 - Divergência de horários dos membros
+
+A pouca convergência de horários em comum dos membros é um risco que tensionará os colaboradores a buscarem a máxima performance de momentos síncronos, além de manter momentos assíncronos paulatinos ao decorrer do projeto. Esse desafio pode ocasionar atrasos dentro do projeto.
+
 - Falta de integração entre a equipe
+
+A pouca integração entre os membros do projeto pode diminui o nível de engajamento e, consequentemente, produtividade na hora de realizar as entregas no processo de desenvolvimento.
+
 - Baixa produtividade dos integrantes da equipe
+
+O cenário de baixa produtividade do time pode ocasionar atrasos nas iterações do projeto, além de interferir na qualidade das entregas dos membros.
+
 - Dificuldade com tecnologias escolhidas
+
+Um desafio eminente é a dificuldade com as tecnologias escolhidas, uma vez que parte do time de desenvolvedores (MDS) terá seu primeiro contato com elas na construção deste produto. Isso exigirá um alto grau de colaboração entre o time, especialmente no que tange ao auxílio dos membros gestores do projeto (EPS).
+
 - Requisitos com alto nível de complexidade
+
+A construção de *features* de alto nível de complexidade pode causar desgaste nos membros e possíveis atrasos caso o domínio das tecnologias e engajamento no projeto não esteja em níveis adequados.
+
 - Falta de tempo de integrantes da equipe
+
+Observando a realidade dos integrantes para além da participação na construção desta aplicação, a maior parte possui uma carga de trabalho e estudos elevada, o que representa um risco para a execução do desenvolvimento do projeto. Isso porque exigirá um certo nível de organização e priorização da iniciativa para seu andamento fluido.
+
 - Problemas com ambiente de desenvolvimento
+
+O custo de aprendizado do uso dos ambientes de desenvolvimentos requeridos para o projeto e a resolução de problemas dentro dele podem causar atrasos nas entregas e desgaste do time.
+
 - Falhas de comunicação
+
+A comunicação ineficiente sobre prazos, expectativas das entregas e trabalho de cada um dos integrantes da equipe pode causar baixos padrões de entrega, refletidos em um constante retrabalho. Além disso, outra preocupação é o *delay* desnecessário em atividades pontuais que precisam da contribuição dos participantes a fim de continuar o progresso do projeto.
 
 ### Riscos externos
 - Pouca adesão ao uso do produto criado
+
+O desconhecimento da plataforma, sua usabilidade e efetividade são fatores que influenciam diretamente no risco de tê-lo inutilizado pelo público alvo definido no processo de *Lean Inception*.
+
 - Não garantia da resposta do governo às denúncias
+
+A máquina do governo, por ter variabilidades regionais e estruturas robustas e, por vezes, lentas, podem ocasionar na não resposta do governo às denúncias reportadas na aplicação.
+
 - Rejeição pelos órgãos públicos por inconformidade do relatório
+
+Pelo teor formal e regulamentado dos órgãos públicos, um risco existente é a rejeição dos relatórios feitos pelo produto e enviados para a entidade responável por inconformidade do documento com as normas exigidas para a validação das denúncias.
+
 - Enviar relatórios para órgãos não responsáveis pela denúncia em questão
+
+Tendo em vista que o público alvo do produto são comunidades regionais, uma ameaça possível é a da aplicação não encaminhar os relatórios de denúncias para as instituições devidamente responsáveis pela resolução dos problemas referidos.
+
 - Usabilidade baixa e burocratização da aplicação
+
+A pouca intuitividade da aplicação e o seu intermédio com o governo pode representar para o usuário uma usabilidade baixa e alta burocratização do processo de denúncias de problemas públicos caso esses dois aspectos não sejam trabalhados bem dentro da proposta do produto.
 
 O Scrum Master será o responsável por monitorar os riscos internos, e facilitar a adoção de medidas que mitiguem esses riscos, assim como o Product Owner será responsável por gerenciar os riscos externos. O controle é feito através das definições previstas na seção Gerenciamento de Riscos que pode ser encontrada [aqui](../metodologia/gerenciaRisco.md).
 
