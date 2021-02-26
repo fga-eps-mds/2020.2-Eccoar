@@ -11,7 +11,7 @@
 Este documento visa formalizar o início do projeto, agrupando todas as informações necessárias para a execução das atividades envolvidas.
 
 ## Descrição do Projeto
-O **ComUnidas** é um sistema para moradores de comunidades públicas reportarem problemas em regiões próximas à sua geolocalização a fim de facilitar a comunicação das demandas populacionais com órgãos públicos responsáveis.
+O **PRODUTO** é um sistema para moradores de comunidades públicas reportarem problemas em regiões próximas à sua geolocalização a fim de facilitar a comunicação das demandas populacionais com órgãos públicos responsáveis.
 
 ## Justificativa
 Tendo em vista que o Brasil é um país de tamanho geográfico continental, a ocupação urbana e rural do território nacional trouxe um desafio para o Governo Federal: realizar a manutenção e expansão desses espaços.
@@ -20,10 +20,10 @@ Com isso em mente, a articulação dos cidadãos torna-se fundamental para repor
 
 Assim, por conta desse desafio, hoje tem-se visto um descaso e negligência por parte do poder público em resolver problemáticas das comunidades urbanas e rurais. Isso deve-se, em parte, pela falta de denúncia da população e, também, pela demora do governo em atuar nesses problemas.
 
-Dessa maneira, o nosso sistema, chamado **ComUnidas** busca estabelecer uma forma de facilitar a reporte de problemas da comunidade do usuário por meio de uma ponte automatizada entre o governo público. Além disso, o sistema tem por finalidade agrupar as denúncias da comunidade dentro do aplicativo e o seu respectivo andamento de solução. 
+Dessa maneira, o nosso sistema, chamado **PRODUTO** busca estabelecer uma forma de facilitar a reporte de problemas da comunidade do usuário por meio de uma ponte automatizada entre o governo público. Além disso, o sistema tem por finalidade agrupar as denúncias da comunidade dentro do aplicativo e o seu respectivo andamento de solução. 
 
 ## Objetivo do Projeto
-O objetivo do aplicativo **ComUnidas** é oferecer um sistema para regiões comunitárias a fim de engajá-la e facilitar na denúncia de problemas públicos com agente responsável sendo o governo. Assim, objetiva-se por *aumentar a visibilidade de problemáticas governamentais que afligem uma população local* com o intuito de catalisar a resolução destas, alertando as instituições responsáveis, para melhorar a qualidade de vida dos cidadãos.
+O objetivo do aplicativo **PRODUTO** é oferecer um sistema para regiões comunitárias a fim de engajá-la e facilitar na denúncia de problemas públicos com agente responsável sendo o governo. Assim, objetiva-se por *aumentar a visibilidade de problemáticas governamentais que afligem uma população local* com o intuito de catalisar a resolução destas, alertando as instituições responsáveis, para melhorar a qualidade de vida dos cidadãos.
 
 ## Produto do Projeto
 A proposta do projeto é de criar uma ferramenta na qual o usuário precise apenas fazer uma denúncia ou votar em denúncias já realizadas para que o sistema se encarregue de extrair as informações automaticamente e de gerar um relatório que é enviado para o órgão responsável.
