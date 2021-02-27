@@ -1,5 +1,10 @@
 ﻿# Requisitos elicitados referentes ao questionário 
 
+## Histórico de revisão
+|Autor|Mudanças|Data|Versão|
+|--|--|--|--|
+|[Nicolas Chagas](https://github.com/nszchagas)|Criação do documento|25/02/2021|0.1|
+
 ## Introdução
 
 O questionário de viabilidade foi aplicado pela equipe e com base nas perguntas e respostas recebidas foram elencadas os requisitos abaixo. Os requisitos foram priorizados seguindo o método MosCoW.
@@ -21,4 +26,3 @@ O questionário de viabilidade foi aplicado pela equipe e com base nas perguntas
 | Q11    | A aplicação deverá fazer a comunicação com o Estado, enviando as denúncias pelos meios definidos por cada órgão público (e-mail ou telefonemas).                                   | Must       | Pergunta 8.1    |
 | Q12    | A aplicação deverá mostrar o status das denúncias (ex: encaminhadas ao estado, respondidas pelo estado e resolvidas pelo estado/moradores) com a data de hora de cada atualização. | Must       | Pergunta 8.1    |
 | Q13    | A aplicação poderá conter recursos de acessibilidade para usuários cegos e surdos.   | Could | Pergunta 8.1
-                        
