@@ -36,7 +36,7 @@ pages:
           - Retrospectiva: "metodologia/templates/retrospective.md"
       - Gerenciamento de Riscos: "metodologia/gerenciaRisco.md"
   - Visão do produto:
-      - Termo de Abertura do Projeto: "visaodoproduto/tap.md"
+      - Termo de Abertura do Projeto: "produto/tap.md"
   - Como contribuir:
       - Como Contribuir?: "contribuicao/contribuicao.md"
       - Código de Conduta: "contribuicao/conduta.md"

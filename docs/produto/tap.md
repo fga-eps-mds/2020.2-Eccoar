@@ -20,7 +20,7 @@ Com isso em mente, a articulação dos cidadãos torna-se fundamental para repor
 
 Assim, por conta desse desafio, hoje tem-se visto um descaso e negligência por parte do poder público em resolver problemáticas das comunidades urbanas e rurais. Isso deve-se, em parte, pela falta de denúncia da população e, também, pela demora do governo em atuar nesses problemas.
 
-Dessa maneira, o nosso sistema, chamado **PRODUTO** busca estabelecer uma forma de facilitar a reporte de problemas da comunidade do usuário por meio de uma ponte automatizada entre o governo público. Além disso, o sistema tem por finalidade agrupar as denúncias da comunidade dentro do aplicativo e o seu respectivo andamento de solução. 
+Dessa maneira, o nosso sistema, chamado **PRODUTO** busca estabelecer uma forma de facilitar o reporte de problemas da comunidade do usuário por meio de uma ponte automatizada entre o governo público. Além disso, o sistema tem por finalidade agrupar as denúncias da comunidade dentro do aplicativo e o seu respectivo andamento de solução. 
 
 ## Objetivo do Projeto
 O objetivo do aplicativo **PRODUTO** é oferecer um sistema para regiões comunitárias a fim de engajá-la e facilitar na denúncia de problemas públicos com agente responsável sendo o governo. Assim, objetiva-se por *aumentar a visibilidade de problemáticas governamentais que afligem uma população local* com o intuito de catalisar a resolução destas, alertando as instituições responsáveis, para melhorar a qualidade de vida dos cidadãos.
@@ -32,6 +32,7 @@ O sistema também deverá armazenar essas denúncias para que o usuário possa r
 
 ## Requisitos de alto nível
 Os requisitos de alto nível são funcionalidades escritas em linguagem natural ou ainda em forma de desenhos ou casos de uso, qualquer técnica que facilite o entendimento. Para o projeto em questão, tem-se os principais requisitos de alto nível:
+
 - O usuário será capaz de criar uma conta, atualizá-la e deletá-la
 - O usuário será capaz de criar, ler, atualizar e deletar denúncias
 - O sistema permitirá votos em denúncias já existentes para aumentar sua relevância
