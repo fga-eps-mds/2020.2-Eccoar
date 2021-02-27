@@ -62,3 +62,5 @@ pages:
   - Produto:
       - Documento de Visão: "produto/documento-visao.md"
       - Termo de Abertura do Projeto: "produto/tap.md"
+      - Requisitos:
+          - Requisitos questionário: "produto/requisitos/requisitosQuestionario.md"
