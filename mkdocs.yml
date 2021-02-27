@@ -2,7 +2,7 @@ site_name: EPS-MDS-2020-G2
 site_description: Repositório da disciplina de EPS e MDS
 repo_url: https://github.com/fga-eps-mds/EPS-2020-2-G2
 site_dir: site
-copyright: Copyright &copy; 2019, <a href="https://github.com/fga-eps-mds/EPS-2020-2-G2">EPS-MDS-2020-G2</a>.
+copyright: Copyright &copy; 2021, <a href="https://github.com/fga-eps-mds/EPS-2020-2-G2">EPS-MDS-2020-G2</a>.
 
 theme:
   name: "material"
@@ -35,6 +35,8 @@ pages:
           - Sprint Review: "metodologia/templates/review.md"
           - Retrospectiva: "metodologia/templates/retrospective.md"
       - Gerenciamento de Riscos: "metodologia/gerenciaRisco.md"
+  - Visão do produto:
+      - Termo de Abertura do Projeto: "produto/tap.md"
   - Como contribuir:
       - Como Contribuir?: "contribuicao/contribuicao.md"
       - Código de Conduta: "contribuicao/conduta.md"
