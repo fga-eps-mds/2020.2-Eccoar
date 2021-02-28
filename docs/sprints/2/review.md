@@ -9,7 +9,7 @@
 
  - O Burndown continua sem ser o idela, porém nessa sprint conseguimos ver que o problema talvez não seja a falta de trabalho no começo da sprint, pois atividades de poucos pontos foram fechadas nesse período. Isso indica que o time como um todo está priorizando realizar atividades menores primeiro.
  - Tinhamos planejado uma sprint com menos pontos, porém o time continuou a relatar falta de organização pessoal e tempo para realizar as atividades.
- - O nível de conhecimento do grupo está aumentando lentamente, os EPS estão estudando mas sobre seus papeís e os MDS estão aprendendo ferramentas novas no decorrer das sprints, estão também relatando estar ficando mais confiantes com a parte técnica.
+ - O nível de conhecimento do grupo está aumentando lentamente, os EPS estão estudando mais sobre seus papeís e os MDS estão aprendendo ferramentas novas no decorrer das sprints, estão também relatando estar ficando mais confiantes com a parte técnica.
  - Todos os riscos relatados anteriormente foram anulados ou diminuíram bastante, porém dois novos riscos apareceram. Um dos membros irá viajar para a casa da família durante a sprint, podendo não conseguir trabalhar muito na disciplina. Outro risco é a dependência de decisões arquiteturais para se iniciar a implementação do projeto.
  - Pelo cycle time, é possível ver que o tempo médio de conclusão das issues diminuiu bastante, isso mostra que o time está criando o hábito de revisar atividades mais frequentemente.
  - A sprint foi a que mostrou melhor humor dos membros até agora, muios ficaram animados após a conversa com o professor Hilmer, além de estarem animados por estar chegando cada vez mais perto de mexer com código.
