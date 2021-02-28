@@ -45,10 +45,10 @@ Ex:
 
 |Issue|Pontos|Responsáveis|
 |--|--|--|
-|[Issue](link)|3|Saleh e Brian|
-|[Issue](link)|5|Féo e Buendia|
-|[Issue](link)|8|XX e XX|
-|[Issue](link)|1|YY e YY|
+|Issue|3|Saleh e Brian|
+|Issue|5|Féo e Buendia|
+|Issue|8|XX e XX|
+|Issue|1|YY e YY|
 
 ## Papéis
 

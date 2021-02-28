@@ -19,8 +19,8 @@ Levando em consideração a existência de diversos tipos diferentes de risco
 
 Para se identificar possíveis riscos, serão usados dois métodos diferentes, sendo eles:
 
- - Pauta de reunião entre a [Retrospectiva da sprint](/metodologia/templates/retrospective/) e o [Planejamento da sprint](/metodologia/templates/planning/) com o intuíto de que todos na equipe, MDS e EPS, possam vir a opinar sobre os possíveis riscos detectados.
- - Utilização de um formulário que será individualmente respondido pelos membros do grupo, MDS e EPS, com o intuíto de captar possíveis problemas e observações que um membro possa não se sentir a vontade para compartilhar com todo o grupo. Tal formulário será utilizado também para captar o [humor do grupo](/metodologia/templates/review/#grafico-de-humor) e suas respostas só serão acessíveis para o grupo de EPS.
+ - Pauta de reunião entre a [Retrospectiva da sprint](../templates/retrospective) e o [Planejamento da sprint](../templates/planning) com o intuíto de que todos na equipe, MDS e EPS, possam vir a opinar sobre os possíveis riscos detectados.
+ - Utilização de um formulário que será individualmente respondido pelos membros do grupo, MDS e EPS, com o intuíto de captar possíveis problemas e observações que um membro possa não se sentir a vontade para compartilhar com todo o grupo. Tal formulário será utilizado também para captar o [humor do grupo](../templates/review#grafico-de-humor) e suas respostas só serão acessíveis para o grupo de EPS.
 
 ### Métricas
 
