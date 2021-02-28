@@ -66,3 +66,4 @@ pages:
       - Termo de Abertura do Projeto: "produto/tap.md"
       - Requisitos:
           - Requisitos questionário: "produto/requisitos/requisitosQuestionario.md"
+          - Requisitos benchmarking: "produto/requisitos/benchmarking.md"

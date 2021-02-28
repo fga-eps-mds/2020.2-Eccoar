@@ -5,7 +5,7 @@
 |Autor|Mudanças|Data|Versão|
 |--|--|--|--|
 |[Luiz Henrique](luiz-herique)|Criação do documento|25/02/2021|0.1|
-|Guilherme Marques| Adição de requisitos/correção do rastro | 26/02/2021 | 0.2 |
+|[Guilherme Marques](https://github.com/guilhesme23)| Adição de requisitos/correção do rastro | 26/02/2021 | 0.2 |
 
 ## Requisitos Benchmarking
 
