@@ -12,10 +12,9 @@ Neste pull request se realizou:
 - [ ] Indicar os membros da equipe que contribuíram com as modificações realizadas (Assignees).
 - [ ] Adicionar as labels referentes ao pull request, de forma similar às da issue correspondente (Labels).
 - [ ] Adicionar a sprint correspondente à execução das modificações (Milestone).
-- [ ] Após a criação do pull request, conectar ele à sua issue correspondente através da interface do Github (Issue correspondente). 
+- [ ] Conectar o PR à sua issue correspondente através da interface do Github (Connect Issue). 
 - [ ] Indicar no título do pull request o número e o nome da issue a qual ele se refere.
-- [ ] Escrever o título da pull request no formato correto, conforme as referências abaixo: 
-
+- [ ] Escrever o título do pull request no formato correto, conforme as referências abaixo: 
 
 O pull request deve indicar em seu título o número e o nome da issue ao qual issue se refere, em algum dos formatos abaixo:
 * Solve #X IssueName (Caso Padrão)
