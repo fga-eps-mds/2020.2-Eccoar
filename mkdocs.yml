@@ -2,7 +2,7 @@ site_name: EPS-MDS-2020-G2
 site_description: Repositório da disciplina de EPS e MDS
 repo_url: https://github.com/fga-eps-mds/EPS-2020-2-G2
 site_dir: site
-copyright: Copyright &copy; 2019, <a href="https://github.com/fga-eps-mds/EPS-2020-2-G2">EPS-MDS-2020-G2</a>.
+copyright: Copyright &copy; 2021, <a href="https://github.com/fga-eps-mds/EPS-2020-2-G2">EPS-MDS-2020-G2</a>.
 
 theme:
   name: "material"
@@ -59,3 +59,13 @@ pages:
           - Retrospectiva: "sprints/1/retrospectiva.md"
       - Sprint 2:
           - Planning: "sprints/2/planning.md"
+          - Review: "sprints/2/review.md"
+          - Retrospectiva: "sprints/2/retrospectiva.md"
+      - Sprint 3:
+          - Planning: "sprints/3/planning.md"
+  - Produto:
+      - Documento de Visão: "produto/documento-visao.md"
+      - Termo de Abertura do Projeto: "produto/tap.md"
+      - Requisitos:
+          - Requisitos questionário: "produto/requisitos/requisitosQuestionario.md"
+          - Requisitos benchmarking: "produto/requisitos/benchmarking.md"
