@@ -85,9 +85,20 @@
 
 |ID|História de Usuário|Prioridade|Rastro|
 |--|--|--|--|
-|US41|
-|US42|
-|US43|
-|US44|
-|US45|
-|US46|
+|US41|Eu, como desenvolvedor, desejo filtrar as denúncias na aplicação por quantidade de votos, para que eu possa fazer o envio das mesmas para os orgãos responsáveis|Should|[Lean](https://app.mural.co/t/fgaepsmds202027717/m/fgaepsmds202027717/1613056199650/dc36dda8d33d71de5a9c01f907d758d2d2b109eb),[brainstorm](https://miro.com/app/board/o9J_lVC-W9A=/?moveToWidget=3074457354169694144&cot=10)|
+|US42|Eu, como desenvolvedor, desejo poder ser capaz de enviar mensagens de e-mail para qualquer e-mail que eu deseje, para que mais tarde eu possa enviar tais mensagens para orgãos específicos|Must|[Análise do Backlog](https://docs.google.com/spreadsheets/d/1BWgLcNVli3B1-w7T_7j1X5dLGAuc9UeXKd8Q0DTE0Eg/edit#gid=0)|
+|US43|Eu, como desenvolvedor, desejo poder enviar mensagens de e-mail para orgãos do governo, para que eu possa cumprir minha missão de dar visibilidade aos problemas|Must|[Perguntas 2](https://docs.google.com/forms/d/1nR_GXzUPexrl8MHE9hvB0abfEM2osplWkIA6OWhR6_A/edit#responses)|
+
+### Feature 06 - Construção do relatório para ser enviado
+
+|ID|História de Usuário|Prioridade|Rastro|
+|--|--|--|--|
+|US44|Eu, como desenvolvedor, desejo que a aplicação gere um relatório automatizado, com informações básicas sobre a denúncia, para que eu possa enviá-la por e-mail|Must|[Lean](https://app.mural.co/t/fgaepsmds202027717/m/fgaepsmds202027717/1613056199650/dc36dda8d33d71de5a9c01f907d758d2d2b109eb),[brainstorm](https://miro.com/app/board/o9J_lVC-W9A=/?moveToWidget=3074457354169694144&cot=10)|
+|US45|Eu, como desenvolvedor, desejo realizar text-mining dos dados da denúncia, para que eu possa gerar o relatório mais rapidamente|Must|[Perguntas 8.1](https://docs.google.com/forms/d/1nR_GXzUPexrl8MHE9hvB0abfEM2osplWkIA6OWhR6_A/edit#responses)|
+
+
+### Feature 07 - dentificação do Orgão responsável
+
+|ID|História de Usuário|Prioridade|Rastro|
+|--|--|--|--|
+|US46|Eu, como desenvolvedor, desejo que a aplicação saiba identificar quais orgãos receberão a denúncia a partir da categorização feita pelo usuário, para que eu possa redirecionar a denúncia para o orgão identificado|Could|Must|[Perguntas 8.1](https://docs.google.com/forms/d/1nR_GXzUPexrl8MHE9hvB0abfEM2osplWkIA6OWhR6_A/edit#responses)|
