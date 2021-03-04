@@ -7,7 +7,9 @@
 
 ## Histórias de Usuário
 
-## Épico 01 - Épico
+## Épico 01 - Usuário
+
+Este épico determina as histórias que formarão as funcionalidade relacionadas ao usuáriio.
 
 ### Feature 01 - CRUD de usuário
 
@@ -34,6 +36,8 @@
 |US14|Eu, como usuário, desejo ver em minha página de perfil, informações sobre os problemas que ajudei a resolver, sendo em votação, denúncia, confirmação de solução, para que eu possa ver em dados minha contribuição para minha sociedade|Could|[Perfil de usuário, COLAB](https://app.colab.re/user/356534)|
 
 ## Épico 02 - Denúncia
+
+Este épico determina as histórias que formarão as funcionalidade relacionadas de denuncia.
 
 ### Feature 03 - CRUD de denúncia
 
@@ -79,7 +83,9 @@
 |US40|Eu, como desenvolvedor, desejo poder fechar uma denúncia quando a mesma tenha uma quantidade x de confirmações de resolução, para que eu possa notificar os usuários de tal notícia|Must|[Lean](https://app.mural.co/t/fgaepsmds202027717/m/fgaepsmds202027717/1613056199650/dc36dda8d33d71de5a9c01f907d758d2d2b109eb),[Jornada 1](https://app.mural.co/t/fgaepsmds202027717/m/fgaepsmds202027717/1613056199650/dc36dda8d33d71de5a9c01f907d758d2d2b109eb?wid=2-1590072209220)|
 
 
-## Épico 03 - Comunicação com orgãos
+## Épico 03 - Comunicação com orgãos 
+
+Este épico determina as histórias que formarão as funcionalidade relacionadas a comunicação com orgãos responsaveis.
 
 ### Feature 05 - Envio de relatório para orgãos responsáveis
 
@@ -102,3 +108,40 @@
 |ID|História de Usuário|Prioridade|Rastro|
 |--|--|--|--|
 |US46|Eu, como desenvolvedor, desejo que a aplicação saiba identificar quais orgãos receberão a denúncia a partir da categorização feita pelo usuário, para que eu possa redirecionar a denúncia para o orgão identificado|Could|Must|[Perguntas 8.1](https://docs.google.com/forms/d/1nR_GXzUPexrl8MHE9hvB0abfEM2osplWkIA6OWhR6_A/edit#responses)|
+
+## Épico 04 - Geolocalização
+
+Este épico determina as histórias que formarão as funcionalidade relacionadas a Geolocalização.
+
+### Feature 08 - Filtro de denúncias por geolocalização
+
+|ID|História de Usuário|Prioridade|Rastro|
+|--|--|--|--|
+|US47|Eu, como desenvolvedor, desejo poder identificar a localização de uma denúncia a partir de sua longitude e latitude, para que eu possa saber sua geolocalização|Should|[Lean](https://app.mural.co/t/fgaepsmds202027717/m/fgaepsmds202027717/1613056199650/dc36dda8d33d71de5a9c01f907d758d2d2b109eb),[Jornada 1](https://app.mural.co/t/fgaepsmds202027717/m/fgaepsmds202027717/1613056199650/dc36dda8d33d71de5a9c01f907d758d2d2b109eb?wid=2-1590072209220)|
+|US48|Eu, como desenvolvedor, desejo poder pegar a localização de um usuário em tempo real, para que eu possa fazer o filtro de denúncias|Should|[Perfil contendo mapa, COLAB](https://app.colab.re/user/356534)
+|US49|Eu, como desenvolvedor, desejo ser capaz de filtrar as denúncias que estejam em um raio de até X km de uma localização específica, para que eu possa mostrar ao usuário ditas denúncias|Would|[Perfil contendo mapa, COLAB](https://app.colab.re/user/356534)
+|US50|Eu, como usuário, desejo poder ver as denúncias perto de mim, para que eu possa identificar os problemas existentes em minha localidade|Must|[Perfil contendo mapa, COLAB](https://app.colab.re/user/356534)
+|US51|Eu, como usuário, desejo selecionar a localização de uma denúncia em sua criação, para que eu possa criá-la com mais acurácia em termos de geolocalização|Should|[Perfil contendo mapa, COLAB](https://app.colab.re/user/356534)
+
+## Épico 04 - Notificação
+
+Este épico determina as histórias que formarão as funcionalidade relacionadas a notifições.
+
+### Feature 08 - Notificações relativas ao status da denúncia
+
+|ID|História de Usuário|Prioridade|Rastro|
+|--|--|--|--|
+|US52|Eu, como usuário desejo receber notificações sobre mudanças de status de uma denúncia que interagi com, para que eu possa estar informado sobre seu progresso|Could|[Lean](https://app.mural.co/t/fgaepsmds202027717/m/fgaepsmds202027717/1613056199650/dc36dda8d33d71de5a9c01f907d758d2d2b109eb),[Jornada 2](https://app.mural.co/t/fgaepsmds202027717/m/fgaepsmds202027717/1613056199650/dc36dda8d33d71de5a9c01f907d758d2d2b109eb?wid=1-1590072209220)|
+|US53|Eu, como usuário, desejo receber notificações sobre o status atual de uma denúncia de maneira regular, para que eu possa estar alinhado sobre a situação da mesma|Could|[Lean](https://app.mural.co/t/fgaepsmds202027717/m/fgaepsmds202027717/1613056199650/dc36dda8d33d71de5a9c01f907d758d2d2b109eb),[Jornada 2](https://app.mural.co/t/fgaepsmds202027717/m/fgaepsmds202027717/1613056199650/dc36dda8d33d71de5a9c01f907d758d2d2b109eb?wid=1-1590072209220)|
+
+### Feature 08 - Notificações relacionadas a envio do relatório
+
+|ID|História de Usuário|Prioridade|Rastro|
+|--|--|--|--|
+|US54|Eu, como usuário, desejo receber uma notificação sobre o envio do relatório para o orgão responsável, para que eu tenha certeza de que o sistema esteja fazendo seu trabalho|Should|[Lean](https://app.mural.co/t/fgaepsmds202027717/m/fgaepsmds202027717/1613056199650/dc36dda8d33d71de5a9c01f907d758d2d2b109eb),[Jornada 2](https://app.mural.co/t/fgaepsmds202027717/m/fgaepsmds202027717/1613056199650/dc36dda8d33d71de5a9c01f907d758d2d2b109eb?wid=1-1590072209220)|
+
+### Feature 08 - Notificações relacionadas a envio do relatório
+
+|ID|História de Usuário|Prioridade|Rastro|
+|--|--|--|--|
+|US55|Eu, como usuário, desejo receber uma notificação sobre a resolução de um problema, para que eu possa checar o status da mesma|Should|[Lean](https://app.mural.co/t/fgaepsmds202027717/m/fgaepsmds202027717/1613056199650/dc36dda8d33d71de5a9c01f907d758d2d2b109eb),[Jornada 2](https://app.mural.co/t/fgaepsmds202027717/m/fgaepsmds202027717/1613056199650/dc36dda8d33d71de5a9c01f907d758d2d2b109eb?wid=1-1590072209220)|
