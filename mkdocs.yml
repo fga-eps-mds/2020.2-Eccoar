@@ -71,3 +71,4 @@ pages:
           - Requisitos questionário: "produto/requisitos/requisitosQuestionario.md"
           - Requisitos benchmarking: "produto/requisitos/benchmarking.md"
       - Documento de Arquitetura: "produto/documento-arquitetura.md"    
+      - Lean inception: "produto/lean-inception.md"
