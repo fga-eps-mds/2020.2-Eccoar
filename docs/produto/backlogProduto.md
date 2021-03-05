@@ -3,7 +3,10 @@
 ## Histórico de Revisão
 |Autor|Mudanças|Data|Versão|
 |--|--|--|--|
-|[Luiz Henrique](https://github.com/luiz-herique)|Criação do documento; Adição de introdução, descrição do produto, objetivo do produto, e stakeholders.|03/02/21|0.1|
+|[Luiz Henrique](https://github.com/luiz-herique)|Criação do documento|03/03/21|0.1|
+|[Luiz Henrique](https://github.com/luiz-herique)|Arrumando o caminho do documento para a wiki|05/03/21|0.2|
+|[Luiz Henrique](https://github.com/luiz-herique)|Refinamento dos eṕicos e textos|05/03/21|0.3|
+|[Matheus Blanco](https://github.com/MatheusBlanco)|Arrumando histórico de revisão|05/03/21|0.4|
 
 ## Histórias de Usuário
 
