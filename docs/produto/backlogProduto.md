@@ -7,6 +7,13 @@
 
 ## Histórias de Usuário
 
+O escopo do projeto foi delimitado explorando a nessecidade de simplificação do processo de denúncias, que atualmente é demorado e inificiente, analisando o mesmo afim de listar as funcio nessarias para realizar um intermedio entre o cidadão e orgão responsavel.
+
+Definidas as funcionalidades, as mesmas foram dividas em um contexto macro em Épicos que são subdividos em Features que contém as Histórias de Usuário. As mesmas foram priorizadas utilizando o metódo MoSCow que sendo classificas como: Must Have (Tenho que fazer), Should Have (Devo fazer), Could Have (Poderia fazer), Won’t Have (poderia fazer).
+
+É importante frisar que o backlog sofrerá ajustes ao longo do andamento do projeto para que as necessidades sejam todas atendidas, sendo reanalisado a cada sprint para que se mantenham sempre alinhados com a evolução de nível técnico da equipe. 
+
+
 ## Épico 01 - Usuário
 
 Este épico determina as histórias que formarão as funcionalidade relacionadas ao usuário, dentro dela são definidos paramentros que um desenvolvedor deseja ter para possuir um bom controle usuario, bem como funcionalidades que um usuário dejesa utilizar para realizar ações relativas ao seu perfil.
