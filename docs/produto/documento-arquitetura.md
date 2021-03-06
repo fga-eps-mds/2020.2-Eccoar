@@ -1,13 +1,14 @@
 # Documento de Arquitetura de Software
 
 ## Histórico de Revisão
-| Data| Versão | Descrição | Autor |
+
+|Autor|Mudanças|Data|Versão|
 |--|--|--|--|
-| 03/mar/2021 | 0.1| Tópicos 1.1, 1.2, 1.3 e 1.4 | Brian Pina e Arthur Matos |
-| 03/mar/2021 | 0.2 | Tópicos 2.1 | Brian Pina, Arthur Matos e Gabriel Sabanai |
-| 03/mar/2021 | 0.3 | Tópicos 3, 4.1 | Brian Pina, Arthur Matos e Gabriel Sabanai |
-| 05/mar/2021 | 0.4 | Tópicos 3, 4.2 | Brian Pina, Arthur Matos, Gabriel Sabanai e Saleh Kader |
-| 05/mar/2021 | 0.5 | Tópicos 1.4, 4.2, 4.3 | Saleh Kader |
+|[Brian Pina](https://github.com/DLBrianPina) e [Arthur Matos](https://github.com/Arthur-Matos)| Tópicos: 1.1, 1.2, 1.3 e 1.4 |03/03/2021|0.1|
+|[Brian Pina](https://github.com/DLBrianPina), [Arthur Matos](https://github.com/Arthur-Matos) e <br/> [Gabriel Sabanai](https://github.com/Sabanai104)|Tópicos: 2.1 |03/03/2021|0.2|
+|[Arthur Matos](https://github.com/Arthur-Matos), [Brian Pina](https://github.com/DLBrianPina) e <br/> [Gabriel Sabanai](https://github.com/Sabanai104)|Tópicos: 3, 4.1 |03/03/2021|0.3|
+|[Brian Pina](https://github.com/DLBrianPina), [Arthur Matos](https://github.com/Arthur-Matos), <br/>[Gabriel Sabanai](https://github.com/Sabanai104) e [Saleh Kader](https://github.com/devsalula)|Tópicos: 3, 4.2 |05/03/2021|0.4|
+|[Saleh Kader](https://github.com/devsalula)| Tópicos: 1.4, 4.2, 4.3 | 05/03/2021 | 05
 
 ## 1. Introdução
 
