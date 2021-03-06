@@ -8,19 +8,20 @@
 |[Luiz Henrique](https://github.com/luiz-herique)|Refinamento dos eṕicos e textos|05/03/21|0.3|
 |[Matheus Blanco](https://github.com/MatheusBlanco)|Arrumando histórico de revisão|05/03/21|0.4|
 |[Matheus Blanco](https://github.com/MatheusBlanco)|Arrumando links e features|06/03/21|0.5|
+|[Matheus Blanco](https://github.com/MatheusBlanco)|Arrumando textos|06/03/21|0.6|
 
 ## Histórias de Usuário
 
-O escopo do projeto foi delimitado explorando a nessecidade de simplificação do processo de denúncias, que atualmente é demorado e inificiente, analisando o mesmo afim de listar as funcio nessarias para realizar um intermedio entre o cidadão e orgão responsavel.
+O escopo do projeto foi delimitado explorando a necessidade de simplificação do processo de denúncias, que atualmente é demorado e ineficiente, analisando o mesmo a fim de listar as funcio nalidades necessárias para realizar um intermédio entre o cidadão morador da comunidade e o orgão responsável por resolver o problema da denúncia.
 
-Definidas as funcionalidades, as mesmas foram dividas em um contexto macro em Épicos que são subdividos em Features que contém as Histórias de Usuário. As mesmas foram priorizadas utilizando o metódo MoSCow que sendo classificas como: Must Have (Tenho que fazer), Should Have (Devo fazer), Could Have (Poderia fazer), Won’t Have (poderia fazer).
+Definidas as funcionalidades as mesmas foram dividas em um contexto macro em Épicos, que são subdividos em Features, as quais contém as Histórias de Usuário. As mesmas foram priorizadas utilizando o metódo MoSCoW, sendo classificas como: Must Have (Tenho que fazer), Should Have (Devo fazer), Could Have (Poderia fazer), Would Have (poderia fazer).
 
-É importante frisar que o backlog sofrerá ajustes ao longo do andamento do projeto para que as necessidades sejam todas atendidas, sendo reanalisado a cada sprint para que se mantenham sempre alinhados com a evolução de nível técnico da equipe. 
+É importante frisar que o backlog sofrerá ajustes ao longo do andamento do projeto para que as necessidades sejam todas atendidas, sendo re-analisado a cada sprint para que se mantenha alinhado com a evolução de nível técnico da equipe.
 
 
 ## Épico 01 - Usuário
 
-Este épico determina as histórias que formarão as funcionalidade relacionadas ao usuário, dentro dela são definidos paramentros que um desenvolvedor deseja ter para possuir um bom controle usuario, bem como funcionalidades que um usuário dejesa utilizar para realizar ações relativas ao seu perfil.
+Este épico determina as histórias que formarão as funcionalidade relacionadas ao usuário, dentro dela são definidos paramentros que um desenvolvedor deseja ter para possuir um bom gerenciamento de seus usuários. Também contém funcionalidades que um usuário dejesa utilizar para realizar ações relativas ao seu perfil e interação geral com a aplicação.
 
 ### Feature 01 - CRUD de usuário
 
@@ -48,7 +49,7 @@ Este épico determina as histórias que formarão as funcionalidade relacionadas
 
 ## Épico 02 - Denúncia
 
-Este épico determina as histórias que formarão as funcionalidade relacionadas de denúncia. Na mesma é descrito as funciinalidades que um desenvolvedor nessecita para fazer o controle e encaminhamento adequado de dencúncias, bem como as nesserias para um usuaria realizar uma denuncia e interagir com a de outros usuários.
+Este épico determina as histórias de usuário que formarão as funcionalidades de denúncias. Estão descritas as funcionalidades que um desenvolvedor necessita para fazer o controle e encaminhamento adequado de denúncias, bem como as necessárias para que um usuario possa realizar uma denúncia e possa interagir com denúncias criadas por outros usuários.
 
 ### Feature 03 - CRUD de denúncia
 
@@ -94,9 +95,9 @@ Este épico determina as histórias que formarão as funcionalidade relacionadas
 |US40|Eu, como desenvolvedor, desejo poder fechar uma denúncia quando a mesma tenha uma quantidade x de confirmações de resolução, para que eu possa notificar os usuários de tal notícia|Must|[Lean](https://app.mural.co/t/fgaepsmds202027717/m/fgaepsmds202027717/1613056199650/dc36dda8d33d71de5a9c01f907d758d2d2b109eb),[Jornada 1](https://app.mural.co/t/fgaepsmds202027717/m/fgaepsmds202027717/1613056199650/dc36dda8d33d71de5a9c01f907d758d2d2b109eb?wid=2-1590072209220)|
 
 
-## Épico 03 - Comunicação com orgãos 
+## Épico 03 - Comunicação com orgãos
 
-Este épico determina as histórias que formarão as funcionalidade relacionadas a comunicação com orgãos responsaveis, contemplando as historias relacionadas ao envio de e-mails orgões que poderão resolver um problema denunciados na aplicação. 
+Este épico determina as histórias que formarão as funcionalidades relacionadas a comunicação com orgãos responsaveis, contemplando envio de e-mails para os orgãos responsáveis pela resolução dos problemas, construção do relatório a ser enviado
 
 ### Feature 06 - Envio de relatório para orgãos responsáveis
 
@@ -114,7 +115,7 @@ Este épico determina as histórias que formarão as funcionalidade relacionadas
 |US45|Eu, como desenvolvedor, desejo realizar text-mining dos dados da denúncia, para que eu possa gerar o relatório mais rapidamente|Must|[Perguntas 8.1](https://forms.gle/XKECTpJPDEERX1ci9)|
 
 
-### Feature 08 - dentificação do Orgão responsável
+### Feature 08 - Identificação do Orgão responsável
 
 |ID|História de Usuário|Prioridade|Rastro|
 |--|--|--|--|
@@ -122,7 +123,7 @@ Este épico determina as histórias que formarão as funcionalidade relacionadas
 
 ## Épico 04 - Geolocalização
 
-Este épico determina as histórias que formarão as funcionalidade relacionadas a Geolocalização, comtemplando funcionalidade permitiram a setoriação das denuncias que auxiliarão os desenvolvedores a realizar classificar melhor as denuncias mas tambem permitirá o usuário a visualizar apenas denúncias em sua localidade.
+Este épico determina as histórias que formarão as funcionalidades relacionadas a Geolocalização, comtemplando funcionalidade que permitirão a setorização das denúncias que auxiliarão os desenvolvedores a mostrar para os usuários as denúncias que estejam dentro do raio de localização dos mesmos.
 
 ### Feature 09 - Filtro de denúncias por geolocalização
 
@@ -136,7 +137,7 @@ Este épico determina as histórias que formarão as funcionalidade relacionadas
 
 ## Épico 04 - Notificação
 
-Este épico determina as histórias que formarão as funcionalidade relacionadas a notifições, as histórias de Usuário relacionadas a mesma comtemplam as funcionalidades nessarias para o controle e envio de notificações.
+Este épico determina as histórias que formarão as funcionalidades relacionadas a notifições, as histórias de usuário comtemplam as necessidades para que o sistema seja capaz de enviar notificações para os usuários, de acordo com o seu assunto.
 
 ### Feature 10 - Notificações relativas ao status da denúncia
 
