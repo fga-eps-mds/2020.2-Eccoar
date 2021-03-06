@@ -9,10 +9,11 @@
 |[Matheus Blanco](https://github.com/MatheusBlanco)|Arrumando histórico de revisão|05/03/21|0.4|
 |[Matheus Blanco](https://github.com/MatheusBlanco)|Arrumando links e features|06/03/21|0.5|
 |[Matheus Blanco](https://github.com/MatheusBlanco)|Arrumando textos|06/03/21|0.6|
+|[Matheus Blanco](https://github.com/MatheusBlanco)|Arrumando gramática|06/03/21|0.7|
 
 ## Histórias de Usuário
 
-O escopo do projeto foi delimitado explorando a necessidade de simplificação do processo de denúncias, que atualmente é demorado e ineficiente, analisando o mesmo a fim de listar as funcio nalidades necessárias para realizar um intermédio entre o cidadão morador da comunidade e o orgão responsável por resolver o problema da denúncia.
+O escopo do projeto foi delimitado explorando a necessidade de simplificação do processo de denúncias, que atualmente é demorado e ineficiente, analisando o mesmo a fim de listar as funcionalidades necessárias para realizar um intermédio entre o cidadão morador da comunidade e o orgão responsável por resolver o problema da denúncia.
 
 Definidas as funcionalidades as mesmas foram dividas em um contexto macro em Épicos, que são subdividos em Features, as quais contém as Histórias de Usuário. As mesmas foram priorizadas utilizando o metódo MoSCoW, sendo classificas como: Must Have (Tenho que fazer), Should Have (Devo fazer), Could Have (Poderia fazer), Would Have (poderia fazer).
 
@@ -97,7 +98,7 @@ Este épico determina as histórias de usuário que formarão as funcionalidades
 
 ## Épico 03 - Comunicação com orgãos
 
-Este épico determina as histórias que formarão as funcionalidades relacionadas a comunicação com orgãos responsaveis, contemplando envio de e-mails para os orgãos responsáveis pela resolução dos problemas, construção do relatório a ser enviado
+Este épico determina as histórias que formarão as funcionalidades relacionadas a comunicação com orgãos responsaveis, contemplando envio de e-mails para os orgãos responsáveis pela resolução dos problemas, construção do relatório a ser enviado.
 
 ### Feature 06 - Envio de relatório para orgãos responsáveis
 
@@ -137,7 +138,7 @@ Este épico determina as histórias que formarão as funcionalidades relacionada
 
 ## Épico 04 - Notificação
 
-Este épico determina as histórias que formarão as funcionalidades relacionadas a notifições, as histórias de usuário comtemplam as necessidades para que o sistema seja capaz de enviar notificações para os usuários, de acordo com o seu assunto.
+Este épico determina as histórias que formarão as funcionalidades relacionadas a notifições, as histórias de usuário contemplam as necessidades para que o sistema seja capaz de enviar notificações para os usuários, de acordo com o seu assunto.
 
 ### Feature 10 - Notificações relativas ao status da denúncia
 
