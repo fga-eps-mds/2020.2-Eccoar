@@ -66,6 +66,7 @@ pages:
   - Produto:
       - Documento de Visão: "produto/documento-visao.md"
       - Termo de Abertura do Projeto: "produto/tap.md"
+      - Backlog do Produto: "produto/backlogProduto.md"
       - Identidade Visual: "produto/identidadevisual.md"
       - Requisitos:
           - Requisitos questionário: "produto/requisitos/requisitosQuestionario.md"
