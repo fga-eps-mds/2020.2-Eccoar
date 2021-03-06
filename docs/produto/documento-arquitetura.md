@@ -7,7 +7,7 @@
 | 03/mar/2021 | 0.2 | Tópicos 2.1 | Brian Pina, Arthur Matos e Gabriel Sabanai |
 | 03/mar/2021 | 0.3 | Tópicos 3, 4.1 | Brian Pina, Arthur Matos e Gabriel Sabanai |
 | 05/mar/2021 | 0.4 | Tópicos 3, 4.2 | Brian Pina, Arthur Matos, Gabriel Sabanai e Saleh Kader |
- | |
+| 05/mar/2021 | 0.5 | Tópicos 1.4, 4.2, 4.3 | Saleh Kader |
 
 ## 1. Introdução
 
@@ -17,43 +17,40 @@ Este documento oferece uma visão geral arquitetural abrangente do sistema, usan
 
 ### 1.2 Escopo
 
-O Eccoar é um Progressive Web App (PWA)  que tem por objetivo ser a voz do cidadão em comunicar para as instituições governamentais sobre problemas em suas cidades.
+O Eccoar é um *Progressive Web App* (PWA)  que tem por objetivo ser a voz do cidadão em comunicar para as instituições governamentais sobre problemas em suas cidades.
 
-Esse documento tem como objetivo representar as decisões arquiteturais do Eccoar, levando em conta as restrições impostas devido o contexto e visão da aplicação. Estão descritos neste documento especificações de tecnologia como linguagens, frameworks e padrões de projeto.
+Esse documento tem como objetivo representar as decisões arquiteturais do Eccoar, levando em conta as restrições impostas devido o contexto e visão da aplicação. Estão descritos neste documento especificações de tecnologia como linguagens, *frameworks* e padrões de projeto.
 
 ### 1.3 Definições, Acrônimos e Abreviações
 
 * API: Application Programming Interface ou Interface de Programação de Aplicações é conjunto de definições e protocolos usado no desenvolvimento e na integração de software de aplicações.
-* API Gateway: O gateway de API é uma ferramenta de gerenciamento de APIs que fica entre o cliente e uma coleção de serviços de back-end.
-* PWA: Progressive Web Apps são aplicações desenvolvidas para web que dão acesso a funcionalidades nativas, tendo como três pilares instabilidade, confiabilidade e capacidade.
+* API Gateway: O *gateway* de API é uma ferramenta de gerenciamento de APIs que fica entre o cliente e uma coleção de serviços de *back end*.
+* PWA: *Progressive Web App* são aplicações desenvolvidas para web que dão acesso a funcionalidades nativas, tendo como três pilares instabilidade, confiabilidade e capacidade.
 
 ### 1.4 Referências
-"On the Criteria To Be Used in Decomposing Systems into Modules" do D.L. Parnas;
+> Parnas, D. L. On the Criteria To Be Used in Decomposing Systems into Modules. Comm. ACM (Dec., 1972) 1053-1056
 
-[https://fga-eps-mds.github.io/2018.2-Kalkuli/docs/docArquitetura](https://fga-eps-mds.github.io/2018.2-Kalkuli/docs/docArquitetura)
+> Documento de Arquitetura. Kalkuli, Brasília, Novembro de 2018. Disponível em: [https://fga-eps-mds.github.io/2018.2-Kalkuli/docs/docArquitetura](https://fga-eps-mds.github.io/2018.2-Kalkuli/docs/docArquitetura). Acesso em: 03 de Março de 2021
 
+> Documento de Arquitetura. HubCare, Brasília, Abril de 2019. Disponível em: [https://cjjcastro.gitlab.io/2019-1-hubcare-docs/project/architecture-document/](https://cjjcastro.gitlab.io/2019-1-hubcare-docs/project/architecture-document/). Acesso em: 03 de Março de 2021
 
-[https://cjjcastro.gitlab.io/2019-1-hubcare-docs/project/architecture-document/](https://cjjcastro.gitlab.io/2019-1-hubcare-docs/project/architecture-document/)
+> O que é API? Red Hat. Disponível em: [https://www.redhat.com/pt-br/topics/api/what-are-application-programming-interfaces](https://www.redhat.com/pt-br/topics/api/what-are-application-programming-interfaces). Acesso em: 03 de Março de 2021
 
-[https://www.redhat.com/pt-br/topics/api/what-are-application-programming-interfaces](https://www.redhat.com/pt-br/topics/api/what-are-application-programming-interfaces)
+> Qual é a função de um gateway de API? Red Hat. Disponível em: [https://www.redhat.com/pt-br/topics/api/what-does-an-api-gateway-do](https://www.redhat.com/pt-br/topics/api/what-does-an-api-gateway-do). Acesso em: 03 de Março de 2021
 
-[https://www.redhat.com/pt-br/topics/api/what-does-an-api-gateway-do](https://www.redhat.com/pt-br/topics/api/what-does-an-api-gateway-do)
+> What Is React? ReactJs. Disponível em: [https://reactjs.org/tutorial/tutorial.html#what-is-react](https://reactjs.org/tutorial/tutorial.html#what-is-react). Acesso em: 03 de Março de 2021.
 
-[https://reactjs.org/tutorial/tutorial.html#what-is-react](https://reactjs.org/tutorial/tutorial.html#what-is-react)
+> Richard, S. LePage, P. What are Progressive Web Apps? web.dev. Janeiro de 2020. Disponível em: [https://web.dev/what-are-pwas/](https://web.dev/what-are-pwas/). Acesso em: 03 de Março de 2021.
 
-[https://web.dev/what-are-pwas/](https://web.dev/what-are-pwas/)
+> Naik, V. Architecting for Continuous Delivery. ThoughtWorks. Janeiro de 2016. Disponível em: [https://www.thoughtworks.com/pt/insights/blog/architecting-continuous-delivery](https://www.thoughtworks.com/pt/insights/blog/architecting-continuous-delivery). Acesso em: 03 de Março de 2021
 
-[https://www.thoughtworks.com/pt/insights/blog/architecting-continuous-delivery](https://www.thoughtworks.com/pt/insights/blog/architecting-continuous-delivery)
+> Valente, M. Engenharia de Software Moderna. Disponível em: [https://engsoftmoderna.info/cap7.html](https://engsoftmoderna.info/cap7.html). Acesso em: 03 de Março de 2021
 
-[https://engsoftmoderna.info/cap7.html](https://engsoftmoderna.info/cap7.html)
+> Fowler, M. Software Architecture Guide. MartinFowler. Agosto de 2019. Disponível em: [https://martinfowler.com/architecture/](https://martinfowler.com/architecture/). Acesso em: 03 de Março de 2021
 
-[https://martinfowler.com/architecture/](https://martinfowler.com/architecture/)
+> Fowler, M. MicroservicePrerequisites. MartinFowler. Agosto de 2014. Disponível em: [https://martinfowler.com/bliki/MicroservicePrerequisites.html](https://martinfowler.com/bliki/MicroservicePrerequisites.html). Acesso em: 03 de Março de 2021
 
-[https://martinfowler.com/bliki/MicroservicePrerequisites.html](https://martinfowler.com/bliki/MicroservicePrerequisites.html)
-
-[https://martinfowler.com/articles/microservices.html](https://martinfowler.com/articles/microservices.html)
-
-[http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html](http://highscalability.com/blog/2014/4/8/microservices-not-a-free-lunch.html)
+> Fowler, M. Lewis, J. Microservice. MartinFowler. Março de 2014. Disponível em: [https://martinfowler.com/articles/microservices.html](https://martinfowler.com/articles/microservices.html). Acesso em: 03 de Março de 2021
 
 ## 2. Representação Arquitetural
 
@@ -101,7 +98,7 @@ São metas da arquitetura:
 
 São restrições da arquitetura:
 
-* A aplicação deverá se comportar como um Progressive Web App;
+* A aplicação deverá se comportar como um *Progressive Web App*;
 
 * A aplicação necessita de ser executada nos navegadores Google Chrome, Mozilla Firefox e Safari;
 
@@ -113,6 +110,16 @@ A aplicação é baseada na arquitetura de microsserviços, com o intuito de fac
 
 ### 4.2 Pacotes de Design Significativos do Ponto de Vista da Arquitetura
 
+O *Back End* será construído por completo em cima da tecnologia *NodeJs*. No diagrama abaixo enxerga-se como será a estrutura básica de pacotes de um dos microsserviços.
+
 ![back](../assets/img/produtos/backArquitetura.png)
 
+A aplicação no *Front End* será construído por completo em cima da tecnologia *ReactJs*. No diagrama abaixo enxerga-se como será a estrutura básica de pacotes do nosso PWA.
+
 ![front](../assets/img/produtos/front.png)
+
+### 4.3 Visão de Dados
+
+O Diagrama Entidade Relacionamento ficou da seguinte forma:
+
+![Diagrama Entidade Relacionamento](../assets/img/produtos/DataModel.png)
