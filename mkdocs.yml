@@ -65,11 +65,12 @@ pages:
           - Planning: "sprints/3/planning.md"
   - Produto:
       - Documento de Visão: "produto/documento-visao.md"
-      - Termo de Abertura do Projeto: "produto/tap.md"
-      - Backlog do Produto: "produto/backlogProduto.md"
       - Identidade Visual: "produto/identidadevisual.md"
+      - Protótipo: "produto/prototipo.md"
+      - Lean inception: "produto/lean-inception.md"
       - Requisitos:
           - Requisitos questionário: "produto/requisitos/requisitosQuestionario.md"
           - Requisitos benchmarking: "produto/requisitos/benchmarking.md"
-      - Documento de Arquitetura: "produto/documento-arquitetura.md"    
-      - Lean inception: "produto/lean-inception.md"
+  - Projeto:
+      - Termo de Abertura do Projeto: "projeto/tap.md"
+      - Documento de Arquitetura: "projeto/documento-arquitetura.md"
