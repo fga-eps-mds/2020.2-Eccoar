@@ -115,3 +115,7 @@ O Canvas MVP é um quadro visual que auxilia a equipe a alinhar e definir a estr
 
 ![Canvas](../assets/img/produto/LeanInseption/Canvas.png)
 
+## Referências
+
+ - CAROLI, Paulo. Lean Inception: como alinhar pessoas e construir o produto certo.Local de publicação: Editora Caroli, 18 de set. de 2020.
+
