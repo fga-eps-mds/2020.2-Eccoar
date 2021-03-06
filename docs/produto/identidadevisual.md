@@ -1,11 +1,13 @@
 # Identidade Visual
 
 ## Histórico de Revisão
-|Autor|Mudanças|Data|Versão|
-|--|--|--|--|
-|[Victor Buendia](https://github.com/Victor-Buendia)|Criação do documento.|05/03/21|0.1|
 
-Para dar vida ao produto, foi elaborada uma identidade visual que trouxesse os elementos que buscávamos trazer com a visão do nosso produto. 
+| Autor                                                                                      | Mudanças                 | Data     | Versão |
+| ------------------------------------------------------------------------------------------ | ------------------------ | -------- | ------ |
+| [Victor Buendia](https://github.com/Victor-Buendia) e [Pedro Féo](https://github.com/phe0) | Criação da IDV no Figma. | 03/03/21 | 0.1    |
+| [Victor Buendia](https://github.com/Victor-Buendia)                                        | Criação do documento.    | 05/03/21 | 0.1    |
+
+Para dar vida ao produto, foi elaborada uma identidade visual que trouxesse os elementos que buscávamos trazer com a visão do nosso produto.
 
 As cores principais são vermelho, buscando trazer a ideia de alerta e denúncia. Além disso, os símbolos permeiam sinais e o eco que eles possuem a fim de amplificar a força das denúncias por meio da coletividade.
 
