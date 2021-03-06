@@ -22,7 +22,7 @@ Definidas as funcionalidades as mesmas foram dividas em um contexto macro em Ép
 
 ## Épico 01 - Usuário
 
-Este épico determina as histórias que formarão as funcionalidade relacionadas ao usuário, dentro dela são definidos paramentros que um desenvolvedor deseja ter para possuir um bom gerenciamento de seus usuários. Também contém funcionalidades que um usuário dejesa utilizar para realizar ações relativas ao seu perfil e interação geral com a aplicação.
+Este épico determina as histórias que formarão as funcionalidade relacionadas ao usuário, dentro dela são definidos parâmetros que um desenvolvedor deseja ter para possuir um bom gerenciamento de seus usuários. Também contém funcionalidades que um usuário deseja utilizar para realizar ações relativas ao seu perfil e interação geral com a aplicação.
 
 ### Feature 01 - CRUD de usuário
 
@@ -50,7 +50,7 @@ Este épico determina as histórias que formarão as funcionalidade relacionadas
 
 ## Épico 02 - Denúncia
 
-Este épico determina as histórias de usuário que formarão as funcionalidades de denúncias. Estão descritas as funcionalidades que um desenvolvedor necessita para fazer o controle e encaminhamento adequado de denúncias, bem como as necessárias para que um usuario possa realizar uma denúncia e possa interagir com denúncias criadas por outros usuários.
+Este épico determina as histórias de usuário que formarão as funcionalidades de denúncias. Estão descritas as funcionalidades que um desenvolvedor necessita para fazer o controle e encaminhamento adequado de denúncias, bem como as necessárias para que um usuário possa realizar uma denúncia e possa interagir com denúncias criadas por outros usuários.
 
 ### Feature 03 - CRUD de denúncia
 
