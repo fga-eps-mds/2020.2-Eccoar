@@ -70,3 +70,4 @@ pages:
       - Requisitos:
           - Requisitos questionário: "produto/requisitos/requisitosQuestionario.md"
           - Requisitos benchmarking: "produto/requisitos/benchmarking.md"
+      - Documento de Arquitetura: "produto/documento-arquitetura.md"    
