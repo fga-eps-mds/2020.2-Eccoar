@@ -65,6 +65,8 @@ pages:
           - Planning: "sprints/3/planning.md"
           - Review: "sprints/3/review.md"
           - Retrospectiva: "sprints/3/retrospectiva.md"
+      - Sprint 4:
+          - Planning: "sprints/4/planning.md"
   - Produto:
       - Documento de Visão: "produto/documento-visao.md"
       - Identidade Visual: "produto/identidadevisual.md"
