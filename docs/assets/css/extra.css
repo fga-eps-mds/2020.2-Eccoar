@@ -6,6 +6,10 @@ h1,h2,h3,h4,h5,h6 {
     text-align: center;
 }
 
+.md-main {
+    background-color: #F8F8F8;
+}
+
 .md-typeset__scrollwrap{
     display: flex;
     justify-content: center;
@@ -16,7 +20,7 @@ h1,h2,h3,h4,h5,h6 {
 }
 
 th, td {
-    background: white;
+    background: #F8F8F8;
 }
 
 p {
@@ -30,6 +34,7 @@ li p {
     text-indent: 0;
 }
 
+
 h4 {
     font-weight: 500 !important;
     color: rgba(0,0,0,0.7);
@@ -41,12 +46,12 @@ body {
 }
 
 .md-header {
-    background: linear-gradient(90deg, #636363, #9c9c9c);
-    color: white !important;
+    background: linear-gradient(90deg, #F55050, #F87171);
+    color: #F8F8F8 !important;
 }
 
 .md-typeset thead{
-    width: 100%;
+    width: 50%;
 }
 
 .hoverable {
@@ -61,23 +66,23 @@ body {
 }
 
 ::placeholder {
-    color: white !important; 
+    color: #F8F8F8 !important; 
 } 
 
 .md-container {
-    background: white;
+    background: #F8F8F8;
 }
 
 .md-typeset table thead tr {
-    background: linear-gradient(90deg, #636363, #9c9c9c);
-    color: white;
+    background: linear-gradient(90deg, #F55050, #F87171);
+    color: #F8F8F8;
 }
 
 .md-typeset table thead th {
     background-color: transparent !important;
-    color: white;
+    color: #F8F8F8;
 }
 
 img[role="presentation"] {
-    background: white;
+    background: #F8F8F8;
 }

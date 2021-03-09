@@ -1,5 +1,5 @@
 body {
-    background-color: #efefef;
+    background-color:  #F55050;
     margin: 0;
 }
 
@@ -10,7 +10,7 @@ body {
     flex-direction: column;
     position: relative;
     z-index: 10;
-    background-color: #efefef;
+    background-color: #484848;
 }
 
 .section {
@@ -28,7 +28,7 @@ body {
     width: 75vw;
     padding-top: 5em;
     padding-bottom: 5em;
-    color: #636363;
+    color: #F8F8F8;
 }
 
 .link-handler {
@@ -43,14 +43,14 @@ body {
 }
 
 .card {
-    background-color: #efefef;
+    background-color: #F8F8F8;
     width: 20em;
     height: 20em;
     cursor: pointer;
     border-radius: 20px;
     box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
     transition: all 0.3s;
-    border: 3px solid #636363;
+    border: 5px solid #95F0E0;
 }
 
 .card:hover {
@@ -86,7 +86,7 @@ h1 {
     margin-left: 2em;
     margin-right: 2em;
     margin-bottom: 4em;
-    border: 3px solid #636363;
+    border: 3px solid #95F0E0;
     color: #636363;
 }
 
@@ -160,7 +160,7 @@ h1 {
 .landing-section {
     width: 100%;
     height: 90vh;
-    background-image: linear-gradient(to bottom right, #636363, #9c9c9c);
+    background-image:  #F55050;
     margin: 0;
     margin-bottom: 5em;
     display: flex;
@@ -176,7 +176,7 @@ h1 {
 
 .footer {
     height: 20vh;
-    background-image: linear-gradient(to bottom right, #636363, #9c9c9c);
+    background-image:  linear-gradient(90deg, #F55050, #F87171)
 }
 
 p {
