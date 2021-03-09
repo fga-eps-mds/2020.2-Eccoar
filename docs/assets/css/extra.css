@@ -1,8 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Lexend+Deca&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Palanquin+Dark:400,500,600,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300&family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap');
 
 h1,h2,h3,h4,h5,h6 {
-    font-family: 'Palanquin Dark', Roboto;
+    font-family: 'Spartan', Roboto;
+    font-weight: 900;
     text-align: center;
 }
 
@@ -51,7 +54,7 @@ body {
 }
 
 .md-header-nav__button.md-logo img, .md-header-nav__button.md-logo svg{
-    width: 3.5rem;
+    width: 4.3rem;
     height: 1.3rem;
 }
 

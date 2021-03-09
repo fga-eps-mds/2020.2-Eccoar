@@ -3,6 +3,12 @@ body {
     margin: 0;
 }
 
+.background {
+    width: 100%;
+    z-index: -1;
+    position: fixed;
+}
+
 .container {
     display: flex;
     justify-content: center;
@@ -169,7 +175,7 @@ h1 {
 }
 
 .logo {
-    width: 20rem;
+    width: 50rem;
     z-index: 0;
     position: fixed;
 }
@@ -180,13 +186,14 @@ h1 {
 }
 
 p {
-    font-family: 'Lexend Deca', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 div {
-    font-family: 'Lexend Deca', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 h1, h2, h3 {
-    font-family: 'Palanquin Dark', sans-serif;
+    font-family: 'Spartan', sans-serif;
+    font-weight:500;
 }
