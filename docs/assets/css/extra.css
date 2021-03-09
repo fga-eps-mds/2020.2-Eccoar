@@ -50,6 +50,11 @@ body {
     color: #F8F8F8 !important;
 }
 
+.md-header-nav__button.md-logo img, .md-header-nav__button.md-logo svg{
+    width: 3.5rem;
+    height: 1.3rem;
+}
+
 .md-typeset thead{
     width: 50%;
 }

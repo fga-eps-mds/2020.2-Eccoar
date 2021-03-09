@@ -15,7 +15,7 @@ Adoramos a contribuição de novas pessoas! Gostaríamos de transformar a contri
 * Enviando propostas de correções visuais;
 * Propondo novas funcionalidades;
 
-Precisa tirar alguma dúvida ou precisa de alguma inspiração? Conheça a nossa [Documentação](https://fga-eps-mds.github.io/EPS-2020-2-G2/).
+Precisa tirar alguma dúvida ou precisa de alguma inspiração? Conheça a nossa [Documentação](/projeto/documento-arquitetura/).
 
 ## Como iniciar o seu processo de Contribuição?
 
@@ -24,7 +24,7 @@ Para contribuir com o projeto você pode estar abrindo *issues* de sugestões e 
 * Abra uma *issue* em nosso repositório, seguindo o nosso [template](https://github.com/fga-eps-mds/EPS-2020-2-G2/blob/main/.github/ISSUE_TEMPLATE/issue-template.md);
     * Se você só quer resolver uma *issue* já aberta no respositório, se marque na *issue* e comente nela (Atenção: Certifique-se de que não existe um responsável por essa *issue* antes); 
 * Faça um *fork* do nosso projeto, se você for um contribuidor externo;
-* Crie uma *branch* a partir da *develop*, seguindo a nossa [política de *branch*](#politica-de-branch);
+* Crie uma *branch* a partir da *develop*, seguindo a nossa [política de *branch*](#politica-de-branches);
 * Crie um *Pull Request* com o status de ***WIP***, no repositório para certificarmos que você está trabalhando na *issue*;
 * Siga a [política de *commits*](#politica-de-commits) durante o desenvolvimento;
 * Ao final do desenvolvimento cetifique-se que seu código está funcionando e os testes passando;
