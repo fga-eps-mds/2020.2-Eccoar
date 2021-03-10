@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300&family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap');
 body {
     background-color:  #F55050;
     margin: 0;
@@ -34,7 +35,7 @@ body {
     width: 75vw;
     padding-top: 5em;
     padding-bottom: 5em;
-    color: #F8F8F8;
+    color: #9DDED3;
 }
 
 .link-handler {
@@ -45,7 +46,10 @@ body {
     justify-content: center;
     align-items: center;
     text-decoration: none;
-    color: #636363;
+    background-color: #484848;
+    border-radius: 1rem;
+    color: #9DDED3;
+    font-weight: bold;
 }
 
 .card {
@@ -132,10 +136,11 @@ h1 {
     box-shadow: 0 15px 20px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
 
+
 .line {
     margin-top: 0;
     width: 0px;
-    border: 2px solid #636363;
+    border: 2px solid #9DDED3;
     transition: all 0.5s;
 }
 
@@ -144,6 +149,7 @@ h1 {
 }
 
 .text {
+    font-family: 'Spartan', sans-serif;
     color: #efefef;
     font-size: 18px;
     position: absolute;
@@ -175,7 +181,7 @@ h1 {
 }
 
 .logo {
-    width: 50rem;
+    width: 60%;
     z-index: 0;
     position: fixed;
 }
@@ -195,5 +201,4 @@ div {
 
 h1, h2, h3 {
     font-family: 'Spartan', sans-serif;
-    font-weight:500;
 }
