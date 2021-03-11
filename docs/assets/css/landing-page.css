@@ -1,6 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300&family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap");
 body {
-    background-color: #efefef;
+    background-color: #f55050;
     margin: 0;
+}
+
+.background {
+    width: 100%;
+    z-index: -1;
+    position: fixed;
 }
 
 .container {
@@ -10,12 +17,12 @@ body {
     flex-direction: column;
     position: relative;
     z-index: 10;
-    background-color: #efefef;
+    background-color: #484848;
 }
 
 .section {
     display: flex;
-    justify-content:space-around;
+    justify-content: space-around;
     width: 75vw;
     padding-top: 5em;
     padding-bottom: 5em;
@@ -23,12 +30,12 @@ body {
 
 .section2 {
     display: flex;
-    justify-content:space-around;
+    justify-content: space-around;
     flex-direction: column;
     width: 75vw;
     padding-top: 5em;
     padding-bottom: 5em;
-    color: #636363;
+    color: #9dded3;
 }
 
 .link-handler {
@@ -39,27 +46,30 @@ body {
     justify-content: center;
     align-items: center;
     text-decoration: none;
-    color: #636363;
+    background-color: #484848;
+    border-radius: 1rem;
+    color: #9dded3;
+    font-weight: bold;
 }
 
 .card {
-    background-color: #efefef;
+    background-color: #f8f8f8;
     width: 20em;
     height: 20em;
     cursor: pointer;
     border-radius: 20px;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
     transition: all 0.3s;
-    border: 3px solid #636363;
+    border: 5px solid #95f0e0;
 }
 
 .card:hover {
-    box-shadow: 0 15px 20px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
     transform: translate(0, -10px);
 }
 
 .imgs {
-    fill: #636363;
+    fill: #95f0e0;
     width: 5em;
     margin-bottom: 2em;
 }
@@ -80,13 +90,13 @@ h1 {
     width: 12em;
     height: 12em;
     overflow: hidden;
-    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
     position: relative;
     transition: all 0.3s;
     margin-left: 2em;
     margin-right: 2em;
     margin-bottom: 4em;
-    border: 3px solid #636363;
+    border: 3px solid #95f0e0;
     color: #636363;
 }
 
@@ -112,7 +122,7 @@ h1 {
     height: 100%;
     width: 100%;
     opacity: 0;
-    transition: .5s ease;
+    transition: 0.5s ease;
     background-color: #1f1f1f99;
     text-decoration: underline;
 }
@@ -123,13 +133,13 @@ h1 {
 
 .round-card:hover {
     transform: translate(0, -10px);
-    box-shadow: 0 15px 20px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
 }
 
 .line {
     margin-top: 0;
     width: 0px;
-    border: 2px solid #636363;
+    border: 2px solid #9dded3;
     transition: all 0.5s;
 }
 
@@ -138,6 +148,7 @@ h1 {
 }
 
 .text {
+    font-family: "Spartan", sans-serif;
     color: #efefef;
     font-size: 18px;
     position: absolute;
@@ -149,7 +160,7 @@ h1 {
     text-align: center;
     transition: all 1s;
     font-weight: bold;
-  }
+}
 
 .pictures {
     display: flex;
@@ -160,7 +171,7 @@ h1 {
 .landing-section {
     width: 100%;
     height: 90vh;
-    background-image: linear-gradient(to bottom right, #636363, #9c9c9c);
+    background-image: #f55050;
     margin: 0;
     margin-bottom: 5em;
     display: flex;
@@ -169,24 +180,26 @@ h1 {
 }
 
 .logo {
-    width: 30vw;
+    width: 60%;
     z-index: 0;
     position: fixed;
 }
 
 .footer {
     height: 20vh;
-    background-image: linear-gradient(to bottom right, #636363, #9c9c9c);
+    background-image: linear-gradient(90deg, #f55050, #f87171);
 }
 
 p {
-    font-family: 'Lexend Deca', sans-serif;
+    font-family: "Montserrat", sans-serif;
 }
 
 div {
-    font-family: 'Lexend Deca', sans-serif;
+    font-family: "Montserrat", sans-serif;
 }
 
-h1, h2, h3 {
-    font-family: 'Palanquin Dark', sans-serif;
+h1,
+h2,
+h3 {
+    font-family: "Spartan", sans-serif;
 }

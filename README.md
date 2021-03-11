@@ -1,4 +1,7 @@
-# Grupo 2
+# Grupo 2 - Eccoar
+
+![logotipo](https://user-images.githubusercontent.com/35435199/110542165-7acde480-8107-11eb-8140-51467e9473a4.png)
+
 
 Wiki destinada para o trabalho realizado nas disciplinas de MDS e EPS da Universidade de Brasília no semestre 2020.2.
 
