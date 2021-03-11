@@ -69,6 +69,7 @@ pages:
           - Planning: "sprints/4/planning.md"
   - Produto:
       - Documento de Visão: "produto/documento-visao.md"
+      - Backlog do Produto: "produto/backlogProduto.md"
       - Identidade Visual: "produto/identidadevisual.md"
       - Protótipo: "produto/prototipo.md"
       - Lean inception: "produto/lean-inception.md"
