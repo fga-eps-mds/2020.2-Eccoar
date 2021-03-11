@@ -80,3 +80,5 @@ pages:
       - Termo de Abertura do Projeto: "projeto/tap.md"
       - Documento de Arquitetura: "projeto/documento-arquitetura.md"
       - Earned Value Management: "projeto/evm.md"
+  - Experiência do Usuário:
+      - Roteiro de Testes do Protótipo: "usuario/testesusabilidade.md"
