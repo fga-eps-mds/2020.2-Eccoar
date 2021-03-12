@@ -25,7 +25,7 @@ Você está em casa em Ceilândia e decide ir visitar seus pais em Santa Maria n
 1. Tente acessar o aplicativo com o seu celular;
 1. Crie uma denúncia no aplicativo;
 1. Abra uma denúncia e veja sua especificação;
-1. Vote em uma denúncia existente;
+1. Confirme uma denúncia existente;
 1. Coloque o aplicativo em modo claro.
 
 ### Avaliação
@@ -57,4 +57,18 @@ Segue aqui o resultado de todos os testes realizados:
 
 |Nome do Testador|Simplicidade|Usabilidade|Design|Aplicação|
 |--|--|--|--|--|
-|Fulano
+|Roseli Rodrigues|5|5|3|4|
+|Miguel Cruz|4|5|4|4|
+|Thiago Natan|4|5|3|5|
+|Média|4.3|5|3.3|4.3|
+
+Dentre alguns comentários de melhora, foram levantados: 
+
+- As imagens poderiam ter um contraste melhor definido, especialmente no vermelho e cinza;
+- O título foi mal interpretado como uma descrição pessoal do problema da pessoa;
+- A categoria não ficou clara;
+- O botão de continuar ficou escondido e gerou dificuldade nos usuários;
+- O botão de modo claro não aparece na maior parte dos dispositivos;
+- Não ficou intuitivo abrir as denúncias dos outros e confirmar denúnciar, apenas criar denúncias;
+
+O mapa de cores resultante com [essa seção](#avaliacao).
