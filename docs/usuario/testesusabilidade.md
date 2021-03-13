@@ -14,7 +14,7 @@ Para o teste de usabilidade, são definidas as principais tarefas a serem realiz
 ### Preparação
 A fim de participar do teste, é necessário ter acesso ao protótipo de alta fidelidade do MVP do **PRODUTO** através [**deste link**](https://www.figma.com/proto/y5ak8SDlqgaPKGfPIble7R/Projeto-Eccoar?node-id=124%3A0&scaling=min-zoom). Uma outra alternativa é escanear o código QR abaixo com o celular.
 
-![linkprototipo](../assets/img/codigoqr/protitipoaltafideldade.png)
+![linkprototipo](../assets/img/usuario/qrcodeprototipo.png)
 
 ### Cenário
 *O cenário é usado para guiar o usuário na imersividade do teste da aplicação.*
@@ -53,6 +53,11 @@ Além disso, observou-se a dificuldade para concluir as atividades propostas aos
 
 ### Resultado
 
+#### Perfil dos Usuários
+Antes de realizar os testes, fizemos uma coleta sobre as idades, gêneros e a frequência de uso de celular de cada voluntário. Obtemos o seguinte panorama:
+
+#### Resultados dos Testes
+
 Segue aqui o resultado de todos os testes realizados:
 
 |Nome do Testador|Simplicidade|Usabilidade|Design|Aplicação|
@@ -77,4 +82,20 @@ Dentre alguns comentários de melhora, foram levantados:
 - Seria interessante ter um tutorial rápido ensinando a usar a aplicação;
 - Achou a imagem da tela de fundo com qualidade baixa.
 
-O mapa de cores resultante com [essa seção](#avaliacao).
+O mapa de cores resultante pode ser visto abaixo. A legenda encontra-se [nesta seção](#avaliacao).
+
+![mapa de cores](../assets/img/usuario/mapadecores.png)
+
+## Usuários
+
+### Idade 
+
+![Idade](../assets/img/usuario/qualsuaidade.png)
+
+### Gênero
+
+![Gênero](../assets/img/usuario/qualseugenero.png)
+
+### Uso de Aplicativo
+
+![Aplicativo](../assets/img/usuario/comquefrequencia.png)
