@@ -37,6 +37,7 @@ pages:
   - Como contribuir:
       - Como Contribuir?: "contribuicao/contribuicao.md"
       - Código de Conduta: "contribuicao/conduta.md"
+      - Testes no Front: "contribuicao/testes-front.md"
   - Reuniões:
       - 06/02:
           - Pauta: "reunioes/06-02/pauta.md"
