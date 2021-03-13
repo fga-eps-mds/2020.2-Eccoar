@@ -78,3 +78,4 @@ pages:
   - Projeto:
       - Termo de Abertura do Projeto: "projeto/tap.md"
       - Documento de Arquitetura: "projeto/documento-arquitetura.md"
+      - Earned Value Management: "projeto/evm.md"
