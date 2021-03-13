@@ -57,10 +57,13 @@ Segue aqui o resultado de todos os testes realizados:
 
 |Nome do Testador|Simplicidade|Usabilidade|Design|Aplicação|
 |--|--|--|--|--|
-|Roseli Rodrigues|5|5|3|4|
-|Miguel Cruz|4|5|4|4|
-|Thiago Natan|4|5|3|5|
-|Média|4.3|5|3.3|4.3|
+|Roseli Rodrigues|10|10|6|8|
+|Miguel Cruz|8|10|8|8|
+|Thiago Natan|8|10|6|10|
+|Leonardo Fagundes|9|8.5|8.5|8|
+|Lucas Moura|8|9|10|10|
+|Amanda Carneiro|9|10|10|9.5|
+|Média|8.6|9.5|8|8.9|
 
 Dentre alguns comentários de melhora, foram levantados: 
 
@@ -70,5 +73,8 @@ Dentre alguns comentários de melhora, foram levantados:
 - O botão de continuar ficou escondido e gerou dificuldade nos usuários;
 - O botão de modo claro não aparece na maior parte dos dispositivos;
 - Não ficou intuitivo abrir as denúncias dos outros e confirmar denúnciar, apenas criar denúncias;
+- Os botões laterais de confirmar denúncia não estavam muito claros do pra que servia;
+- Seria interessante ter um tutorial rápido ensinando a usar a aplicação;
+- Achou a imagem da tela de fundo com qualidade baixa.
 
 O mapa de cores resultante com [essa seção](#avaliacao).
