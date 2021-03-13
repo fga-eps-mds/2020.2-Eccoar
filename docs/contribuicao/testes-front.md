@@ -23,7 +23,7 @@ Libs para serem importadas:
 
 `import React from 'react'; // React`
 
-`import { render, screen } from '@testing-library/react'; // feramentasdo react-testing-lib para renderizar e manuzear os elementos`
+`import { render, screen } from '@testing-library/react'; // feramentas do react-testing-lib para renderizar e manuzear os elementos`
 
 `import userEvent from '@testing-library/user-event'; // ferramenta do react-testing-lib para forjar interações com a interface`
 
@@ -44,7 +44,7 @@ describe('Nome da suite de testes', () => {
     test('Nome do teste', () => {
         // regras do teste
         expect(true).toBe(true);
-        //expect é uma função wrapper que deve estar em volta d elemento a ser analizado, toBe é uma função que nos permite dizer qual é o valor esprado para o elemento
+        //expect é uma função wrapper que deve estar em volta do elemento a ser analizado, toBe é uma função que nos permite dizer qual é o valor esperado para o elemento
     })
 })
 ```
@@ -58,7 +58,7 @@ describe('Nome da suite de testes', () => {
     test('Nome do teste', () => {
         render(<Componente />);
 
-        screen.debug() // essa função não é necessária, mas ela mostra o html renderizado ao rodar npm test, poe ajudar bastante na hora de escrever os testes
+        screen.debug() // essa função não é necessária, mas ela mostra o html renderizado ao rodar npm test, pode ajudar bastante na hora de escrever os testes
     })
 })
 ```
@@ -67,7 +67,7 @@ describe('Nome da suite de testes', () => {
 
 Depois de renderizar seu componente, a react-testing-lib oferece algumas funções
 para selecionar elementos. Esses elementos serão usados depois para realizar
-_assertions_(verificar ma funcionalidade) ou interações de usúario.
+_assertions_(verificar ma funcionalidade) ou interações de usuário.
 
 No exemplo abaixo usamos o seletor _getByText_, ele procura um elemento que
 possua o texto passado como parametro, no caso "testing".
@@ -130,7 +130,7 @@ úteis dependendo do contexto. Você pode ler mais sobre elas
 
 ### Como simular eventos
 
-O react-testing-lib oferece uma interface para forjar eventos de usúarios,
+O react-testing-lib oferece uma interface para forjar eventos de usuários,
 chamada `userEvents`.
 
 Com ela, você pode executar ações como cliques ou digitação. Segue um exemplo:
@@ -149,7 +149,7 @@ Com ela, você pode executar ações como cliques ou digitação. Segue um 
 
 Em alguns casos, elementos vão receber funções como props, nesses casos não é
 possível verificar uma mudança na renderização do elemento só por forjar uma
-ação do usúario.
+ação do usuário.
 
 Para isso é possível usar o _jest_ para criar uma função que possamos rastrear.
 Segue exemplo:
@@ -167,7 +167,7 @@ Segue exemplo:
 
 ### Como mockar chamadas de API
 
-Em alguns casos, o componnte a ser testado irá fazer chamadas à uma API, porém
+Em alguns casos, o componente a ser testado irá fazer chamadas à uma API, porém
 não é ideal que o script de testes realize essas chamadas, pois pode trazer
 falhas inesperadas além de poder realizar operações de escrita no banco de
 dados. Por isso as chamadas à API devem todas ser mockadas.
