@@ -69,10 +69,13 @@ pages:
           - Planning: "sprints/4/planning.md"
   - Produto:
       - Documento de Visão: "produto/documento-visao.md"
-      - Backlog do Produto: "produto/backlogProduto.md"
+      - Roadmap do Produto: "produto/roadmap.md"
       - Identidade Visual: "produto/identidadevisual.md"
       - Protótipo: "produto/prototipo.md"
       - Lean inception: "produto/lean-inception.md"
+      - Backlog e Critérios de Aceitação:
+          - Backlog do Produto: "produto/backlogAceitacao/backlogProduto.md"
+          - Critérios de Aceitação: "produto/backlogAceitacao/criteriosAceitacao.md"
       - Requisitos:
           - Requisitos questionário: "produto/requisitos/requisitosQuestionario.md"
           - Requisitos benchmarking: "produto/requisitos/benchmarking.md"
