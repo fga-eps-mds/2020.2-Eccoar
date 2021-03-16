@@ -6,7 +6,7 @@
 |[Gabriel Sabanai](https://github.com/Sabanai104) e [Victor Buendia](https://github.com/Victor-Buendia)| Adição do tópico de avaliação e resultado|11/03/21|0.2|
 
 ## Introdução
-Os testes de usabilidade são importantes para garantir uma boa experiência do usuário no uso do **PRODUTO**. Sua importância está ligada com a viabilização da avaliação, dividida em três etapas: Simplicidade, que diz respeito à facilidade de utilizar e entender uma tarefa; Usabilidade, que diz respeito à experiência ao se realizar a atividade; e o Design, que diz respeito à questôes estéticas e de layout.
+Os testes de usabilidade são importantes para garantir uma boa experiência do usuário no uso do **PRODUTO**. Sua importância está ligada com a viabilização da avaliação, dividida em três etapas: Simplicidade, que diz respeito à facilidade de utilizar e entender uma tarefa; Usabilidade, que diz respeito à experiência ao se realizar a atividade; e o Design, que diz respeito à questões estéticas e de layout.
 
 ## Roteiro
 Para o teste de usabilidade, são definidas as principais tarefas a serem realizadas no sistema com o intuito de avaliar simplicidade, usabilidade e design. O foco do teste é conferir a usabilidade do sistema com base no desempenho do usuário ao executar tarefas e resumir os resultados para que possam ser usados ​​para redefinir requisitos e melhorar a experiência do usuário, de modo que o sistema seja tão intuitivo quanto possível. Além disso, o teste também é usado para determinar se os recursos da versão testada pelos voluntários estão prontos serem colocados na produção.
@@ -29,7 +29,7 @@ Você está em casa em Ceilândia e decide ir visitar seus pais em Santa Maria n
 1. Coloque o aplicativo em modo claro.
 
 ### Avaliação
-Essa etapa consiste em fazer uma media da avalição dos usúarios levando em consideração três parâmetros principais, sendo eles:
+Essa etapa consiste em fazer uma media da avaliação dos usúarios levando em consideração três parâmetros principais, sendo eles:
 
 * Simplicidade: Diz respeito à facilidade de utilizar a aplicação;
 
@@ -37,7 +37,7 @@ Essa etapa consiste em fazer uma media da avalição dos usúarios levando em co
 
 * Design: Diz respeito à questão estética e de layout da aplicação.
 
-A avaliação consiste em perguntar ao testador sua opnião em relação a cada um dos tópicos previamente mencionados, requisitando uma nota de 0 a 10. Ademais, deve-se levantar uma avalição geral da aplicação em si.
+A avaliação consiste em perguntar ao testador sua opinião em relação a cada um dos tópicos previamente mencionados, requisitando uma nota de 0 a 10. Ademais, deve-se levantar uma avaliação geral da aplicação em si.
 
 Além disso, observou-se a dificuldade para concluir as atividades propostas aos voluntários no teste classificando-as como:
 
