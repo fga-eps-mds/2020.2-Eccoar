@@ -85,9 +85,9 @@
 | Sprint 5 | Issues e Histórias de Usuário     |
 | -------- | --------------------------------- |
 |          | Configurar CI/CD                  |
-|          | US10 - Formulário de denúncia     |
-|          | US16 - Feed de Denúncias          |
-|          | US27 - Serviço de e-mail          |
+|          | US - Formulário de denúncia       |
+|          | US - Feed de Denúncias            |
+|          | US - Serviço de e-mail            |
 |          | Configuração do SonarQube         |
 |          | Finalizar documentações para a R1 |
 |          | Rastreamento da Arquitetura       |
@@ -98,56 +98,71 @@
 
 | Sprint 6 | Issues e Histórias de Usuário |
 | -------- | ----------------------------- |
-|          | US24 - Status da Denúncia     |
-|          | US18 - Upvote em denúncia     |
+|          | US - Status da Denúncia       |
+|          | US - Upvote em denúncia       |
 |          |                               |
 
 # RELEASE 2
 
 ## Sprint 7
 
-| Sprint 7 | Issues e Histórias de Usuário |
-| -------- | ----------------------------- |
-|          |                               |
+| Sprint 7 | Issues e Histórias de Usuário                      |
+| -------- | -------------------------------------------------- |
+|          | US - Filtro de denúncia por votos                  |
+|          | US - Fechamento de denúncia resolvida e confirmada |
+|          | US - Composição de relatório                       |
 
 ## Sprint 8
 
-| Sprint 8 | Issues e Histórias de Usuário |
-| -------- | ----------------------------- |
-|          |                               |
+| Sprint 8 | Issues e Histórias de Usuário   |
+| -------- | ------------------------------- |
+|          | US - Geolocalização de denúncia |
+|          | US - Criar conta de cidadão     |
+|          | US - Detalhamento de denúncia   |
 
 ## Sprint 9
 
-| Sprint 9 | Issues e Histórias de Usuário |
-| -------- | ----------------------------- |
-|          |                               |
+| Sprint 9 | Issues e Histórias de Usuário                                 |
+| -------- | ------------------------------------------------------------- |
+|          | US - Filtro de denúncia por localização de usuário e denúncia |
+|          | US - Filtro de denúncia por usuário                           |
+|          | US - Edição de conta de usuário                               |
 
 ## Sprint 10
 
 | Sprint 10 | Issues e Histórias de Usuário |
 | --------- | ----------------------------- |
-|           |                               |
+|           | US - Filtro por categoria     |
+|           | US - Filtro por resolução     |
+|           | US - Comentário em denúncia   |
 
 ## Sprint 11
 
-| Sprint 11 | Issues e Histórias de Usuário |
-| --------- | ----------------------------- |
-|           |                               |
+| Sprint 11 | Issues e Histórias de Usuário  |
+| --------- | ------------------------------ |
+|           | US - Perfil de usuário         |
+|           | US - Foto dentro do aplicativo |
+|           | US - Notificação sobre status  |
 
 ## Sprint 12
 
-| Sprint 12 | Issues e Histórias de Usuário |
-| --------- | ----------------------------- |
-|           |                               |
+| Sprint 12 | Issues e Histórias de Usuário                       |
+| --------- | --------------------------------------------------- |
+|           | US - Notificação sobre envio para orgão responsável |
+|           | US - Notificação sobre resolução do problema        |
+|           | US - Landing page                                   |
 
 ## Sprint 13
 
-| Sprint 13 | Issues e Histórias de Usuário |
-| --------- | ----------------------------- |
-|           |                               |
+| Sprint 13 | Issues e Histórias de Usuário              |
+| --------- | ------------------------------------------ |
+|           | US - Notificações regulares sobre o status |
+|           | US - Página sobre legislação               |
+|           | Dívidas técnicas e refatorações de código  |
 
 ## Sprint 14
 
-| Sprint 14 | Issues e Histórias de Usuário |
-| --------- | ----------------------------- |
-|           |                               |
+| Sprint 14 | Issues e Histórias de Usuário                          |
+| --------- | ------------------------------------------------------ |
+|           | Dívidas técnicas e refatorações de código              |
+|           | Finalizar documentações para apresentação da Release 2 |
