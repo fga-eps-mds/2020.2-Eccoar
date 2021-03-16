@@ -4,6 +4,8 @@
 |--|--|--|--|
 |[Victor Buendia](https://github.com/Victor-Buendia)|Criação do documento; Adição de introdução, roteiro, preparação, cenário e tarefas.|11/03/21|0.1|
 |[Gabriel Sabanai](https://github.com/Sabanai104) e [Victor Buendia](https://github.com/Victor-Buendia)| Adição do tópico de avaliação e resultado|11/03/21|0.2|
+|[Gabriel Sabanai](https://github.com/Sabanai104)| Adição de gráficos e dados finais.|14/03/21|0.3|
+|[Victor Buendia](https://github.com/Victor-Buendia)| Correção de erros gramaticais.|15/03/21|0.4|
 
 ## Introdução
 Os testes de usabilidade são importantes para garantir uma boa experiência do usuário no uso do **PRODUTO**. Sua importância está ligada com a viabilização da avaliação, dividida em três etapas: Simplicidade, que diz respeito à facilidade de utilizar e entender uma tarefa; Usabilidade, que diz respeito à experiência ao se realizar a atividade; e o Design, que diz respeito à questões estéticas e de layout.
