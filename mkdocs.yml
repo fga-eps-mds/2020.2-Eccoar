@@ -67,6 +67,8 @@ pages:
           - Retrospectiva: "sprints/3/retrospectiva.md"
       - Sprint 4:
           - Planning: "sprints/4/planning.md"
+      - Sprint 5:
+          - Planning: "sprints/5/planning.md"
   - Produto:
       - Documento de Visão: "produto/documento-visao.md"
       - Backlog do Produto: "produto/backlogProduto.md"
