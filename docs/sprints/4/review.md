@@ -8,15 +8,15 @@
 
 ## Avaliação do Scrum Master
 
-- A sprint foi marcada pela saída de um dos membros d grupo de MDS, o que afetou um pouco a moral do time.
+- A sprint foi marcada pela saída de um dos membros do grupo de MDS, o que afetou um pouco a moral do time.
 - Burndown continua retangular, com muitas issues sendo fechadas no último ou penúltimo dia da sprint.
-- Houveram duas issues que se tornaram dívida técnica novamente, isso se dev bastante ao fato dos membros estarem deixando pra realizar as tarefas no final da sprint, não levando em consideração o tempo de review.
+- Houveram duas issues que se tornaram dívida técnica novamente, isso se deve bastante ao fato dos membros estarem deixando pra realizar as tarefas no final da sprint, não levando em consideração o tempo de review.
 - O velocity da sprint foi um pouco menor do que a sprint anterior, levando em consideração também que houveram duas dívidas técnicas que não tinham sido nem iniciadas.
 - O conhecimento dos membros voltou a subir, tanto de MDS quando de EPS, isso ocorreu devido ao início da prática com código de alguns membros além de uma preocupação dos membros em estudar as tecnologias que serão utilizadas.
-- Durante a reunião da sprint foi levantado o problema de faltade organização com arquivos CSS/SASS, como solução foi proposta uma nova arquitetura para melhorar esse problema, com isso será realizada um estudo e refatoração do código já criado, gerando um novo risco.
+- Durante a reunião da sprint foi levantado o problema de falta de organização com arquivos CSS/SASS, como solução foi proposta uma nova arquitetura para melhorar esse problema, com isso será realizada um estudo e refatoração do código já criado, gerando um novo risco.
 - Alguns dos membros relataram estar tendo dificuldades com internet e computador lento, porém não há como prever o impacto que esses problemas terão no projeto.
 - Houve um aumento bastante relevante no tempo de início das tarefas até o final, principalmente no tempo em que a tarefa está ficando em revisão. Isso está acontecendo por conta do início das atividades se utilizando código, o que aumenta tanto o tempo em que a tarefa fica em progresso, por conta da baixa experiência da equipe de MDS e também pelo tempo maior necessário para revisão do código, que inclui não só estes na implementação, mas também revisão do código escrito.
-- O humor do time diminuiu bastante, isso se deve a problemas pessoais de alguns membros membros, além da saída de um MDS da equipe e alguns membros relataram cansaço e falta de tempo durante a sprint.
+- O humor do time diminuiu bastante, isso se deve a problemas pessoais de alguns membros, além da saída de um MDS da equipe e alguns membros relataram cansaço e falta de tempo durante a sprint.
 
 ## Reports
 
