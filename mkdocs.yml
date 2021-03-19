@@ -67,6 +67,10 @@ pages:
           - Retrospectiva: "sprints/3/retrospectiva.md"
       - Sprint 4:
           - Planning: "sprints/4/planning.md"
+          - Review: "sprints/4/review.md"
+          - Retrospectiva: "sprints/4/retrospectiva.md"
+      - Sprint 5:
+          - Planning: "sprints/5/planning.md"
   - Produto:
       - Documento de Visão: "produto/documento-visao.md"
       - Roadmap do Produto: "produto/roadmap.md"
@@ -82,4 +86,7 @@ pages:
   - Projeto:
       - Termo de Abertura do Projeto: "projeto/tap.md"
       - Documento de Arquitetura: "projeto/documento-arquitetura.md"
+      - Rastros da Arquitetura: "projeto/rastro-arquitetura.md"
       - Earned Value Management: "projeto/evm.md"
+  - Experiência do Usuário:
+      - Teste de Usabilidade: "usuario/testesusabilidade.md"
