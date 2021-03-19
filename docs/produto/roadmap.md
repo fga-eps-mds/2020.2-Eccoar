@@ -96,11 +96,13 @@
 
 ## Sprint 6
 
-| Sprint 6 | Issues e Histórias de Usuário |
-| -------- | ----------------------------- |
-|          | US - Status da Denúncia       |
-|          | US - Upvote em denúncia       |
-|          |                               |
+| Sprint 6 | Issues e Histórias de Usuário                 |
+| -------- | --------------------------------------------- |
+|          | US - Confirmação da Denúncia                  |
+|          | US - Upvote em denúncia                       |
+|          | US - Envio de e-mail, composição de relatório |
+|          | Terminar documentações para R1                |
+|          | Roteiro, slides e vídeo para entregar a R1    |
 
 # RELEASE 2
 
@@ -108,57 +110,60 @@
 
 | Sprint 7 | Issues e Histórias de Usuário                      |
 | -------- | -------------------------------------------------- |
-|          | US - Filtro de denúncia por votos                  |
+|          | US - Detalhamento da denúncia                      |
 |          | US - Fechamento de denúncia resolvida e confirmada |
-|          | US - Composição de relatório                       |
+|          | US - Envio de e-mail, por categoria e voto         |
 
 ## Sprint 8
 
 | Sprint 8 | Issues e Histórias de Usuário   |
 | -------- | ------------------------------- |
-|          | US - Geolocalização de denúncia |
+|          | US - Filtro por voto            |
 |          | US - Criar conta de cidadão     |
-|          | US - Detalhamento de denúncia   |
+|          | US - Geolocalização de denúncia |
 
 ## Sprint 9
 
 | Sprint 9 | Issues e Histórias de Usuário                                 |
 | -------- | ------------------------------------------------------------- |
 |          | US - Filtro de denúncia por localização de usuário e denúncia |
-|          | US - Filtro de denúncia por usuário                           |
-|          | US - Edição de conta de usuário                               |
+|          | US - Filtro de denúncia por resolvidas                        |
+|          | US - Upload de imagens                                        |
+|          | US - Deletar denúncia                                         |
 
 ## Sprint 10
 
-| Sprint 10 | Issues e Histórias de Usuário |
-| --------- | ----------------------------- |
-|           | US - Filtro por categoria     |
-|           | US - Filtro por resolução     |
-|           | US - Comentário em denúncia   |
+| Sprint 10 | Issues e Histórias de Usuário     |
+| --------- | --------------------------------- |
+|           | US - Tirar fotos de dentro do app |
+|           | US - Filtro por categoria         |
+|           | US - Perfil de usuário            |
+|           | US - Deletar usuário              |
 
 ## Sprint 11
 
-| Sprint 11 | Issues e Histórias de Usuário  |
-| --------- | ------------------------------ |
-|           | US - Perfil de usuário         |
-|           | US - Foto dentro do aplicativo |
-|           | US - Notificação sobre status  |
+| Sprint 11 | Issues e Histórias de Usuário                       |
+| --------- | --------------------------------------------------- |
+|           | US - Filtro de denúncia por usuário                 |
+|           | US - Comentários em denúncia                        |
+|           | US - Perfil de usuário com informações de denúncias |
 
 ## Sprint 12
 
 | Sprint 12 | Issues e Histórias de Usuário                       |
 | --------- | --------------------------------------------------- |
 |           | US - Notificação sobre envio para orgão responsável |
-|           | US - Notificação sobre resolução do problema        |
+|           | US - Notificação sobre mudança de status            |
 |           | US - Landing page                                   |
 
 ## Sprint 13
 
-| Sprint 13 | Issues e Histórias de Usuário              |
-| --------- | ------------------------------------------ |
-|           | US - Notificações regulares sobre o status |
-|           | US - Página sobre legislação               |
-|           | Dívidas técnicas e refatorações de código  |
+| Sprint 13 | Issues e Histórias de Usuário                |
+| --------- | -------------------------------------------- |
+|           | US - Notificação sobre resolução do problema |
+|           | US - Notificações regulares sobre o status   |
+|           | US - Página sobre legislação                 |
+|           | Dívidas técnicas e refatorações de código    |
 
 ## Sprint 14
 
