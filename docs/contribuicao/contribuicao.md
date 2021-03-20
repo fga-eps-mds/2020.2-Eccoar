@@ -24,7 +24,7 @@ Para contribuir com o projeto você pode estar abrindo _issues_ de sugestões e 
 - Abra uma _issue_ em nosso repositório, seguindo o nosso [template](https://github.com/fga-eps-mds/EPS-2020-2-G2/blob/main/.github/ISSUE_TEMPLATE/issue-template.md);
   - Se você só quer resolver uma _issue_ já aberta no respositório, se marque na _issue_ e comente nela (Atenção: Certifique-se de que não existe um responsável por essa _issue_ antes);
 - Faça um _fork_ do nosso projeto, se você for um contribuidor externo;
-- Crie uma _branch_ a partir da _develop_, seguindo a nossa [política de _branch_](#politica-de-branches);
+- Crie uma _branch_ a partir da _devel_, seguindo a nossa [política de _branch_](#politica-de-branches);
 - Crie um _Pull Request_ com o status de **_WIP_**, no repositório para certificarmos que você está trabalhando na _issue_;
 - Siga a [política de _commits_](#politica-de-commits) durante o desenvolvimento;
 - Ao final do desenvolvimento cetifique-se que seu código está funcionando e os testes passando;
@@ -39,7 +39,7 @@ Utilizamos dessa forma as seguintes _branches_:
 
 A _branch_ do nosso ambiente de Produção. Aqui é a _branch_ com o código mais estável do projeto. Todos os _commits_ diretos nessa _branch_ estão bloqueados.
 
-### **develop**
+### **devel**
 
 A _branch_ do nosso ambiente de Homologação.Essa é a _branch_ de integração das novas funcionalidades. Toda nova funcionalidade deve ser desenvolvida a partir dessa _branch_.
 
