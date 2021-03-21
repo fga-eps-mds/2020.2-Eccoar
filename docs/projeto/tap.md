@@ -8,6 +8,7 @@
 | [Victor Buendia](https://github.com/Victor-Buendia) | Criação da justificativa, produto do projeto, requisitos de alto nível, restrições do projeto, cronograma e marcos, e público alvo. | 24/02/21   | 0.2    |
 | [Victor Buendia](https://github.com/Victor-Buendia) | Criação dos riscos iniciais, custos estimados e referências                                                                         | 25/02/21   | 0.3    |
 | [Victor Buendia](https://github.com/Victor-Buendia) | Implementação de requisitos de alto nível, detalhamento dos riscos e ajustes gramaticais ao longo do texto                          | 26/02/2021 | 0.4    |
+| [Matheus Blanco](https://github.com/MatheusBlanco)  | Ajuste dos valores de custo                                                                                                         | 21/03/2021 | 0.5    |
 
 ## Introdução
 
@@ -145,16 +146,18 @@ Os custos estimados são para 15 sprints de projeto, ou seja, 15 semanas, totali
 
 ### Pessoal
 
-Utilizando como referência o site de busca de empregos **Glassdoor**, verificamos o salário de cada um dos papéis desempenhados pelo time.
+Utilizando como referência o site de busca de empregos **Glassdoor**, verificamos o salário de cada um dos papéis desempenhados pelo time. Além do salário angariado, fez-se um cálculo considerando as horas que um aluno investe na Universidade e as horas que são investidas no trabalho da disciplina.
 
-| Papel na equipe | Quantidade de membros na função | Transporte e alimentação/dia | Salário/mês | Total por mês | Total no tempo do projeto |
-| --------------- | ------------------------------- | ---------------------------- | ----------- | ------------- | ------------------------- |
-| Desenvolvedor   | 6                               | R$0,00                       | R$2.772,00  | R$16.632,00   | R$66.528,00               |
-| DevOps          | 1                               | R$0,00                       | R$11.000,00 | R$11.000,00   | R$44.000,00               |
-| Product Owner   | 1                               | R$0,00                       | R$7.614,00  | R$7.614,00    | R$30.456,00               |
-| Scrum Master    | 1                               | R$0,00                       | R$7.804,00  | R$7.804,00    | R$31.216,00               |
-| Arquiteto       | 1                               | R$0,00                       | R$10.000,00 | R$10.000,00   | R$40.000,00               |
-| Total           |                                 |                              |             | R$53.126,00   | R$212.200,00              |
+Considerando que um profissional invista 40 horas semanais para realizar seus trabalhos e considerando também que um aluno da disciplina invista por semana 19 horas para a conclusão de suas atividades, sendo 4 horar de aula, 3 horas de sprint planning e review, e 2 horas de trabalho por dia útil. Para melhor afunilar o custo necessário para se contratar um aluno da UnB que esteja trabalhando neste projet, pegamos o salário obtido no **Glassdoor**, dividimos-o pelas horas que um profissional deve separar em seu mês para trabalhar, obtendo o valor de trabalho por hora, e multiplicamos pelo valor obtido da soma das 19 horas pelas semanas de um mês, na fórmula: Custo = Salário/(160).(19 . 4)
+
+| Papel na equipe | Quantidade de membros na função | Transporte e alimentação/dia | Salário/mês | Custo mensal | Total no tempo do projeto |
+| --------------- | ------------------------------- | ---------------------------- | ----------- | ------------ | ------------------------- |
+| Desenvolvedor   | 6                               | R$0,00                       | R$2.772,00  | R$5.266,00   | R$21.067,00               |
+| DevOps          | 1                               | R$0,00                       | R$11.000,00 | R$5.225,00   | R$20.900,00               |
+| Product Owner   | 1                               | R$0,00                       | R$7.614,00  | R$3.616,65   | R$14.466,6                |
+| Scrum Master    | 1                               | R$0,00                       | R$7.804,00  | R$3.706,9    | R$14.827,6                |
+| Arquiteto       | 1                               | R$0,00                       | R$10.000,00 | R$4.750,00   | R$19.000,00               |
+| Total           |                                 |                              |             | R$22.564,00  | R$90.261,2                |
 
 Observações:
 
@@ -190,10 +193,10 @@ Fazendo um somatório de todos os gastos categorizados por tipo, chegamos na tot
 
 | Tipo de custo | Valor        |
 | ------------- | ------------ |
-| Equipe        | R$212.200,00 |
+| Equipe        | R$90.261,2   |
 | Aquisições    | R$42.990,00  |
 | Ferramentas   | R$269,76     |
-| Total         | R$255.459,76 |
+| Total         | R$133.520,96 |
 
 ## Stakeholders
 
