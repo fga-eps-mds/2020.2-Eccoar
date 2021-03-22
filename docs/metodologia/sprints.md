@@ -18,7 +18,7 @@ Além dos diagramas, também disponibilizamos os elementos de algumas metodolo
 
 Para complementar o entendimento dos nossos proessos, recomendo a leitura dos demais documentos de gerência utilizados, como:
 
-- [Ferramentas de Comnuicação](comunicacao.md)
+- [Ferramentas de Comunicação](comunicacao.md)
 - [Gerenciamento de Riscos](gerenciaRisco.md)
 - [Template de Sprint Review](templates/review.md)
 - [Template de Retrospectiva](templates/retrospective.md)
@@ -40,7 +40,7 @@ Esse diagrama mostra o fluxo de trabalho que deve ser usado para realizar uma ta
 
 ### Elementos Kanban
 
-- Utilização do ZenHub como kanban para gerenciament de tarefas;
+- Utilização do ZenHub como kanban para gerenciamento de tarefas;
 - Delimitação de responáveis pelas tarefas;
 - Limitação de quantidade de trabalho limite por membro;
 - Coleta de métricas de produtividade;
