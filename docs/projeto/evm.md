@@ -20,6 +20,8 @@ O EVM é calculado em uma série de etapas que comprimem a relação de custos, 
 
 A tabela de EVM da equipe encontra-se [aqui](https://docs.google.com/spreadsheets/d/1dIPz4ku9tcfeAwUH-QSNfKg3fyFHK_nozA9CRUzxwNs/edit?usp=sharing).
 
+<iframe src="https://docs.google.com/spreadsheets/d/1dIPz4ku9tcfeAwUH-QSNfKg3fyFHK_nozA9CRUzxwNs/edit?usp=sharing" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 ## Valor planejado (PV)
 
 O valor planejado de um projeto se refere ao custo total do mesmo em determinado período de tempo, levando em consideração o BAC, valor total de custos calculado para o projeto. O BAC deste projeto foi calculado de acordo com custos de ferramentas, salário de membros envolvidos e de equipamentos necessitados para que os mesmos pudessem produzir. Tais valores encontram-se melhor detalhados no [Termo de Abertura de Projeto](./tap.md), e se resume no valor de **R$ 133.520,96**.
