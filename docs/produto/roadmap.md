@@ -2,9 +2,10 @@
 
 ## Histórico de Revisão
 
-| Autor                                              | Mudanças             | Data     | Versão |
-| -------------------------------------------------- | -------------------- | -------- | ------ |
-| [Matheus Blanco](https://github.com/MatheusBlanco) | Criação do documento | 15/03/21 | 0.1    |
+| Autor                                              | Mudanças                     | Data     | Versão |
+| -------------------------------------------------- | ---------------------------- | -------- | ------ |
+| [Matheus Blanco](https://github.com/MatheusBlanco) | Criação do documento         | 15/03/21 | 0.1    |
+| [Matheus Blanco](https://github.com/MatheusBlanco) | Ajustes da ordem das tarefas | 21/03/21 | 0.2    |
 
 # RELEASE 1
 
@@ -96,13 +97,13 @@
 
 ## Sprint 6
 
-| Sprint 6 | Issues e Histórias de Usuário                 |
-| -------- | --------------------------------------------- |
-|          | US - Confirmação da Denúncia                  |
-|          | US - Upvote em denúncia                       |
-|          | US - Envio de e-mail, composição de relatório |
-|          | Terminar documentações para R1                |
-|          | Roteiro, slides e vídeo para entregar a R1    |
+| Sprint 6 | Issues e Histórias de Usuário              |
+| -------- | ------------------------------------------ |
+|          | US - Confirmação da Denúncia               |
+|          | US - Upvote em denúncia                    |
+|          | US - Composição de relatório               |
+|          | Terminar documentações para R1             |
+|          | Roteiro, slides e vídeo para entregar a R1 |
 
 # RELEASE 2
 
