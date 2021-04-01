@@ -5,7 +5,7 @@ site_dir: site
 copyright: Copyright &copy; 2021, <a href="https://github.com/fga-eps-mds/EPS-2020-2-G2">EPS-MDS-2020-G2</a>.
 theme:
   name: "material"
-  logo: assets/img/logo.png
+  logo: assets/img/isotipoBranco.png
   favicon: assets/img/favicon.ico
   palette:
     primary: "white"
@@ -77,6 +77,8 @@ pages:
           - Retrospectiva: "sprints/5/retrospectiva.md"
       - Sprint 6:
           - Planning: "sprints/6/planning.md"
+          - Review: "sprints/6/review.md"
+          - Retrospectiva: "sprints/6/retrospectiva.md"
   - Produto:
       - Documento de Visão: "produto/documento-visao.md"
       - Roadmap do Produto: "produto/roadmap.md"
