@@ -17,7 +17,7 @@
 As duplas para essa sprint foram escolhidas com base em alguns pontos de atenção:
 
 - Níveis de experiência dos membros, pareando membros com mais experiência em código com membros com menos experiência em código;
-- Uma das equipes foi montada com um membro de EPS e um membro de MDS, para que o membro de MDS não se sobrecarregasse em suas atividades.
+- Uma das equipes foi montada com um membro de EPS e 2 membros de MDS, para que o membro de MDS não se sobrecarregasse em suas atividades.
 - As duplas também foram criadas considerando os horários dos membros, de maneira a parear os que possuem melhor compatibilidiade.
 
 | Pareamento | Membros                                |
@@ -46,7 +46,7 @@ As duplas para essa sprint foram escolhidas com base em alguns pontos de atenç�
 | [Configurar o Flaggr](https://github.com/fga-eps-mds/EPS-2020-2-G2/issues/129)                                | 5      | Saleh Kader                            |
 | [US11 - Upload de fotos](https://github.com/fga-eps-mds/EPS-2020-2-G2/issues/126)                             | 8      | Gabriel Sabanai e Luiz Pettengil       |
 | [US17 - Detalhamento da denúncia](https://github.com/fga-eps-mds/EPS-2020-2-G2/issues/125)                    | 3      | Luiz Henrique e Victor Buendia         |
-| [US26 - Detalhamento da denúncia](https://github.com/fga-eps-mds/EPS-2020-2-G2/issues/124)                    | 13     | Arthur Matos, Brian Pina e Saleh Kader |
+| [US26 - Envio de e-mails](https://github.com/fga-eps-mds/EPS-2020-2-G2/issues/124)                            | 13     | Arthur Matos, Brian Pina e Saleh Kader |
 | **Total de pontos estimados**                                                                                 | **54** |                                        |
 
 ## Papéis
