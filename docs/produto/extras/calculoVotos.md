@@ -25,6 +25,43 @@ Para se alcançar uma fórmula satisfatória e que representasse da melhor manei
 - Pesquisa de densidade demográfica do DF. A partir do estudo de um censo [1] das regiões administrativas do DF, pudemos ter um paronama geral da quantidade de pessoas moradoras em uma área de 1 héctare (10 mil m²). Os resultados foram anotados em uma [tabela](https://docs.google.com/document/d/1XNyyUlRmfW0P4hhyy5SEMRSILI2vUtCO8WhCaj4CLtU/edit?usp=sharing) e utilizados para o cálculo posterior;
 - Pesquisa de informação acerca dos índices recentes de isolamento social no DF. Como nosso produto é impactado principalmente pelo fluxo de pessoas na rua, sabemos que a densidade demográfica não representa necessáriamente os valores atuais. Dessa forma, pegamos em uma reportagem recente que o índice de adesão ao isolamento social se encontra na casa 44% [2];
 
+### Tabela de RAs
+
+| RA                 | Densidade Urbana (hab/ha) | Porcentagem escolhida |
+| ------------------ | ------------------------- | --------------------- |
+| Varjão             | 142,27                    | 4.2173332396148%      |
+| Candangolândia     | 137,38                    | 4.3674479545785%      |
+| Ceilândia          | 129,94                    | 4.6175157765122%      |
+| Recanto das emas   | 117,88                    | 5.08992195453%        |
+| São sebastião      | 112,75                    | 5.3215077605322%      |
+| Estrutural         | 109,73                    | 5.4679668276679%      |
+| Sudoeste           | 104,77                    | 5.7268301994846%      |
+| Samambaia          | 103,31                    | 5.8077630432678%      |
+| Cruzeiro           | 101,63                    | 5.903768572272%       |
+| Brazlândia         | 93,52                     | 6.4157399486741%      |
+| Paranoá            | 92,26                     | 6.5033600693692%      |
+| Riacho Fundo 1     | 86,06                     | 6.9718800836626%      |
+| Riacho Fundo 2     | 83,59                     | 7.1778920923555%      |
+| Itapoã             | 81,93                     | 7.3233247894544%      |
+| Taguatinga         | 80,5                      | 7.4534161490683%      |
+| Núcleo Bandeirante | 78,60                     | 7.6335877862595%      |
+| Guará              | 73,55                     | 8.1577158395649%      |
+| Águas Claras       | 71,53                     | 8.3880889137425%      |
+| Planaltina         | 63,72                     | 9.4161958568738%      |
+| Sobradinho 2       | 58,94                     | 10.17984390906%       |
+| Santa Maria        | 57,60                     | 10.416666666667%      |
+| Gama               | 50,96                     | 11.773940345369%      |
+| Sobradinho         | 41,73                     | 14.378145219267%      |
+| Vicente Pires      | 31,95                     | 18.779342723005%      |
+| Fercal             | 29,57                     | 20.290835306053%      |
+| Plano Piloto       | 20,64                     | 29.06976744186%       |
+| Lago Norte         | 9,99                      | 60.06006006006%       |
+| Jardim Botânico    | 8,91                      | 67.340067340067%      |
+| Lago Sul           | 6,66                      | 90.09009009009%       |
+| Park Wway          | 3,50                      | 171.42857142857%      |
+| SIA                | 1,08                      | 555.55555555556%      |
+| DF                 | 47,19                     | 12.714558169104%      |
+
 ## O cálculo
 
 Tendo essas informações em mãos, montamos uma fórmula que considera as densidades demográficas de todas as regiões administrativas do DF, calcula uma provável porcentagem de votos baseada nas observações do Colab, e tira a média simples dessa porcentagem para que se possa obter um valor representativo do DF como um todo. Posteriormente, considerando-se o contexto de pandemia, multiplica-se essa porcentagem pelo índice de adesão ao isolamento social para que se possa obter um valor reduzido e que represente os tempos atuais que o DF se encontra.
