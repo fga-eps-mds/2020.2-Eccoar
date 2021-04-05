@@ -85,6 +85,8 @@ pages:
       - Identidade Visual: "produto/identidadevisual.md"
       - Protótipo: "produto/prototipo.md"
       - Lean inception: "produto/lean-inception.md"
+      - Extras:
+          - Cálculo para contagem de votos: "produto/extras/calculoVotos.md"
       - Backlog e Critérios de Aceitação:
           - Backlog do Produto: "produto/backlogAceitacao/backlogProduto.md"
           - Critérios de Aceitação: "produto/backlogAceitacao/criteriosAceitacao.md"
