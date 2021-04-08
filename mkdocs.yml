@@ -79,12 +79,16 @@ pages:
           - Planning: "sprints/6/planning.md"
           - Review: "sprints/6/review.md"
           - Retrospectiva: "sprints/6/retrospectiva.md"
+      - Sprint 7:
+          - Planning: "sprints/7/planning.md"
   - Produto:
       - Documento de Visão: "produto/documento-visao.md"
       - Roadmap do Produto: "produto/roadmap.md"
       - Identidade Visual: "produto/identidadevisual.md"
       - Protótipo: "produto/prototipo.md"
       - Lean inception: "produto/lean-inception.md"
+      - Extras:
+          - Cálculo para contagem de votos: "produto/extras/calculoVotos.md"
       - Backlog e Critérios de Aceitação:
           - Backlog do Produto: "produto/backlogAceitacao/backlogProduto.md"
           - Critérios de Aceitação: "produto/backlogAceitacao/criteriosAceitacao.md"
