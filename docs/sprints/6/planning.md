@@ -1,4 +1,4 @@
-# Planning Sprint 3
+# Planning Sprint 6
 
 ## Histórico de revisão
 
