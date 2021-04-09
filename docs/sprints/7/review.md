@@ -8,8 +8,8 @@
 
 ## Avaliação do Scrum Master
 
-- Estamosvindo em uma sequência de sprints com muita dívida técnica, o que tem acontecido é que muitas issues estão sendo terminadas no começo da sprint seguinte. Para enfrentar esse risco decidimos quea sprint seguinte será focada em eliminar as dívidas técnicas e em refatorar os repositórios;
-- O quadro de conhecimento continua subindo, mesmo com o novo integrante, o que mostra o constate crescimento da equipe;
+- Estamos vindo em uma sequência de sprints com muita dívida técnica, o que tem acontecido é que muitas issues estão sendo terminadas no começo da sprint seguinte. Para enfrentar esse risco decidimos que a sprint seguinte será focada em eliminar as dívidas técnicas e em refatorar os repositórios;
+- O quadro de conhecimento continua subindo, mesmo com o novo integrante, o que mostra o constante crescimento da equipe;
 - Foi notado um novo risco relacionado ao ambiente de produção da aplicação que irá ser alterado do google cloud para a digital ocean;
 - O tempo de ciclo das issues continua bem parecido com as últimas sprints;
 - Apesar de indicado que o tempo de review diminuiu durante a retrospectiva, a realidade é que o tempo em que as issues estão em review aumentou, uma causa pode ser que o tempo para alguém começar a revisar diminuiu mas o tempo para reparo aumentou;
