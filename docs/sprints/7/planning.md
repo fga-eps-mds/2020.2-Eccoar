@@ -1,4 +1,4 @@
-# Planning Sprint 3
+# Planning Sprint 7
 
 ## Histórico de revisão
 
@@ -8,8 +8,8 @@
 
 ## Tamanho da Sprint
 
-- Início: 20/03/2021
-- Término: 27/03/2021
+- Início: 27/03/2021
+- Término: 03/03/2021
 - Duração: 7 dias
 
 ## Pareamentos
@@ -62,11 +62,11 @@ As duplas para essa sprint foram escolhidas com base em alguns pontos de atenç�
 
 ### MDS
 
-| Papel         | Membro Encarregado                                  |
-| ------------- | --------------------------------------------------- |
-| Desenvolvedor | [Arthur Matos](https://github.com/Arthur-Matos)     |
-| Desenvolvedor | [Brian Pina](https://github.com/DLBrianPina)        |
-| Desenvolvedor | [Gabriel Sabanai](https://github.com/Sabanai104)    |
-| Desenvolvedor | [Luiz Henrique](https://github.com/luiz-herique)    |
-| Desenvolvedor | [Nicolas Chagas](https://github.com/nszchagas)      |
-| Desenvolvedor | [Victor Buendia](https://github.com/Victor-Buendia) |
+| Papel         | Membro Encarregado                                   |
+| ------------- | ---------------------------------------------------- |
+| Desenvolvedor | [Arthur Matos](https://github.com/Arthur-Matos)      |
+| Desenvolvedor | [Brian Pina](https://github.com/DLBrianPina)         |
+| Desenvolvedor | [Gabriel Sabanai](https://github.com/Sabanai104)     |
+| Desenvolvedor | [Luiz Henrique](https://github.com/luiz-herique)     |
+| Desenvolvedor | [Luiz Pettengill](https://github.com/LuizPettengill) |
+| Desenvolvedor | [Victor Buendia](https://github.com/Victor-Buendia)  |
