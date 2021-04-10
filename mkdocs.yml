@@ -81,6 +81,8 @@ pages:
           - Retrospectiva: "sprints/6/retrospectiva.md"
       - Sprint 7:
           - Planning: "sprints/7/planning.md"
+          - Review: "sprints/7/review.md"
+          - Retrospectiva: "sprints/7/retrospectiva.md"
   - Produto:
       - Documento de Visão: "produto/documento-visao.md"
       - Roadmap do Produto: "produto/roadmap.md"
