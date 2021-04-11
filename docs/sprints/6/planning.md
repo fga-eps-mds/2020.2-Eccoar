@@ -64,5 +64,4 @@ As duplas para essa sprint foram escolhidas com base em alguns pontos de aten√ß√
 | Desenvolvedor | [Brian Pina](https://github.com/DLBrianPina)        |
 | Desenvolvedor | [Gabriel Sabanai](https://github.com/Sabanai104)    |
 | Desenvolvedor | [Luiz Henrique](https://github.com/luiz-herique)    |
-| Desenvolvedor | [Nicolas Chagas](https://github.com/nszchagas)      |
 | Desenvolvedor | [Victor Buendia](https://github.com/Victor-Buendia) |
