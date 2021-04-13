@@ -4,7 +4,7 @@
 
 | Autor                                              | Mudanças             | Data       | Versão |
 | -------------------------------------------------- | -------------------- | ---------- | ------ |
-| [Matheus Blanco](https://github.com/MatheusBlanco) | Criação do documento | 26/03/2021 | 1.0    |
+| [Matheus Blanco](https://github.com/MatheusBlanco) | Criação do documento | 10/04/2021 | 1.0    |
 
 ## Tamanho da Sprint
 
