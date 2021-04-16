@@ -8,7 +8,7 @@
 
 ## Avaliação do Scrum Master
 
-- Fizemos uma sprint para poder nos livrasdas dívidas técnicas e refatorar o código, melhorando usa manutebilidade e cobertura de testes, apesar de novas dívidas terem acontecido, o que foi feito será merjado desde que não quebre nada;
+- Fizemos uma sprint para poder nos livras das dívidas técnicas e refatorar o código, melhorando sua manutebilidade e cobertura de testes, apesar de novas dívidas terem acontecido, o que foi feito será merjado desde que não quebre nada;
 - Os nível de conhecimento, principalmente de MDS continua subindo;
 - Na sprint a seguir iremos mudar nosso gitflow, retirando a branch devel, haverá um trabalho para migrar tudo das branchs devel para a main;
 - O tempo de ciclo do início ao fim das issues estabilizou;
