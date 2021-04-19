@@ -103,3 +103,7 @@ Co-authored-by: Kazuma Kiryu <kiryu.dragon.2020@email.com>
 ```
 
 Dessa forma o _commit_ será atribuido para ambos desenvolvedores.
+
+## Referências
+
+- Understanding the GitHub flow. GitHub, 2020. Disponível em: <https://guides.github.com/introduction/flow//>. Acesso em 19 de abr. de 2021.
