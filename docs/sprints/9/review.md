@@ -8,7 +8,7 @@
 
 ## Avaliação do Scrum Master
 
-- Tivemos uma sprint com issues mais tranquilhas, com pontuações de 3 e 5 na maioria, com isso os membros relataram ficar mais tranquilhos durante a semana;
+- Tivemos uma sprint com issues mais tranquilas, com pontuações de 3 e 5 na maioria, com isso os membros relataram ficar mais tranquilos durante a semana;
 - As issues que ficaram em dívida os membros relataram dificuldade com as ferramentas novas desde o início da semana, isso se deve a introdução do firebase como ferramenta no projeto;
 - O burndown deu uma boa melhorada, porém ainda está deslocado, talvez iniciando as issues um ou dois dias antes a equipe fique com um burndown ideal;
 - Temos ocilado o velocity por volta das mesmas pontuações, acredito que algo nessa média de 30 pontos seja o ideal para a equipe;
