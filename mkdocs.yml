@@ -89,6 +89,8 @@ pages:
           - Retrospectiva: "sprints/8/retrospectiva.md"
       - Sprint 9:
           - Planning: "sprints/9/planning.md"
+          - Review: "sprints/9/review.md"
+          - Retrospectiva: "sprints/9/retrospectiva.md"
       - Sprint 10:
           - Planning: "sprints/10/planning.md"
   - Produto:
