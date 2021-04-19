@@ -4,7 +4,7 @@
 
 | Autor                                | Mudanças             | Data       | Versão |
 | ------------------------------------ | -------------------- | ---------- | ------ |
-| [Pedro Féo](https://github.com/phe0) | Criação do documento | 08/04/2021 | 1.0    |
+| [Pedro Féo](https://github.com/phe0) | Criação do documento | 16/04/2021 | 1.0    |
 
 ## Avaliação do Scrum Master
 
