@@ -2,9 +2,10 @@
 
 ## Histórico de revisão
 
-| Autor                                | Mudanças             | Data       | Versão |
-| ------------------------------------ | -------------------- | ---------- | ------ |
-| [Pedro Féo](https://github.com/phe0) | Criação do documento | 22/03/2021 | 1.0    |
+| Autor                                | Mudanças                       | Data       | Versão |
+| ------------------------------------ | ------------------------------ | ---------- | ------ |
+| [Pedro Féo](https://github.com/phe0) | Criação do documento           | 22/03/2021 | 1.0    |
+| [Pedro Féo](https://github.com/phe0) | Adicionando Weekly ao processo | 19/04/2021 | 1.1    |
 
 ## Introdução
 
@@ -63,6 +64,10 @@ Esse diagrama mostra o fluxo de trabalho que deve ser usado para realizar uma ta
 - Sprint Backlog;
 - Uso de critérios de aceitação;
 - Entregas incrementais;
+
+#### Extras
+
+- As reuniões de daily via chat se mostraram pouco efetivas, por conta disso adicionamos uma reunião semanal, chamada de weekly, toda quarta-feira para fazermos um checkpoint com todo o grupo;
 
 ## Referências
 
