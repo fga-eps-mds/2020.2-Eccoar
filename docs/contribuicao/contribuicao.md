@@ -5,6 +5,7 @@
 | Autor                                       | Descrição            | Data       | Versão |
 | ------------------------------------------- | -------------------- | ---------- | ------ |
 | [Saleh Kader](https://github.com/devsalula) | Criação do Documento | 12/02/2021 | 1.0    |
+| [Pedro Féo](https://github.com/Phe0)        | Alteração do gitflow | 19/04/2021 | 1.1    |
 
 ## Contribuindo para o projeto
 
@@ -32,16 +33,18 @@ Para contribuir com o projeto você pode estar abrindo _issues_ de sugestões e 
 
 ## Política de _Branches_
 
-A nossa política de _Branches_ é baseada no [_Gitflow_](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow).
+A nossa política de _Branches_ é baseada no [_GitHub flow_](https://guides.github.com/introduction/flow/).
 Utilizamos dessa forma as seguintes _branches_:
 
 ### **main**
 
-A _branch_ do nosso ambiente de Produção. Aqui é a _branch_ com o código mais estável do projeto. Todos os _commits_ diretos nessa _branch_ estão bloqueados.
+É a _branch_ principal do projeto, ela é usada tanto para o ambiente de Homologação quanto o ambiente de Produção.
 
-### **devel**
+Existe somente uma regra para essa _branch_, que o código nela deve ser sempre possível de realizar o deploy.
 
-A _branch_ do nosso ambiente de Homologação.Essa é a _branch_ de integração das novas funcionalidades. Toda nova funcionalidade deve ser desenvolvida a partir dessa _branch_.
+Quando um novo código vai para essa _branch_ o deploy é realizado automaticamente para o ambiente de Homologação e caso uma tag seja gerada a partir dessa branch, irá automaticamente para o ambiente de Produção.
+
+Todos os _commits_ diretos nessa _branch_ estão bloqueados, sendo acessível apenas através de _Pull Requests_.
 
 #### **_Nomeclatura_**
 
@@ -100,3 +103,7 @@ Co-authored-by: Kazuma Kiryu <kiryu.dragon.2020@email.com>
 ```
 
 Dessa forma o _commit_ será atribuido para ambos desenvolvedores.
+
+## Referências
+
+- Understanding the GitHub flow. GitHub, 2020. Disponível em: <https://guides.github.com/introduction/flow//>. Acesso em 19 de abr. de 2021.
