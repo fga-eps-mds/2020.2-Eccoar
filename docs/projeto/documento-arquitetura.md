@@ -10,6 +10,7 @@
 |[Brian Pina](https://github.com/DLBrianPina), [Arthur Matos](https://github.com/Arthur-Matos), <br/>[Gabriel Sabanai](https://github.com/Sabanai104) e [Saleh Kader](https://github.com/devsalula)|Tópicos: 3, 4.2 |05/03/2021|0.4|
 |[Saleh Kader](https://github.com/devsalula)| Tópicos: 1.4, 4.2, 4.3 | 05/03/2021 | 0.5|
 |[Saleh Kader](https://github.com/devsalula)| Tópicos: 1.3, 1.4, 2.0, 2.1, 4.3 | 23/03/2021 | 0.6|
+|[Saleh Kader](https://github.com/devsalula)| Tópicos: 1.3, 2.0, 2.1 | 23/03/2021 | 0.6|
 
 ## 1. Introdução
 
@@ -29,6 +30,7 @@ Esse documento tem como objetivo representar as decisões arquiteturais do Eccoa
 * API Gateway: O *gateway* de API é uma ferramenta de gerenciamento de APIs que fica entre o cliente e uma coleção de serviços de *back end*.
 * _Progressive Web App_ (PWA): são aplicações desenvolvidas para web que dão acesso a funcionalidades nativas, tendo como três pilares instabilidade, confiabilidade e capacidade.
 * _Feature Toggle_: Conjunto de Padrões de desenvolvimento de software, que ajudam equipes entregar novas funcionalidade de maneira mais segura e sem dependência entre elas.
+* BaaS: Backend as a Service é um recurso de desenvolvimento _Serverless_, onde se terceiriza o gerenciamento de infraestrutura e recursos para terceiros, dando maior liberdade para o desenvolvimento.
 
 ### 1.4 Referências
 > Parnas, D. L. On the Criteria To Be Used in Decomposing Systems into Modules. Comm. ACM (Dec., 1972) 1053-1056
@@ -86,6 +88,10 @@ Foram escolhidas as seguintes tecnologias de desenvolvimento:
 * **Typescript**: Typescript é um superconjunto de Javascript que insere na linguagem conceitos como tipagem estática, forte e inferida.
 
 * **Redis**: Redis é um banco de dados em memória altamente performático com funciona com base em estruturas de chave-valor. Utilizado para gerenciar a fila de mensagens no serviço de emails.
+
+**MariaDB**: MariaDB é um banco de dados relacional que surgiu de um fork do MySQL. Ele pertence a um seleto grupo de bancos de dados NewSQL, onde se utiliza o modelo de organização dos bancos relacionais, com algumas das maiores vantagens dos bancos NoSQL. 
+
+**Firebase**: Firebase é uma plataforma BaaS desenvolvida pelo Google, com o objetivo de prestar serviços qualificados em desenvolvimentos em nuvem. Na aplicação é utilizado para atuar com um servidor de usuários, criando um servidor completo de autenticação de usuário.
 
 * **Sass**: O Sass é uma linguagem de folha de estilo compilada para CSS, adicionando poder para a linguagem. Com o Sass é possível utilizar variáveis, regras de alinhamento, mixins, funções e várias outras funcionalidades.
 
