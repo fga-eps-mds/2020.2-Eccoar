@@ -30,7 +30,7 @@ Esse documento tem como objetivo representar as decisões arquiteturais do Eccoa
 * API Gateway: O *gateway* de API é uma ferramenta de gerenciamento de APIs que fica entre o cliente e uma coleção de serviços de *back end*.
 * _Progressive Web App_ (PWA): são aplicações desenvolvidas para web que dão acesso a funcionalidades nativas, tendo como três pilares instabilidade, confiabilidade e capacidade.
 * _Feature Toggle_: Conjunto de Padrões de desenvolvimento de software, que ajudam equipes entregar novas funcionalidade de maneira mais segura e sem dependência entre elas.
-* BaaS: Backend as a Service é um recurso de desenvolvimento _Serveless_, onde se terceiriza o gerenciamento de infraestrutura e recursos para terceiros, dando maior liberdade para o desenvolvimento.
+* BaaS: Backend as a Service é um recurso de desenvolvimento _Serverless_, onde se terceiriza o gerenciamento de infraestrutura e recursos para terceiros, dando maior liberdade para o desenvolvimento.
 
 ### 1.4 Referências
 > Parnas, D. L. On the Criteria To Be Used in Decomposing Systems into Modules. Comm. ACM (Dec., 1972) 1053-1056
