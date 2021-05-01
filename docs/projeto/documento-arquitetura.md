@@ -11,6 +11,7 @@
 |[Saleh Kader](https://github.com/devsalula)| Tópicos: 1.4, 4.2, 4.3 | 05/03/2021 | 0.5|
 |[Saleh Kader](https://github.com/devsalula)| Tópicos: 1.3, 1.4, 2.0, 2.1, 4.3 | 23/03/2021 | 0.6|
 |[Saleh Kader](https://github.com/devsalula)| Tópicos: 1.3, 2.0, 2.1 | 23/03/2021 | 0.6|
+|[Guilherme Marques](https://github.com/guilhesme23)| Tópico: 5 | 29/04/2021 | 0.7|
 
 ## 1. Introdução
 
@@ -154,3 +155,9 @@ A aplicação no *Front End* será construído por completo em cima da tecnologi
 O Diagrama Entidade Relacionamento foi importante para a facilitação na modelagem dos microsserviços, nele é ilustrado como entidades se relacionarão dentro do sistema. Ficou modelado da seguinte forma:
 
 ![Diagrama Entidade Relacionamento](../assets/img/produtos/diagramadados.jpg)
+
+## 5. Visão de Implantação
+
+O sistema é empacotado em imagens Docker e Helm charts e por final o chart é implantado em cluster Kubernetes e se torna acessível ao público geral.
+
+![Pipeline flow](../assets/img/pipeline-flow.png)
