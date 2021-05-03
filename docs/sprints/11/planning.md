@@ -1,4 +1,4 @@
-# Planning Sprint 8
+# Planning Sprint 11
 
 ## Histórico de revisão
 
@@ -39,7 +39,7 @@ As duplas para essa sprint foram escolhidas com base em alguns pontos de atenç�
 | --------------------------------------------------------------------------------------------------- | ------ | ------------------------------------------- |
 | [Documentação Planning Sprint 11](https://github.com/fga-eps-mds/EPS-2020-2-G2/issues/188)          | 1      | Matheus Blanco                              |
 | [Documentação Review Sprint 10](https://github.com/fga-eps-mds/EPS-2020-2-G2/issues/189)            | 1      | Pedro Féo                                   |
-| [Revisão: CI/CD](https://github.com/fga-eps-mds/EPS-2020-2-G2/issues/185)                           | 3      | Guilherm Marques                            |
+| [Revisão: CI/CD](https://github.com/fga-eps-mds/EPS-2020-2-G2/issues/185)                           | 3      | Guilherme Marques                            |
 | [Configurar CI/CD do repositório de Users](https://github.com/fga-eps-mds/EPS-2020-2-G2/issues/186) | 5      | Guilherme Marques                           |
 | [Prototipar a tela da Landing Page](https://github.com/fga-eps-mds/EPS-2020-2-G2/issues/187)        | 2      | Matheus Blanco                              |
 | [Cobertura de testes: Front-end](https://github.com/fga-eps-mds/EPS-2020-2-G2/issues/183)           | 8      | Victor Buendia e Luiz Pettengil             |
