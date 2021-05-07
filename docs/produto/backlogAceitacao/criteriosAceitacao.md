@@ -205,13 +205,7 @@ Este artefato diz respeito a lista de critérios necessários para que as [hist�
 - Deverá implementar um cronjob que irá ativar as funções de geração de report e envio de e-mails todo mês no dia 26;
 - Funcionalidade testada;
 
-## US30 - Eu, como cidadão, desejo poder ver apenas as denúncias que estejam perto de mim, para que eu possa identificar os problemas existentes em uma área que eu possa alcançar sem muito esforço ou gasto de recursos
-
-- O usuário deve ser capaz de ver, no feed de denúncias, apenas aquelas que estejam perto de si, em um raio de 2 quilômetros;
-- O usuário deve ser capaz de ser geolocalizado;
-- Funcionalidade testada;
-
-## US31 - Eu, como cidadão, desejo selecionar a localização de uma denúncia em sua criação, para que eu possa criá-la com mais acurácia em termos de geolocalização e para que a mesma apareça para os outros cidadãos que estejam perto da mesma
+## US30 - Eu, como cidadão, desejo selecionar a localização de uma denúncia em sua criação, para que eu possa criá-la com mais acurácia em termos de geolocalização e para que a mesma apareça para os outros cidadãos que estejam perto da mesma
 
 - O usuário deve ser capaz de, no formulário de denúncia, inserir em um componente de mapa a localização de sua denúncia;
 - O mapa deve se atualizar também para mostrar a localização do usuário;
@@ -219,13 +213,13 @@ Este artefato diz respeito a lista de critérios necessários para que as [hist�
 - Funcionalidade testada;
 - De acordo com o protótipo de alta fidelidade;
 
-## US32 - Eu, como cidadão desejo receber notificações sobre mudanças de status de uma denúncia que interagi com, para que eu possa estar informado sobre seu progresso
+## US31 - Eu, como cidadão desejo receber notificações sobre mudanças de status de uma denúncia que interagi com, para que eu possa estar informado sobre seu progresso
 
 - O usuário deve receber notificações _push_ de acordo com a mudança de progresso da denúncia;
 - Funcionalidade testada;
 - De acordo com o protótipo de alta fidelidade;
 
-## US33 - Eu, como cidadão, desejo receber uma notificação sobre o envio do relatório para o órgão responsável, para que eu tenha certeza de que o sistema esteja fazendo seu trabalho
+## US32 - Eu, como cidadão, desejo receber uma notificação sobre o envio do relatório para o órgão responsável, para que eu tenha certeza de que o sistema esteja fazendo seu trabalho
 
 - O usuário deve receber notificações _push_ de acordo com o envio do e-mail para o órgão responsável;
 - Funcionalidade testada;
