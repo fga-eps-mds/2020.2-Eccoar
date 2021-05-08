@@ -9,7 +9,7 @@
 
 Este artefato diz respeito a lista de critérios necessários para que as [histórias de usuário](./backlogProduto.md) sejam consideradas concluídas. Este artefato será concluído de acordo com a finalização da documentação de cada história.
 
-## US01 - EEu, como cidadão, desejo me cadastrar no Eccoar para que eu possa realizar anúncios e denúncias de problemas em minha comunidade
+## US01 - Eu, como cidadão, desejo me cadastrar no Eccoar para que eu possa realizar anúncios e denúncias de problemas em minha comunidade
 
 - O usuário deve poder se cadastrar, com Nome, sobrenome, senha, e-mail, telefone e CPF e endereço;
 - Funcionalidade testada;
@@ -215,12 +215,12 @@ Este artefato diz respeito a lista de critérios necessários para que as [hist�
 
 ## US31 - Eu, como cidadão desejo receber notificações sobre mudanças de status de uma denúncia que interagi com, para que eu possa estar informado sobre seu progresso
 
-- O usuário deve receber notificações _push_ de acordo com a mudança de progresso da denúncia;
+- O usuário deve receber notificações _e-mail_ de acordo com a mudança de progresso da denúncia;
 - Funcionalidade testada;
 - De acordo com o protótipo de alta fidelidade;
 
 ## US32 - Eu, como cidadão, desejo receber uma notificação sobre o envio do relatório para o órgão responsável, para que eu tenha certeza de que o sistema esteja fazendo seu trabalho
 
-- O usuário deve receber notificações _push_ de acordo com o envio do e-mail para o órgão responsável;
+- O usuário deve receber notificações _e-mail_ de acordo com o envio do e-mail para o órgão responsável;
 - Funcionalidade testada;
 - De acordo com o protótipo de alta fidelidade;
