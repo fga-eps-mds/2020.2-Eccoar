@@ -94,81 +94,116 @@
 |          | Rastreamento da Arquitetura       |
 |          | Protótipo - Tela de status        |
 |          | Definir arquitetura de CSS        |
+|          | Componente do front - Drawer      |
 
 ## Sprint 6
 
-| Sprint 6 | Issues e Histórias de Usuário              |
-| -------- | ------------------------------------------ |
-|          | US - Confirmação da Denúncia               |
-|          | US - Upvote em denúncia                    |
-|          | US - Composição de relatório               |
-|          | Terminar documentações para R1             |
-|          | Roteiro, slides e vídeo para entregar a R1 |
+| Sprint 6 | Issues e Histórias de Usuário                    |
+| -------- | ------------------------------------------------ |
+|          | US - Confirmação da Denúncia                     |
+|          | US - Upvote em denúncia                          |
+|          | US - Composição de relatório                     |
+|          | Terminar documentações para R1                   |
+|          | Roteiro, slides e vídeo para entregar a R1       |
+|          | Documento de modelo de maturidade de arquitetura |
 
 # RELEASE 2
 
 ## Sprint 7
 
-| Sprint 7 | Issues e Histórias de Usuário                      |
-| -------- | -------------------------------------------------- |
-|          | US - Detalhamento da denúncia                      |
-|          | US - Fechamento de denúncia resolvida e confirmada |
-|          | US - Envio de e-mail, por categoria e voto         |
+| Sprint 7 | Issues e Histórias de Usuário                                                |
+| -------- | ---------------------------------------------------------------------------- |
+|          | US - Detalhamento da denúncia                                                |
+|          | US - Upload de fotos                                                         |
+|          | US - Envio de e-mail, por categoria e voto                                   |
+|          | Configuração do Flaggr                                                       |
+|          | Implantar certificados HTTPS                                                 |
+|          | Esboço roadmap R2                                                            |
+|          | Adicionar Stage de coleta de métricas no CI                                  |
+|          | Coleta de contatos das ouvidorias                                            |
+|          | Pesquisa de quantidade de votos necessários para impulsionamento de denúncia |
 
 ## Sprint 8
 
-| Sprint 8 | Issues e Histórias de Usuário   |
-| -------- | ------------------------------- |
-|          | US - Filtro por voto            |
-|          | US - Criar conta de cidadão     |
-|          | US - Geolocalização de denúncia |
+| Sprint 8 | Issues e Histórias de Usuário                |
+| -------- | -------------------------------------------- |
+|          | Configuração do APK                          |
+|          | Configuração do ESLINT                       |
+|          | Seed de usuários no repositório de usuários  |
+|          | Configuração da Firebase                     |
+|          | Refatoração do front + testes                |
+|          | Refatoração do gateway + testes              |
+|          | Refatoração do complaint + testes            |
+|          | Refatoração do mailer + testes               |
+|          | Refatoração do reports + testes              |
+|          | Configuração do pathmapping nos repositórios |
 
 ## Sprint 9
 
-| Sprint 9 | Issues e Histórias de Usuário                                 |
-| -------- | ------------------------------------------------------------- |
-|          | US - Filtro de denúncia por localização de usuário e denúncia |
-|          | US - Filtro de denúncia por resolvidas                        |
-|          | US - Upload de imagens                                        |
-|          | US - Deletar denúncia                                         |
+| Sprint 9 | Issues e Histórias de Usuário          |
+| -------- | -------------------------------------- |
+|          | US - Retirada de votos de confirmações |
+|          | US - Deletar denúncia                  |
+|          | US - Criação de usuários               |
+|          | US - Geolocalização de denúncia        |
+|          | Configuração do sentry                 |
+|          | Configuração de migrações              |
+|          | Configuração do sendgrid               |
 
 ## Sprint 10
 
-| Sprint 10 | Issues e Histórias de Usuário     |
-| --------- | --------------------------------- |
-|           | US - Tirar fotos de dentro do app |
-|           | US - Filtro por categoria         |
-|           | US - Perfil de usuário            |
-|           | US - Deletar usuário              |
+| Sprint 10 | Issues e Histórias de Usuário                         |
+| --------- | ----------------------------------------------------- |
+|           | US - Filtro por localização de dispositivo            |
+|           | US - Login de usuário                                 |
+|           | US - Histórico de denúncias por usuários              |
+|           | Roteiro de testes de validação de proposta de negócio |
+|           | Planejamento de feature toggles                       |
+|           | Documentação gitflow                                  |
+|           | Revisão documento de arquitetura                      |
+|           | Revisão documento de implantação                      |
+|           | Documentar novo modelo de weekly                      |
 
 ## Sprint 11
 
-| Sprint 11 | Issues e Histórias de Usuário                       |
-| --------- | --------------------------------------------------- |
-|           | US - Filtro de denúncia por usuário                 |
-|           | US - Comentários em denúncia                        |
-|           | US - Perfil de usuário com informações de denúncias |
+| Sprint 11 | Issues e Histórias de Usuário          |
+| --------- | -------------------------------------- |
+|           | US - Automação de envio de e-mails     |
+|           | US - Filtro do feed de denúncias       |
+|           | Cobertura de testes                    |
+|           | Revisão dos CIs                        |
+|           | Implementar CI no repositório de Users |
+|           | Prototipar Landing page                |
 
 ## Sprint 12
 
-| Sprint 12 | Issues e Histórias de Usuário                       |
-| --------- | --------------------------------------------------- |
-|           | US - Notificação sobre envio para orgão responsável |
-|           | US - Notificação sobre mudança de status            |
-|           | US - Landing page                                   |
+| Sprint 12 | Issues e Histórias de Usuário                                           |
+| --------- | ----------------------------------------------------------------------- |
+|           | US - Perfil de usuário                                                  |
+|           | US - Filtro do feed de denúncias                                        |
+|           | Cobertura de testes                                                     |
+|           | Hotfix - feature flag do número de votos                                |
+|           | Revisão de backlog                                                      |
+|           | Revisão do EVM                                                          |
+|           | Criação do template de documentação da análise de dados                 |
+|           | Correção dos JSONs de release de acordo com modelo correto              |
+|           | Adição de etapa na pipeline para salvar jsons em repositório apropriado |
 
 ## Sprint 13
 
-| Sprint 13 | Issues e Histórias de Usuário                |
-| --------- | -------------------------------------------- |
-|           | US - Notificação sobre resolução do problema |
-|           | US - Notificações regulares sobre o status   |
-|           | US - Página sobre legislação                 |
-|           | Dívidas técnicas e refatorações de código    |
+| Sprint 13 | Issues e Histórias de Usuário                        |
+| --------- | ---------------------------------------------------- |
+|           | US - Landing page                                    |
+|           | Cobertura de testes                                  |
+|           | Análise das métricas das releases passadas de acordo |
+|           | Testes de usabilidades e coleta de métricas          |
+|           | Investigar duplicação de código no sonar             |
 
 ## Sprint 14
 
 | Sprint 14 | Issues e Histórias de Usuário                          |
 | --------- | ------------------------------------------------------ |
-|           | Dívidas técnicas e refatorações de código              |
+|           | US - Notificação de envio de relatório                 |
 |           | Finalizar documentações para apresentação da Release 2 |
+|           | Cobertura de testes                                    |
+|           | Gravação e edição da R2                                |
