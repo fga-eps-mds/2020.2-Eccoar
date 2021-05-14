@@ -15,7 +15,7 @@
 - Apesar do velocity parecer baixo, muitas issues em dívida técnica foram fechadas nessa sprint;
 - A grande quantidade de fechamento e issues nessa sprint, resultou em um aumento significativo do cycle time, tendo em vista que Issues abertas a bastante tempo atŕas foram fechadas e passaram a ser contabilizadas;
 - A própria Issue Battle foi considerada um risco, por poder resultar em uma equipe desgastada, além do time estar contando bastante que conseguiriam fechar uma grande quantidade de issues;
-- O gráfico deconhecimento continua a aumentar e o nível de conhecimento dos MDS está quase chegando no dos EPS, o que é muito legal de ver;
+- O gráfico de conhecimento continua a aumentar e o nível de conhecimento dos MDS está quase chegando no dos EPS, o que é muito legal de ver;
 - Os membros como um todo relatam estar bem cansados, deixando a moral do time bem baixa;
 
 ## Reports
