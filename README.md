@@ -43,7 +43,6 @@ Apresentamos um total de 6 repositórios de microserviços, sendo eles:
 | 190028122 | [Gabriel Sabanai](https://github.com/Sabanai104)    | Desenvolvedor |
 | 190033681 | [Luiz Henrique](https://github.com/luiz-herique)    | Desenvolvedor |
 | 150138202 | [Luiz Guilherme](https://github.com/LuizPettengill) | Desenvolvedor |
-| 200042327 | [Nicolas Chagas](https://github.com/nszchagas)      | Desenvolvedor |
 | 190020601 | [Victor Buendia](https://github.com/Victor-Buendia) | Desenvolvedor |
 
 <p align="center"><b>Grupo 2</b></p>
