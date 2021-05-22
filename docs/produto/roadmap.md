@@ -179,8 +179,8 @@
 
 | Sprint 12 | Issues e Histórias de Usuário                                           |
 | --------- | ----------------------------------------------------------------------- |
-|           | US - Perfil de usuário                                                  |
-|           | US - Filtro do feed de denúncias                                        |
+|           | US - Perfil de usuário (retirado do escopo)                             |
+|           | US - Filtro do feed de denúncias (retirado do escopo)                   |
 |           | Cobertura de testes                                                     |
 |           | Hotfix - feature flag do número de votos                                |
 |           | Revisão de backlog                                                      |
