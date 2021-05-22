@@ -193,17 +193,25 @@
 
 | Sprint 13 | Issues e Histórias de Usuário                        |
 | --------- | ---------------------------------------------------- |
-|           | US - Landing page                                    |
-|           | Cobertura de testes                                  |
+|           | US - Landing page (retirado do escopo)               |
+|           | Cobertura de testes (retirado do escopo)             |
 |           | Análise das métricas das releases passadas de acordo |
-|           | Testes de usabilidades e coleta de métricas          |
 |           | Investigar duplicação de código no sonar             |
+|           | Analytics: Confecção do notebook                     |
+|           | Analytics: métricas m1, m2, m3, m7, m8, m9           |
+|           | Analytics: Confecção do notebook                     |
+|           | Analytics: Dataframe e box-plot                      |
+|           | Analytics: Confecção do notebook                     |
+|           | Analytics: totalAC1 e totalAC2                       |
+|           | Analytics: Matriz de correlação das medidas          |
+|           | Analytics: Estatística descritiva                    |
 
 ## Sprint 14
 
-| Sprint 14 | Issues e Histórias de Usuário                          |
-| --------- | ------------------------------------------------------ |
-|           | US - Notificação de envio de relatório                 |
-|           | Finalizar documentações para apresentação da Release 2 |
-|           | Cobertura de testes                                    |
-|           | Gravação e edição da R2                                |
+| Sprint 14 | Issues e Histórias de Usuário                                    |
+| --------- | ---------------------------------------------------------------- |
+|           | US - Notificação de envio de relatório (retirado do escopo)      |
+|           | Testes de usabilidades e coleta de métricas (retirado do escopo) |
+|           | Finalizar documentações para apresentação da Release 2           |
+|           | Cobertura de testes                                              |
+|           | Gravação e edição da R2                                          |
