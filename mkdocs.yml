@@ -127,6 +127,7 @@ pages:
       - Earned Value Management: "projeto/evm.md"
   - Experiência do Usuário:
       - Teste de Usabilidade: "usuario/testesusabilidade.md"
+      - Testes de Aceitação e Proposta de Valor: "usuario/testesAceitacao.md"
 
   - Analytics:
       - Front-end: "analytics/front.md"
