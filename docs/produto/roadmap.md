@@ -2,10 +2,11 @@
 
 ## Histórico de Revisão
 
-| Autor                                              | Mudanças                     | Data     | Versão |
-| -------------------------------------------------- | ---------------------------- | -------- | ------ |
-| [Matheus Blanco](https://github.com/MatheusBlanco) | Criação do documento         | 15/03/21 | 0.1    |
-| [Matheus Blanco](https://github.com/MatheusBlanco) | Ajustes da ordem das tarefas | 21/03/21 | 0.2    |
+| Autor                                              | Mudanças                       | Data     | Versão |
+| -------------------------------------------------- | ------------------------------ | -------- | ------ |
+| [Matheus Blanco](https://github.com/MatheusBlanco) | Criação do documento           | 15/03/21 | 0.1    |
+| [Matheus Blanco](https://github.com/MatheusBlanco) | Ajustes da ordem das tarefas   | 21/03/21 | 0.2    |
+| [Matheus Blanco](https://github.com/MatheusBlanco) | Corrigindo tarefas priorizadas | 22/05/21 | 0.3    |
 
 # RELEASE 1
 
