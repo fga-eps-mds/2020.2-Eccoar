@@ -1,0 +1,2375 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Repositório da disciplina de EPS e MDS">
+      
+      
+      
+      
+      <link rel="icon" href="../../assets/img/favicon.ico">
+      <meta name="generator" content="mkdocs-1.1.2, mkdocs-material-7.1.5">
+    
+    
+      
+        <title>Testes de Aceitação e Proposta de Valor - EPS-MDS-2020-G2</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.bde7dde4.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ef6f36e2.min.css">
+        
+          
+          
+          <meta name="theme-color" content="#ffffff">
+        
+      
+    
+    
+    
+      
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,400i,700%7CRoboto+Mono&display=fallback">
+        <style>:root{--md-text-font-family:"Roboto";--md-code-font-family:"Roboto Mono"}</style>
+      
+    
+    
+    
+      <link rel="stylesheet" href="../../assets/css/landing-page.css">
+    
+      <link rel="stylesheet" href="../../assets/css/extra.css">
+    
+    
+      
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="white" data-md-color-accent="">
+  
+    
+    <script>function __prefix(e){return new URL("../..",location).pathname+"."+e}function __get(e,t=localStorage){return JSON.parse(t.getItem(__prefix(e)))}</script>
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#testes-de-aceitacao-do-produto-e-validacao-da-proposta-de-valor" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+      <header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="EPS-MDS-2020-G2" class="md-header__button md-logo" aria-label="EPS-MDS-2020-G2" data-md-component="logo">
+      
+  <img src="../../assets/img/isotipoBranco.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            EPS-MDS-2020-G2
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Testes de Aceitação e Proposta de Valor
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+      </label>
+      
+<div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" data-md-state="active" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+      </label>
+      <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41z"/></svg>
+      </button>
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        
+<a href="https://github.com/fga-eps-mds/EPS-2020-2-G2/" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="EPS-MDS-2020-G2" class="md-nav__button md-logo" aria-label="EPS-MDS-2020-G2" data-md-component="logo">
+      
+  <img src="../../assets/img/isotipoBranco.png" alt="logo">
+
+    </a>
+    EPS-MDS-2020-G2
+  </label>
+  
+    <div class="md-nav__source">
+      
+<a href="https://github.com/fga-eps-mds/EPS-2020-2-G2/" title="Go to repository" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Home
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../intro/" class="md-nav__link">
+        Introdução
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      <label class="md-nav__link" for="__nav_3">
+        Metodologia
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Metodologia" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Metodologia
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../metodologia/sprints/" class="md-nav__link">
+        Processos do Grupo
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../metodologia/comunicacao/" class="md-nav__link">
+        Ferramentas de Comunicação
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../metodologia/gerenciaRisco/" class="md-nav__link">
+        Gerenciamento de Riscos
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_4" type="checkbox" id="__nav_3_4" >
+      
+      <label class="md-nav__link" for="__nav_3_4">
+        Templates
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Templates" data-md-level="2">
+        <label class="md-nav__title" for="__nav_3_4">
+          <span class="md-nav__icon md-icon"></span>
+          Templates
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../metodologia/templates/planning/" class="md-nav__link">
+        Sprint Planning
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../metodologia/templates/review/" class="md-nav__link">
+        Sprint Review
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../metodologia/templates/retrospective/" class="md-nav__link">
+        Retrospectiva
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../metodologia/templates/analytics/" class="md-nav__link">
+        Análise de Dados
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" >
+      
+      <label class="md-nav__link" for="__nav_4">
+        Como contribuir
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Como contribuir" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          Como contribuir
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../contribuicao/contribuicao/" class="md-nav__link">
+        Como Contribuir?
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../contribuicao/conduta/" class="md-nav__link">
+        Código de Conduta
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../contribuicao/testes-front/" class="md-nav__link">
+        Testes no Front
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      <label class="md-nav__link" for="__nav_5">
+        Reuniões
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Reuniões" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          Reuniões
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5_1" type="checkbox" id="__nav_5_1" >
+      
+      <label class="md-nav__link" for="__nav_5_1">
+        06/02
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="06/02" data-md-level="2">
+        <label class="md-nav__title" for="__nav_5_1">
+          <span class="md-nav__icon md-icon"></span>
+          06/02
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reunioes/06-02/pauta/" class="md-nav__link">
+        Pauta
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reunioes/06-02/ata/" class="md-nav__link">
+        Ata
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reunioes/06-02/tarefas/" class="md-nav__link">
+        Tarefas
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5_2" type="checkbox" id="__nav_5_2" >
+      
+      <label class="md-nav__link" for="__nav_5_2">
+        07/02
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="07/02" data-md-level="2">
+        <label class="md-nav__title" for="__nav_5_2">
+          <span class="md-nav__icon md-icon"></span>
+          07/02
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reunioes/07-02/pauta/" class="md-nav__link">
+        Pauta
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reunioes/07-02/ata/" class="md-nav__link">
+        Ata
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5_3" type="checkbox" id="__nav_5_3" >
+      
+      <label class="md-nav__link" for="__nav_5_3">
+        08/02
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="08/02" data-md-level="2">
+        <label class="md-nav__title" for="__nav_5_3">
+          <span class="md-nav__icon md-icon"></span>
+          08/02
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reunioes/08-02/pauta/" class="md-nav__link">
+        Pauta
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../reunioes/08-02/ata/" class="md-nav__link">
+        Ata
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6" type="checkbox" id="__nav_6" >
+      
+      <label class="md-nav__link" for="__nav_6">
+        Sprints
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Sprints" data-md-level="1">
+        <label class="md-nav__title" for="__nav_6">
+          <span class="md-nav__icon md-icon"></span>
+          Sprints
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_1" type="checkbox" id="__nav_6_1" >
+      
+      <label class="md-nav__link" for="__nav_6_1">
+        Sprint 0
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Sprint 0" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_1">
+          <span class="md-nav__icon md-icon"></span>
+          Sprint 0
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/0/review/" class="md-nav__link">
+        Review
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/0/retrospectiva/" class="md-nav__link">
+        Retrospectiva
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_2" type="checkbox" id="__nav_6_2" >
+      
+      <label class="md-nav__link" for="__nav_6_2">
+        Sprint 1
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Sprint 1" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_2">
+          <span class="md-nav__icon md-icon"></span>
+          Sprint 1
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/1/planning/" class="md-nav__link">
+        Planning
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/1/review/" class="md-nav__link">
+        Review
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/1/retrospectiva/" class="md-nav__link">
+        Retrospectiva
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_3" type="checkbox" id="__nav_6_3" >
+      
+      <label class="md-nav__link" for="__nav_6_3">
+        Sprint 2
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Sprint 2" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_3">
+          <span class="md-nav__icon md-icon"></span>
+          Sprint 2
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/2/planning/" class="md-nav__link">
+        Planning
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/2/review/" class="md-nav__link">
+        Review
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/2/retrospectiva/" class="md-nav__link">
+        Retrospectiva
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_4" type="checkbox" id="__nav_6_4" >
+      
+      <label class="md-nav__link" for="__nav_6_4">
+        Sprint 3
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Sprint 3" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_4">
+          <span class="md-nav__icon md-icon"></span>
+          Sprint 3
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/3/planning/" class="md-nav__link">
+        Planning
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/3/review/" class="md-nav__link">
+        Review
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/3/retrospectiva/" class="md-nav__link">
+        Retrospectiva
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_5" type="checkbox" id="__nav_6_5" >
+      
+      <label class="md-nav__link" for="__nav_6_5">
+        Sprint 4
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Sprint 4" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_5">
+          <span class="md-nav__icon md-icon"></span>
+          Sprint 4
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/4/planning/" class="md-nav__link">
+        Planning
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/4/review/" class="md-nav__link">
+        Review
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/4/retrospectiva/" class="md-nav__link">
+        Retrospectiva
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_6" type="checkbox" id="__nav_6_6" >
+      
+      <label class="md-nav__link" for="__nav_6_6">
+        Sprint 5
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Sprint 5" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_6">
+          <span class="md-nav__icon md-icon"></span>
+          Sprint 5
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/5/planning/" class="md-nav__link">
+        Planning
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/5/review/" class="md-nav__link">
+        Review
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/5/retrospectiva/" class="md-nav__link">
+        Retrospectiva
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_7" type="checkbox" id="__nav_6_7" >
+      
+      <label class="md-nav__link" for="__nav_6_7">
+        Sprint 6
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Sprint 6" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_7">
+          <span class="md-nav__icon md-icon"></span>
+          Sprint 6
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/6/planning/" class="md-nav__link">
+        Planning
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/6/review/" class="md-nav__link">
+        Review
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/6/retrospectiva/" class="md-nav__link">
+        Retrospectiva
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_8" type="checkbox" id="__nav_6_8" >
+      
+      <label class="md-nav__link" for="__nav_6_8">
+        Sprint 7
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Sprint 7" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_8">
+          <span class="md-nav__icon md-icon"></span>
+          Sprint 7
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/7/planning/" class="md-nav__link">
+        Planning
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/7/review/" class="md-nav__link">
+        Review
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/7/retrospectiva/" class="md-nav__link">
+        Retrospectiva
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_9" type="checkbox" id="__nav_6_9" >
+      
+      <label class="md-nav__link" for="__nav_6_9">
+        Sprint 8
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Sprint 8" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_9">
+          <span class="md-nav__icon md-icon"></span>
+          Sprint 8
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/8/planning/" class="md-nav__link">
+        Planning
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/8/review/" class="md-nav__link">
+        Review
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/8/retrospectiva/" class="md-nav__link">
+        Retrospectiva
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_10" type="checkbox" id="__nav_6_10" >
+      
+      <label class="md-nav__link" for="__nav_6_10">
+        Sprint 9
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Sprint 9" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_10">
+          <span class="md-nav__icon md-icon"></span>
+          Sprint 9
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/9/planning/" class="md-nav__link">
+        Planning
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/9/review/" class="md-nav__link">
+        Review
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/9/retrospectiva/" class="md-nav__link">
+        Retrospectiva
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_11" type="checkbox" id="__nav_6_11" >
+      
+      <label class="md-nav__link" for="__nav_6_11">
+        Sprint 10
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Sprint 10" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_11">
+          <span class="md-nav__icon md-icon"></span>
+          Sprint 10
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/10/planning/" class="md-nav__link">
+        Planning
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/10/review/" class="md-nav__link">
+        Review
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/10/retrospectiva/" class="md-nav__link">
+        Retrospectiva
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_12" type="checkbox" id="__nav_6_12" >
+      
+      <label class="md-nav__link" for="__nav_6_12">
+        Sprint 11
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Sprint 11" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_12">
+          <span class="md-nav__icon md-icon"></span>
+          Sprint 11
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/11/planning/" class="md-nav__link">
+        Planning
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/11/review/" class="md-nav__link">
+        Review
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/11/retrospectiva/" class="md-nav__link">
+        Retrospectiva
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_13" type="checkbox" id="__nav_6_13" >
+      
+      <label class="md-nav__link" for="__nav_6_13">
+        Sprint 12
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Sprint 12" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_13">
+          <span class="md-nav__icon md-icon"></span>
+          Sprint 12
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/12/planning/" class="md-nav__link">
+        Planning
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/12/review/" class="md-nav__link">
+        Review
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/12/retrospectiva/" class="md-nav__link">
+        Retrospectiva
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_6_14" type="checkbox" id="__nav_6_14" >
+      
+      <label class="md-nav__link" for="__nav_6_14">
+        Sprint 13
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Sprint 13" data-md-level="2">
+        <label class="md-nav__title" for="__nav_6_14">
+          <span class="md-nav__icon md-icon"></span>
+          Sprint 13
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../sprints/13/planning/" class="md-nav__link">
+        Planning
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7" type="checkbox" id="__nav_7" >
+      
+      <label class="md-nav__link" for="__nav_7">
+        Produto
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Produto" data-md-level="1">
+        <label class="md-nav__title" for="__nav_7">
+          <span class="md-nav__icon md-icon"></span>
+          Produto
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../produto/documento-visao/" class="md-nav__link">
+        Documento de Visão
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../produto/roadmap/" class="md-nav__link">
+        Roadmap do Produto
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../produto/identidadevisual/" class="md-nav__link">
+        Identidade Visual
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../produto/prototipo/" class="md-nav__link">
+        Protótipo
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../produto/lean-inception/" class="md-nav__link">
+        Lean inception
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7_6" type="checkbox" id="__nav_7_6" >
+      
+      <label class="md-nav__link" for="__nav_7_6">
+        Extras
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Extras" data-md-level="2">
+        <label class="md-nav__title" for="__nav_7_6">
+          <span class="md-nav__icon md-icon"></span>
+          Extras
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../produto/extras/calculoVotos/" class="md-nav__link">
+        Cálculo para contagem de votos
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7_7" type="checkbox" id="__nav_7_7" >
+      
+      <label class="md-nav__link" for="__nav_7_7">
+        Backlog e Critérios de Aceitação
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Backlog e Critérios de Aceitação" data-md-level="2">
+        <label class="md-nav__title" for="__nav_7_7">
+          <span class="md-nav__icon md-icon"></span>
+          Backlog e Critérios de Aceitação
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../produto/backlogAceitacao/backlogProduto/" class="md-nav__link">
+        Backlog do Produto
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../produto/backlogAceitacao/criteriosAceitacao/" class="md-nav__link">
+        Critérios de Aceitação
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_7_8" type="checkbox" id="__nav_7_8" >
+      
+      <label class="md-nav__link" for="__nav_7_8">
+        Requisitos
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Requisitos" data-md-level="2">
+        <label class="md-nav__title" for="__nav_7_8">
+          <span class="md-nav__icon md-icon"></span>
+          Requisitos
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../produto/requisitos/requisitosQuestionario/" class="md-nav__link">
+        Requisitos questionário
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../produto/requisitos/benchmarking/" class="md-nav__link">
+        Requisitos benchmarking
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_8" type="checkbox" id="__nav_8" >
+      
+      <label class="md-nav__link" for="__nav_8">
+        Projeto
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Projeto" data-md-level="1">
+        <label class="md-nav__title" for="__nav_8">
+          <span class="md-nav__icon md-icon"></span>
+          Projeto
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../projeto/tap/" class="md-nav__link">
+        Termo de Abertura do Projeto
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../projeto/documento-arquitetura/" class="md-nav__link">
+        Documento de Arquitetura
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../projeto/rastro-arquitetura/" class="md-nav__link">
+        Rastros da Arquitetura
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../projeto/evm/" class="md-nav__link">
+        Earned Value Management
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_9" type="checkbox" id="__nav_9" checked>
+      
+      <label class="md-nav__link" for="__nav_9">
+        Experiência do Usuário
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Experiência do Usuário" data-md-level="1">
+        <label class="md-nav__title" for="__nav_9">
+          <span class="md-nav__icon md-icon"></span>
+          Experiência do Usuário
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../testesusabilidade/" class="md-nav__link">
+        Teste de Usabilidade
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Testes de Aceitação e Proposta de Valor
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Testes de Aceitação e Proposta de Valor
+      </a>
+      
+        
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-revisao" class="md-nav__link">
+    Histórico de Revisão
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#escolha-do-grupo-focal" class="md-nav__link">
+    Escolha do grupo focal
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#goals-metrics-e-questions" class="md-nav__link">
+    Goals, Metrics e Questions
+  </a>
+  
+    <nav class="md-nav" aria-label="Goals, Metrics e Questions">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#goal-1-criar-um-sistema-de-facil-utilizacao-e-que-o-usuario-consiga-interagir-com-o-minimo-de-esforco-possivel" class="md-nav__link">
+    Goal 1: Criar um sistema de fácil utilização e que o usuário consiga interagir com o mínimo de esforço possível.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#goal-2-aproximar-a-populacao-de-comunidades-do-df-com-orgaos-publicos-estatais-ou-privados-para-que-os-problemas-de-ditas-comunidades-possam-ser-resolvidos" class="md-nav__link">
+    Goal 2: Aproximar a população de comunidades do DF com órgãos públicos, estatais ou privados para que os problemas de ditas comunidades possam ser resolvidos
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#preparacao-cenario-e-roteiro" class="md-nav__link">
+    Preparação, cenário e roteiro
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resultados" class="md-nav__link">
+    Resultados
+  </a>
+  
+    <nav class="md-nav" aria-label="Resultados">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#o-gqm-foi-completo" class="md-nav__link">
+    O GQM Foi completo?
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_10" type="checkbox" id="__nav_10" >
+      
+      <label class="md-nav__link" for="__nav_10">
+        Analytics
+        <span class="md-nav__icon md-icon"></span>
+      </label>
+      <nav class="md-nav" aria-label="Analytics" data-md-level="1">
+        <label class="md-nav__title" for="__nav_10">
+          <span class="md-nav__icon md-icon"></span>
+          Analytics
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analytics/front/" class="md-nav__link">
+        Front-end
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analytics/gateway/" class="md-nav__link">
+        Gateway
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analytics/complaint/" class="md-nav__link">
+        Complaint
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analytics/users/" class="md-nav__link">
+        Users
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analytics/mailer/" class="md-nav__link">
+        Mailer
+      </a>
+    </li>
+  
+
+          
+            
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../analytics/reports/" class="md-nav__link">
+        Reports
+      </a>
+    </li>
+  
+
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-revisao" class="md-nav__link">
+    Histórico de Revisão
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#introducao" class="md-nav__link">
+    Introdução
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#escolha-do-grupo-focal" class="md-nav__link">
+    Escolha do grupo focal
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#goals-metrics-e-questions" class="md-nav__link">
+    Goals, Metrics e Questions
+  </a>
+  
+    <nav class="md-nav" aria-label="Goals, Metrics e Questions">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#goal-1-criar-um-sistema-de-facil-utilizacao-e-que-o-usuario-consiga-interagir-com-o-minimo-de-esforco-possivel" class="md-nav__link">
+    Goal 1: Criar um sistema de fácil utilização e que o usuário consiga interagir com o mínimo de esforço possível.
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#goal-2-aproximar-a-populacao-de-comunidades-do-df-com-orgaos-publicos-estatais-ou-privados-para-que-os-problemas-de-ditas-comunidades-possam-ser-resolvidos" class="md-nav__link">
+    Goal 2: Aproximar a população de comunidades do DF com órgãos públicos, estatais ou privados para que os problemas de ditas comunidades possam ser resolvidos
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#preparacao-cenario-e-roteiro" class="md-nav__link">
+    Preparação, cenário e roteiro
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#resultados" class="md-nav__link">
+    Resultados
+  </a>
+  
+    <nav class="md-nav" aria-label="Resultados">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#o-gqm-foi-completo" class="md-nav__link">
+    O GQM Foi completo?
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+                  <a href="https://github.com/fga-eps-mds/EPS-2020-2-G2/edit/master/docs/usuario/testesAceitacao.md" title="Edit this page" class="md-content__button md-icon">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20.71 7.04c.39-.39.39-1.04 0-1.41l-2.34-2.34c-.37-.39-1.02-.39-1.41 0l-1.84 1.83 3.75 3.75M3 17.25V21h3.75L17.81 9.93l-3.75-3.75L3 17.25z"/></svg>
+                  </a>
+                
+                
+                <h1 id="testes-de-aceitacao-do-produto-e-validacao-da-proposta-de-valor">Testes de Aceitação do Produto e validação da proposta de valor</h1>
+<h2 id="historico-de-revisao">Histórico de Revisão</h2>
+<table>
+<thead>
+<tr>
+<th>Autor</th>
+<th>Mudanças</th>
+<th>Data</th>
+<th>Versão</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://github.com/MatheusBlanco">Matheus Blanco</a></td>
+<td>Criação do documento</td>
+<td>23/05/21</td>
+<td>0.1</td>
+</tr>
+</tbody>
+</table>
+<h2 id="introducao">Introdução</h2>
+<p>Este documento foi criado com o objetivo de documentar o processo de realização de testes de aceitação do produto criado pela equipe durante o semestre. A partir da utilização da metodologia <em>GQM</em> (<em>Goals, Metrics, Questions</em>), dos conceitos de usabilidade apresentados e discutidos nos materiais providos pelo professor da disciplina, e da visão do produto que o projeto procurava alcançar em seu estado final de maturidade, a equipe definiu diretrizes e tarefas que deveriam ser aplicadas com usuários reais, dentro de um grupo focal, para que os mesmos pudessem passar percepções variadas e consolidadas de usabilidade e de valor de negócio em cima da utilização do <em>Eccoar</em>. Assim, pretende-se apresentar neste documento, todos os aspectos relevantes aos testes de aceitação realizados com dito público.</p>
+<h2 id="escolha-do-grupo-focal">Escolha do grupo focal</h2>
+<p>O grupo focal com o qual os testes foram realizados escolhido foi o de familiares imediatos, como pai, mãe, tios. Essas pessoas foram escolhidas com base em dois fatores principais, um deles relativo à natureza do público-alvo do <em>Eccoar</em> e sua natureza de utilização, e o outro com base no contexto de vida em que nos encontramos hoje em dia. Portanto, o grupo focal foi escolhido com base nos seguintes fatores:</p>
+<ul>
+<li>Familiares imediatos são pessoas que estão em contato direto com os membros da equipe, de maneira que os mesmos não precisariam se arriscar a sair da segurança de seus lares para realizarem testes pessoais com outras pessoas. Testes virtuais poderiam ser realizados, mas acredita-se que a eficácia do mesmo não seria a mesma de um teste presencial;</li>
+<li>Pelo fato do <em>Eccoar</em> ter sido pensado para ser utilizado por moradores de comunidades que pretendem contribuir com a segurança e melhoramento de suas vizinhanças a partir da postagem de denúncias e afins, entende-se que o público alvo do mesmo é extremamente abrangente, e que pais, mães, tios, avós e afins poderiam ser um público de interesse para o teste, pelo fato de possuirem o interesse, como progenitores e/ou guardiões legais de menores de idade, de resguardarem a saúde e a segurança dos mesmos, estando mais inclinados a agirem em prol dessa segurança, com o <em>Eccoar</em> como uma alternativa.</li>
+</ul>
+<h2 id="goals-metrics-e-questions">Goals, Metrics e Questions</h2>
+<p>O teste possuiria dois objetivos principais, o primeiro baseado na coleta de percepções dos usuários em relação à interface de usuário, principalmente interatividade, quantidade de informações, estética e consistência da identidade visual em todo o projeto. Os usuários passariam pelas tarefas e avaliariam o elemento do software relativo a tal tarefa de acordo com sua eficácia, facilidade de realização da atividade e satisfação geral com a interface do programa [1]. A partir disso, poderíamos coletar <em>feedbacks</em> de interatividade e usabilidade gerais que anteriormente não teríamos visto durante a realização do projeto. Os resultados coletados se mostraram essenciais para o melhor entendimento das falhas e serão apresentados posteriormente.</p>
+<p>O segundo objetivo seria mais personalizado e baseado na visão do produto do <em>Eccoar</em>, a qual afirmava:</p>
+<p><strong>Para comunidades e seus moradores cujo problema se encontra na demora e burocracia na de resolução de problemas o Eccoar é um PWA de denúncias para problemas de natureza pública que visa aumentar a visibilidade para os problemas e facilitar a comunicação entre o governo, orgãos responsáveis e o povo, e diferentemente do Colab o nosso produto coleta informações sobre o problema e os envia diretamente para o estado, facilitando o relato de problemas, assim, removendo a necessidade da comunidade se comunicar com orgãos públicos</strong></p>
+<p>Assim, esse objetivo tinha como visão avaliar, a partir da interação com o usuário, se o produto criado era capaz de se mostrar um concorrente ao <em>Colab</em> capaz de ser utilizado pela população do DF. Para isso, não apenas as funcionalidades gerais do <em>Eccoar</em> seriam avaliadas, mas também seriam comparadas com o <em>Colab</em>, de maneira que o usuário pudesse entender quais são os pontos fortes e falhos das duas aplicações, e como o <em>Eccoar</em> fornece uma abordagem diferente à comunicação com o governo realizada pelo <em>Colab</em>. Em especial, esta última etapa foi de suma importância, pois o <em>Eccoar</em> não se limitava à aplicação no celular do usuário, sendo que o resultado principal de sua utilização se encontra no relatório gerado e como o mesmo poderia ser de valor para os órgãos públicos que os receberiam, quando o <em>Colab</em> em contrapartida permitiria ao governo possuir uma conta governamental em sua aplicação para que pudessem olhar as ocorrências postadas.</p>
+<p>O formato final do GQM foi o apresentado a seguir:</p>
+<h3 id="goal-1-criar-um-sistema-de-facil-utilizacao-e-que-o-usuario-consiga-interagir-com-o-minimo-de-esforco-possivel">Goal 1: Criar um sistema de fácil utilização e que o usuário consiga interagir com o mínimo de esforço possível.</h3>
+<p><strong>Question 1 - O sistema é fácil de ser utilizado pelo seu público-alvo?</strong></p>
+<p>Métrica:</p>
+<ul>
+<li>Média das notas de facilidade de realização das tarefas do Eccoar (em porcentagem)</li>
+</ul>
+<p><strong>Question 2 - O sistema possui uma interface amigável e explicativa?</strong></p>
+<p>Métricas:</p>
+<ul>
+<li>Média da notas de informações explicativas dentro do software (em porcentagem)</li>
+<li>Média da nota dada à estética dos elementos do software, em relação a facilidade de se identificar e destacar um elemento do outro (em porcentagem)</li>
+</ul>
+<h3 id="goal-2-aproximar-a-populacao-de-comunidades-do-df-com-orgaos-publicos-estatais-ou-privados-para-que-os-problemas-de-ditas-comunidades-possam-ser-resolvidos">Goal 2: Aproximar a população de comunidades do DF com órgãos públicos, estatais ou privados para que os problemas de ditas comunidades possam ser resolvidos</h3>
+<p><strong>Question 1 - O sistema é capaz de fazer a comunicação entre os moradores de comunidades e órgãos públicos de maneira eficaz?</strong></p>
+<p>Métrica:</p>
+<ul>
+<li>Média das notas dadas pelos usuários em relação a utilização do sistema Eccoar</li>
+</ul>
+<p><strong>Question 2 - O sistema é capaz de competir com o concorrente COLAB?</strong></p>
+<p>Métrica:</p>
+<ul>
+<li>Diferença entre as notas gerais dadas pelos usuários para utilização das aplicações do sistema do Eccoar e do COLAB</li>
+</ul>
+<h2 id="preparacao-cenario-e-roteiro">Preparação, cenário e roteiro</h2>
+<p>Para a realização dos testes, algumas preparações tiveram de ser realizadas pela equipe. A primeira delas foi a de baixar o <em>Colab</em> e identificar as características do mesmo que o tornavam parecido com o <em>Eccoar</em>. Pelo fato do teste ser realizado inteiramente em comparação de um sistema com o outro, as atividades deveriam ser em sua maior parte parecidas, ou surtirem o mesmo efeito. A quantidade final de atividades selecionadas acabou se mostrando pequena, pois o <em>Eccoar</em> possuia alguns aspectos que o <em>Colab</em> não possuia, e vice-e-versa. Algumas tarefas extras foram escolhidas, de maneira a exaltar pontos positivos do <em>Eccoar</em>, em relação a usabilidade, e uma tarefa foi pensada de maneira a mostrar ao usuário como estava sendo realizada a interação do governo com as ocorrências postadas no <em>Colab</em>, como o <em>Eccoar</em> pretendia abordar essa interação e qual seria a opinião do usuário em relação a esta nova abordagem.</p>
+<p>Além disso, um roteiro e uma tabela foram criados para que a equipe pudesse entender quais são as etapas e anotar os resultados.</p>
+<h2 id="resultados">Resultados</h2>
+<p>Após a realização dos testes e a análises dos valores coletados, puderam-se perceber alguns pontos de importância. O primeiro deles é que o <em>Colab</em> não estava funcionando durante os primeiros testes, o que se mostrou positivo, até certo ponto, para o <em>Eccoar</em>, pois mostrava para o usuário que o nosso produto poderia se tornar uma concorrência viável ao existente. Entretanto, isso também se mostrou negativo pelo fato de o <em>Colab</em> não estar funcionando corretamente, os usuários não poderem avaliar corretamente o funcionamento dos dois. Felizmente, o <em>Colab</em> voltou a funcionar e os testes puderam ser realizados com maior acurácia.</p>
+<p>Outro ponto de visibilidade é que o <em>Eccoar</em> se mostrou extremamente imaturo, em relação ao <em>Colab</em>, quanto a elementos de usabilidade e comunicação com o usuário, sendo esses os maiores feedbacks de melhorias dados pelos participantes dos testes. Informações importantes que poderiam ter sido passadas ao usuário não estava presentes, ou não apareceram por alguma falha. Em um caso, foi mostrado ao usuário a tela com informações de produto do <em>Eccoar</em> e explicado que a mesma não pode ser adicionada por cortes no escopo, mas o impacto que a falta da mesma teve se mostrou visível na interação do usuário com o sistema.</p>
+<p>Um ponto positivo para o <em>Eccoar</em> foi percebido em sua proposta de valor. Apesar dos problemas existentes em interatividade, os usuários enxergaram que com mudanças e aprimoramentos nos elementos visuais e interativos do <em>Eccoar</em>, o mesmo poderia se tornar um aplicativo de bastante potencial de uso. Sendo assim, acredita-se que a visão do produto poderia ser alcançada com o <em>Eccoar</em>, caso o mesmo fosse utilizado em escala regional em todo o DF.</p>
+<p>Apresenta-se abaixo as tabelas com os valores coletados durante os testes de usabilidade, juntamente dos principais feedbacks dados pelos usuários durante os testes e anotados pelos entrevistadores.</p>
+<p>Um dos testes infelizmente não pode ser concluído, pois o computador do membro passou por problemas durante a realização do mesmo, de maneira que apenas metade os resultados foram coletados.</p>
+<p>Abaixo, apresenta-se a tabela com os resultados coletados:</p>
+<iframe src="https://docs.google.com/spreadsheets/d/1VjCRBiOyqPTHOzv_BBj08WT0tYlJUXM4YF2d0NxCmBg/edit?usp=sharing" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+<h3 id="o-gqm-foi-completo">O GQM Foi completo?</h3>
+<p>Goal 1:</p>
+<ul>
+<li>Question 1:</li>
+</ul>
+<p>-&gt; Métrica 1 - 86,67%. Sim, mas apesar da nota geral ser boa, notou-se que os elementos de usabilidade possuíam pontos de melhoria, principalmente relativo a informações dadas aos usuários nas telas.</p>
+<ul>
+<li>Question 2:</li>
+</ul>
+<p>-&gt; Métrica 1 - 73,33%. Não, as informações dentro do software se mostraram insuficientes para que o mesmo fosse utizado sem explicações adicionais, principalmente na tela principal.</p>
+<p>-&gt; Métrica 2 - 76,67%. Sim, mas com ressalvas. Os elementos estéticos foram considerados agradáveis, mas os feedbacks sobre a quantidade de informações foi mais proeminente e acabou afetando a nota desta métrica</p>
+<p>Goal 2:</p>
+<ul>
+<li>Question 1:</li>
+</ul>
+<p>-&gt; Métrica 1 - 68,71%. Sim, apesar das notas pouco positivas em relação a estética do produto, essa nota teve bastante impacto dos relatórios enviados e da abordagem diferente de se realizar a comunicação com os órgãos públicos, o que mostrou aos usuários o potencial futuro do <em>Eccoar</em>.</p>
+<ul>
+<li>Question 2:</li>
+</ul>
+<p>-&gt; Métrica 2 - A nota final dada ao <em>Eccoar</em> foi de 24% a mais do que a dada ao <em>Colab</em>. Isso mostrou a recepção positiva ao produto da equipe, acredita-se que o Goal foi atingido e que a visão do produto poderia ser completada em um cenário de utilização real no DF.</p>
+<h1 id="referencias-bibliograficas">Referências Bibliográficas</h1>
+<p>[1] - FENTON, Norman; BIEMAN, James. Software Metrics: A Rigorous and Practical Approach. In: SOFTWARE Metrics. [S. l.: s. n.], [20--]. cap. 10, p. 441-474. Disponível em: https://drive.google.com/file/d/1ItpsmWwHqbSn7KSf223i7pQkIRxhW_tJ/view. Acesso em: 30 abr. 2021.</p>
+<p>TOSHIAKI SATO, Danilo. Uso eficaz de m´etricas em m´etodos ´ageis de desenvolvimento de software. Agosto de 2007. Dissertação (Mestrado em Ciência da Computação) - Instituto de Matemática e Estatística, Universidade de São Paulo, [S. l.], Agosto de 2007.</p>
+                
+              
+              
+                
+
+
+              
+            </article>
+          </div>
+        </div>
+        
+      </main>
+      
+        
+<footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Footer">
+      
+        <a href="../testesusabilidade/" class="md-footer__link md-footer__link--prev" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              Teste de Usabilidade
+            </div>
+          </div>
+        </a>
+      
+      
+        <a href="../../analytics/front/" class="md-footer__link md-footer__link--next" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              Front-end
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-footer-copyright">
+        
+          <div class="md-footer-copyright__highlight">
+            Copyright &copy; 2021, <a href="https://github.com/fga-eps-mds/EPS-2020-2-G2">EPS-MDS-2020-G2</a>.
+          </div>
+        
+        Made with
+        <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+          Material for MkDocs
+        </a>
+        
+      </div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "../..", "features": [], "translations": {"clipboard.copy": "Copy to clipboard", "clipboard.copied": "Copied to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.placeholder": "Type to start searching", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.term.missing": "Missing"}, "search": "../../assets/javascripts/workers/search.d351de03.min.js", "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.a1609d9a.min.js"></script>
+      
+        <script src="../../assets/js/jquery.min.js"></script>
+      
+        <script src="../../assets/js/jquery.zoom.min.js"></script>
+      
+        <script src="../../assets/js/extra.js"></script>
+      
+    
+  </body>
+</html>

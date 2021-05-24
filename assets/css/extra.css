@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300&family=Spartan:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Spartan', Roboto;
+    font-weight: 900;
+    text-align: center;
+}
+
+.md-search__icon[for=__search] {
+    color: #F8F8F8 !important;
+}
+
+.md-main {
+    background-color: #F8F8F8;
+}
+
+.md-typeset__scrollwrap{
+    display: flex;
+    justify-content: center;
+}
+
+.md-typeset__table table {
+    border-radius: 20px !important;
+}
+
+th, td {
+    background: #F8F8F8;
+}
+
+p {
+    text-align: justify
+}
+p {
+    text-indent: 30px;
+}
+
+li p {
+    text-indent: 0;
+}
+
+
+h4 {
+    font-weight: 500 !important;
+    color: rgba(0,0,0,0.7);
+}
+
+body {
+    color: rgba(0, 0, 0, 1);
+    font-family: 'Montserrat', sans-serif;
+}
+
+.md-header {
+    background: linear-gradient(90deg, #F55050, #F87171);
+    color: #F8F8F8 !important;
+}
+
+.md-header-nav__button.md-logo img, .md-header-nav__button.md-logo svg{
+    width: 4.3rem;
+    height: 1.3rem;
+}
+
+.md-typeset thead{
+    width: 50%;
+}
+
+.hoverable {
+    box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 1px 5px 0 rgba(0, 0, 0, 0.12), 0 3px 1px -2px rgba(0, 0, 0, 0.2);
+    transition: all 0.25s ease-out;
+}
+
+
+.hoverable:hover {
+    box-shadow: 0px 7px 8px -4px rgba(0, 0, 0, 0.2), 0px 12px 17px 2px rgba(0, 0, 0, 0.14), 0px 5px 22px 4px rgba(0, 0, 0, 0.12) !important;
+    cursor: move;
+}
+
+::placeholder {
+    color: #F8F8F8 !important; 
+} 
+
+.md-container {
+    background: #F8F8F8;
+}
+
+.md-typeset table thead tr {
+    background: linear-gradient(90deg, #F55050, #F87171);
+    color: #F8F8F8;
+}
+
+.md-typeset table thead th {
+    background-color: transparent !important;
+    color: #F8F8F8;
+}
+
+img[role="presentation"] {
+    background: #F8F8F8;
+}
